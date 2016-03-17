@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  MapViewController.swift
 //  OpenData
 //
 //  Created by Walter Tyree on 3/17/16.
@@ -7,9 +7,12 @@
 //
 
 import UIKit
+import MapKit
 
-class FirstViewController: UIViewController {
+class MapViewController: UIViewController {
 
+    @IBOutlet weak var mapView : MKMapView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
