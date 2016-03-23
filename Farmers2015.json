@@ -1,0 +1,974 @@
+[ {
+  "link_accepted" : "Y",
+  "intersection" : "18th St. & Blue Island Ave.",
+  "end_date" : "2015-09-02T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "8:00 PM",
+  "location" : "Pilsen Night Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6611589",
+    "latitude" : "41.8578656"
+  },
+  "start_time" : "4:00 PM",
+  "longitude" : "-87.6611589",
+  "latitude" : "41.8578656",
+  "day" : "Wednesday",
+  "type" : "Neighborhood",
+  "start_date" : "2015-07-08T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "Harrison & Central",
+  "end_date" : "2015-09-29T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "7:00 PM",
+  "location" : "Columbus Park",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.76501013",
+    "latitude" : "41.87263635"
+  },
+  "start_time" : "2:00 PM",
+  "longitude" : "-87.76501013",
+  "latitude" : "41.87263635",
+  "day" : "Tuesday",
+  "type" : "Neighborhood",
+  "start_date" : "2015-06-30T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "Lincoln & Belle Plaine",
+  "end_date" : "2015-10-24T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Northcenter",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.67910157",
+    "latitude" : "41.95597563"
+  },
+  "start_time" : "7:00 AM",
+  "longitude" : "-87.67910157",
+  "latitude" : "41.95597563",
+  "day" : "Saturday",
+  "type" : "Neighborhood",
+  "start_date" : "2015-06-13T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "Dearborn & Polk",
+  "end_date" : "2015-10-24T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Printers Row",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6291295",
+    "latitude" : "41.87228245"
+  },
+  "start_time" : "7:00 AM",
+  "longitude" : "-87.6291295",
+  "latitude" : "41.87228245",
+  "day" : "Saturday",
+  "type" : "Neighborhood",
+  "start_date" : "2015-06-20T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "Lake & Kedzie",
+  "end_date" : "2015-10-10T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Garfield Park (Monthly on 2nd Saturdays)",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7062339",
+    "latitude" : "41.8848705"
+  },
+  "start_time" : "10:00 AM",
+  "longitude" : "-87.7062339",
+  "latitude" : "41.8848705",
+  "day" : "Saturday",
+  "type" : "Neighborhood",
+  "start_date" : "2015-06-13T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "Lake & Kedzie",
+  "end_date" : "2015-10-15T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Garfield Park (Monthly on 3rd Thursdays)",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7062339",
+    "latitude" : "41.8848705"
+  },
+  "start_time" : "10:00 AM",
+  "longitude" : "-87.7062339",
+  "latitude" : "41.8848705",
+  "day" : "Thursday",
+  "type" : "Neighborhood",
+  "start_date" : "2015-06-18T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "Lincoln/Leland/Western",
+  "end_date" : "2015-10-27T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Lincoln Square",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.68874981",
+    "latitude" : "41.96648354"
+  },
+  "start_time" : "7:00 AM",
+  "longitude" : "-87.68874981",
+  "latitude" : "41.96648354",
+  "day" : "Tuesday",
+  "type" : "Neighborhood",
+  "start_date" : "2015-06-02T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "Division & Dearborn",
+  "end_date" : "2015-10-31T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Division Street",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62998609",
+    "latitude" : "41.90392319"
+  },
+  "start_time" : "7:00 AM",
+  "longitude" : "-87.62998609",
+  "latitude" : "41.90392319",
+  "day" : "Saturday",
+  "type" : "Neighborhood",
+  "start_date" : "2015-05-09T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "1333 N. Laramie Ave.",
+  "end_date" : "2015-09-30T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "7:00 PM",
+  "location" : "La Follette Park",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.75555328",
+    "latitude" : "41.90504906"
+  },
+  "start_time" : "2:00 PM",
+  "longitude" : "-87.75555328",
+  "latitude" : "41.90504906",
+  "day" : "Wednesday",
+  "type" : "Neighborhood",
+  "start_date" : "2015-07-01T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "Armitage & Orchard",
+  "end_date" : "2015-10-31T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Lincoln Park",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.646017",
+    "latitude" : "41.918257"
+  },
+  "start_time" : "7:00 AM",
+  "longitude" : "-87.646017",
+  "latitude" : "41.918257",
+  "day" : "Saturday",
+  "type" : "Neighborhood",
+  "start_date" : "2015-06-06T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "Lake & Central",
+  "end_date" : "2015-10-01T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "7:00 PM",
+  "location" : "Austin Town Hall",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.76525281",
+    "latitude" : "41.88784113"
+  },
+  "start_time" : "2:00 PM",
+  "longitude" : "-87.76525281",
+  "latitude" : "41.88784113",
+  "day" : "Saturday",
+  "type" : "Neighborhood",
+  "start_date" : "2015-07-02T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "Washington & Dearborn",
+  "end_date" : "2015-10-29T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "3:00 PM",
+  "location" : "Daley Plaza",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63001202",
+    "latitude" : "41.88346159"
+  },
+  "start_time" : "7:00 AM",
+  "longitude" : "-87.63001202",
+  "latitude" : "41.88346159",
+  "day" : "Thursday",
+  "type" : "Downtown",
+  "start_date" : "2015-05-14T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "Adams & Dearborn",
+  "end_date" : "2015-10-27T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "3:00 PM",
+  "location" : "Federal Plaza",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.62961735",
+    "latitude" : "41.87912229"
+  },
+  "start_time" : "7:00 AM",
+  "longitude" : "-87.62961735",
+  "latitude" : "41.87912229",
+  "day" : "Tuesday",
+  "type" : "Downtown",
+  "start_date" : "2015-05-19T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "111th & Cottage Grove",
+  "end_date" : "2015-10-28T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Pullman",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.61006528",
+    "latitude" : "41.69182489"
+  },
+  "start_time" : "7:00 AM",
+  "longitude" : "-87.61006528",
+  "latitude" : "41.69182489",
+  "day" : "Wednesday",
+  "type" : "Neighborhood",
+  "start_date" : "2015-07-08T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "233 S. Wacker Drive",
+  "end_date" : "2015-10-29T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "3:00 PM",
+  "location" : "Willis Tower Plaza",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.63661967",
+    "latitude" : "41.87734375"
+  },
+  "start_time" : "7:00 AM",
+  "longitude" : "-87.63661967",
+  "latitude" : "41.87734375",
+  "day" : "Thursday",
+  "type" : "Downtown",
+  "start_date" : "2015-06-25T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "3601 W. Chicago Ave.",
+  "end_date" : "2015-09-26T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "2:00 PM",
+  "location" : "West Humboldt Park",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.71657105",
+    "latitude" : "41.89527979"
+  },
+  "start_time" : "10:00 AM",
+  "longitude" : "-87.71657105",
+  "latitude" : "41.89527979",
+  "day" : "Saturday",
+  "type" : "Neighborhood",
+  "start_date" : "2015-06-27T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "Location TBD",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "8:00 PM",
+  "location" : "Near West Side",
+  "start_time" : "4:00 PM",
+  "day" : "Saturday",
+  "type" : "Neighborhood"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "71st & Racine",
+  "end_date" : "2015-10-03T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Englewood/ Anchor House",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6541122",
+    "latitude" : "41.765042"
+  },
+  "start_time" : "8:00 AM",
+  "longitude" : "-87.6541122",
+  "latitude" : "41.765042",
+  "day" : "Saturday",
+  "type" : "Neighborhood",
+  "start_date" : "2015-06-27T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "7601 S. Cicero Ave.",
+  "end_date" : "2015-09-30T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Ford City",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7331374",
+    "latitude" : "41.7536343"
+  },
+  "start_time" : "8:00 AM",
+  "longitude" : "-87.7331374",
+  "latitude" : "41.7536343",
+  "day" : "Wednesday",
+  "type" : "Neighborhood",
+  "start_date" : "2015-07-08T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "Dr. Martin Luther King Jr. Dr. & 26th St.",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "2:00 PM",
+  "location" : "Bronzeville",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6180851",
+    "latitude" : "41.8451793"
+  },
+  "start_time" : "10:00 AM",
+  "longitude" : "-87.6180851",
+  "latitude" : "41.8451793",
+  "day" : "Saturday",
+  "type" : "Neighborhood"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "5749 S. Perry Ave.",
+  "end_date" : "2015-09-27T00:00:00",
+  "website" : {
+    "url" : "http://chicagofarmersmarkets.us"
+  },
+  "end_time" : "2:00 PM",
+  "location" : "Perry Avenue Community Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.627372",
+    "latitude" : "41.7895449"
+  },
+  "start_time" : "10:00 AM",
+  "longitude" : "-87.627372",
+  "latitude" : "41.7895449",
+  "day" : "Sunday",
+  "type" : "Neighborhood",
+  "start_date" : "2015-06-28T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "555 E. 51st St.",
+  "end_date" : "2015-10-07T00:00:00",
+  "website" : {
+    "url" : "http://chicagobotanic.org/urbanagriculture"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Chicago Botanic Garden's Windy City Harvest (Washington Park)",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6123864",
+    "latitude" : "41.8013958"
+  },
+  "start_time" : "9:00 AM",
+  "longitude" : "-87.6123864",
+  "latitude" : "41.8013958",
+  "day" : "Wednesday",
+  "type" : "Independent",
+  "start_date" : "2015-07-08T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "3750 W. Ogden Ave.",
+  "end_date" : "2015-10-07T00:00:00",
+  "website" : {
+    "url" : "http://chicagobotanic.org/urbanagriculture"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Chicago Botanic Garden's Windy City Harvest (Lawndale)",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7192132",
+    "latitude" : "41.8533645"
+  },
+  "start_time" : "9:00 AM",
+  "longitude" : "-87.7192132",
+  "latitude" : "41.8533645",
+  "day" : "Wednesday",
+  "type" : "Independent",
+  "start_date" : "2015-07-08T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "1500 W. Berwyn (between Clark and Ashland)",
+  "end_date" : "2015-10-14T00:00:00",
+  "website" : {
+    "url" : "http://andersonville.org/events/andersonvillefarmers-market/"
+  },
+  "end_time" : "8:00 PM",
+  "location" : "Andersonville Farmers Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6683433",
+    "latitude" : "41.9780083"
+  },
+  "start_time" : "3:00 PM",
+  "longitude" : "-87.6683433",
+  "latitude" : "41.9780083",
+  "day" : "Wednesday",
+  "type" : "Independent",
+  "start_date" : "2015-05-20T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "Berteau & Central (NW corner of park)",
+  "end_date" : "2015-10-04T00:00:00",
+  "website" : {
+    "url" : "http://friendsofportagepark.org"
+  },
+  "end_time" : "2:00 PM",
+  "location" : "Portage Park Farmers Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.767046",
+    "latitude" : "41.956796"
+  },
+  "start_time" : "10:00 AM",
+  "longitude" : "-87.767046",
+  "latitude" : "41.956796",
+  "day" : "Sunday",
+  "type" : "Independent",
+  "start_date" : "2015-06-07T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "Treasure Island Foods 2121 N. Clybourn Ave.",
+  "end_date" : "2015-09-30T00:00:00",
+  "website" : {
+    "url" : "http://tifoods.com/urbanislandersmarket"
+  },
+  "end_time" : "8:00 PM",
+  "location" : "The Urban Islander's Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6619038",
+    "latitude" : "41.920092"
+  },
+  "start_time" : "3:00 PM",
+  "longitude" : "-87.6619038",
+  "latitude" : "41.920092",
+  "day" : "Wednesday",
+  "type" : "Independent",
+  "start_date" : "2015-05-13T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "5814 S. Wood St.",
+  "end_date" : "2015-10-28T00:00:00",
+  "website" : {
+    "url" : "http://growinghomeinc.org/our-farms/"
+  },
+  "end_time" : "4:00 PM",
+  "location" : "Growing Home's Wood St. Farm Stand",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.669475",
+    "latitude" : "41.787897"
+  },
+  "start_time" : "11:00 AM",
+  "longitude" : "-87.669475",
+  "latitude" : "41.787897",
+  "day" : "Wednesday",
+  "type" : "Independent",
+  "start_date" : "2015-04-22T00:00:00"
+}
+, {
+  "link_accepted" : "N",
+  "intersection" : "1936 S. Michigan Ave.",
+  "end_date" : "2015-10-15T00:00:00",
+  "website" : {
+    "url" : "http://southloopfarmersmarket.com"
+  },
+  "end_time" : "8:00 PM",
+  "location" : "South Loop Farmers Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6243496",
+    "latitude" : "41.8557577"
+  },
+  "start_time" : "4:00 PM",
+  "longitude" : "-87.6243496",
+  "latitude" : "41.8557577",
+  "day" : "Thursday",
+  "type" : "Independent",
+  "start_date" : "2015-06-25T00:00:00"
+}
+, {
+  "link_accepted" : "N",
+  "intersection" : "2301 W. Leland Ave.",
+  "end_date" : "2015-10-29T00:00:00",
+  "website" : {
+    "url" : "http://LincolnSquareRavenswood.org"
+  },
+  "end_time" : "8:00 PM",
+  "location" : "Lincoln Square Thursday Evening Farmers Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6875001",
+    "latitude" : "41.9668208"
+  },
+  "start_time" : "4:00 PM",
+  "longitude" : "-87.6875001",
+  "latitude" : "41.9668208",
+  "day" : "Thursday",
+  "type" : "Independent",
+  "start_date" : "2015-06-04T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "6900 N. Glenwood Ave.",
+  "end_date" : "2015-10-25T00:00:00",
+  "website" : {
+    "url" : "http://glenwoodsundaymarket.org"
+  },
+  "end_time" : "2:00 PM",
+  "location" : "Glenwood Sunday Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6663239",
+    "latitude" : "42.0083615"
+  },
+  "start_time" : "9:00 AM",
+  "longitude" : "-87.6663239",
+  "latitude" : "42.0083615",
+  "day" : "Sunday",
+  "type" : "Independent",
+  "start_date" : "2015-06-07T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "6100 S. Blackstone Ave.",
+  "end_date" : "2015-10-31T00:00:00",
+  "website" : {
+    "url" : "http://experimentalstation.org/farmers-market"
+  },
+  "end_time" : "2:00 PM",
+  "location" : "61st Street Farmers Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.590568",
+    "latitude" : "41.78407"
+  },
+  "start_time" : "9:00 AM",
+  "longitude" : "-87.590568",
+  "latitude" : "41.78407",
+  "day" : "Saturday",
+  "type" : "Independent",
+  "start_date" : "2015-05-16T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "3107 W. Logan Blvd.",
+  "end_date" : "2015-10-25T00:00:00",
+  "website" : {
+    "url" : "http://logansquarefarmersmarket.org"
+  },
+  "end_time" : "3:00 PM",
+  "location" : "Logan Square Farmers Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7052487",
+    "latitude" : "41.9279548"
+  },
+  "start_time" : "10:00 AM",
+  "longitude" : "-87.7052487",
+  "latitude" : "41.9279548",
+  "day" : "Sunday",
+  "type" : "Independent",
+  "start_date" : "2015-05-17T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "1425 N. Damen Ave.",
+  "end_date" : "2015-10-25T00:00:00",
+  "website" : {
+    "url" : "http://wickerparkbucktown.com/farmers-market/about"
+  },
+  "end_time" : "2:00 PM",
+  "location" : "Wicker Park Farmers Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.676738",
+    "latitude" : "41.9080486"
+  },
+  "start_time" : "8:00 AM",
+  "longitude" : "-87.676738",
+  "latitude" : "41.9080486",
+  "day" : "Sunday",
+  "type" : "Independent",
+  "start_date" : "2015-06-14T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "87th Street and Langley Ave. (SE corner)",
+  "end_date" : "2015-09-23T00:00:00",
+  "website" : {
+    "url" : "http://seawaybank.us"
+  },
+  "end_time" : "2:00 PM",
+  "location" : "Seaway Bank Farmers Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6072612",
+    "latitude" : "41.7366468"
+  },
+  "start_time" : "9:00 AM",
+  "longitude" : "-87.6072612",
+  "latitude" : "41.7366468",
+  "day" : "Wednesday",
+  "type" : "Independent",
+  "start_date" : "2015-07-22T00:00:00"
+}
+, {
+  "link_accepted" : "N",
+  "intersection" : "2741 W. Montrose Ave.",
+  "end_date" : "2015-10-03T00:00:00",
+  "website" : {
+    "url" : "http://farmersmarket.hornerpark.org"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Horner Park Farmers Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6977103",
+    "latitude" : "41.960554"
+  },
+  "start_time" : "9:00 AM",
+  "longitude" : "-87.6977103",
+  "latitude" : "41.960554",
+  "day" : "Saturday",
+  "type" : "Independent",
+  "start_date" : "2015-06-06T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "1200 W. Loyola Ave. (Loyola Red Line stop)",
+  "end_date" : "2015-09-21T00:00:00",
+  "website" : {
+    "url" : "http://blogs.luc.edu/farmersmarket/"
+  },
+  "end_time" : "7:00 PM",
+  "location" : "Loyola Farmers Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6607393",
+    "latitude" : "42.0008961"
+  },
+  "start_time" : "3:00 PM",
+  "longitude" : "-87.6607393",
+  "latitude" : "42.0008961",
+  "day" : "Monday",
+  "type" : "Independent",
+  "start_date" : "2015-06-08T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "1200 W. Loyola Ave. (Loyola Red Line stop)",
+  "end_date" : "2015-10-12T00:00:00",
+  "website" : {
+    "url" : "http://blogs.luc.edu/farmersmarket/"
+  },
+  "end_time" : "6:30 PM",
+  "location" : "Loyola Farmers Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6607393",
+    "latitude" : "42.0008961"
+  },
+  "start_time" : "2:30 PM",
+  "longitude" : "-87.6607393",
+  "latitude" : "42.0008961",
+  "day" : "Monday",
+  "type" : "Independent",
+  "start_date" : "2015-09-28T00:00:00"
+}
+, {
+  "link_accepted" : "N",
+  "intersection" : "4800 N. Long Ave.",
+  "end_date" : "2015-10-25T00:00:00",
+  "website" : {
+    "url" : "http://JeffersonParkSundayMarket.com"
+  },
+  "end_time" : "1:30 PM",
+  "location" : "Jefferson Park Sunday Market (2nd and 4th Sundays)",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7625765",
+    "latitude" : "41.9676712"
+  },
+  "start_time" : "9:30 AM",
+  "longitude" : "-87.7625765",
+  "latitude" : "41.9676712",
+  "day" : "Sunday",
+  "type" : "Independent",
+  "start_date" : "2015-06-14T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "1800 S. Halsted (Byline Bank parking lot)",
+  "end_date" : "2015-10-25T00:00:00",
+  "website" : {
+    "url" : "http://pilsencommunitymarket.org"
+  },
+  "end_time" : "2:00 PM",
+  "location" : "Pilsen Community Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6469366",
+    "latitude" : "41.8578369"
+  },
+  "start_time" : "9:00 AM",
+  "longitude" : "-87.6469366",
+  "latitude" : "41.8578369",
+  "day" : "Sunday",
+  "type" : "Independent",
+  "start_date" : "2015-05-31T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "1800 N. Clark St. (South end of Lincoln Park)",
+  "end_date" : "2015-10-28T00:00:00",
+  "website" : {
+    "url" : "http://greencitymarket.org"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Green City Market - Lincoln Park",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6342005",
+    "latitude" : "41.9149395"
+  },
+  "start_time" : "7:00 AM",
+  "longitude" : "-87.6342005",
+  "latitude" : "41.9149395",
+  "day" : "Wednesday",
+  "type" : "Independent",
+  "start_date" : "2015-05-06T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "1800 N. Clark St. (South end of Lincoln Park)",
+  "end_date" : "2015-10-31T00:00:00",
+  "website" : {
+    "url" : "http://greencitymarket.org"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Green City Market - Lincoln Park",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6342005",
+    "latitude" : "41.9149395"
+  },
+  "start_time" : "7:00 AM",
+  "longitude" : "-87.6342005",
+  "latitude" : "41.9149395",
+  "day" : "Saturday",
+  "type" : "Independent",
+  "start_date" : "2015-05-02T00:00:00"
+}
+, {
+  "link_accepted" : "N",
+  "intersection" : "Southport Brown Line station auxiliary exit (3410 N. Southport)",
+  "end_date" : "2015-09-03T00:00:00",
+  "website" : {
+    "url" : "http://lakeviewchamber.com/ssa-27/low-line-market-.aspx"
+  },
+  "end_time" : "8:00 PM",
+  "location" : "Lowline Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66392",
+    "latitude" : "41.943836"
+  },
+  "start_time" : "3:00 PM",
+  "longitude" : "-87.66392",
+  "latitude" : "41.943836",
+  "day" : "Thursday",
+  "type" : "Independent",
+  "start_date" : "2015-06-04T00:00:00"
+}
+, {
+  "link_accepted" : "N",
+  "intersection" : "Southport Brown Line station auxiliary exit (3410 N. Southport)",
+  "end_date" : "2015-10-08T00:00:00",
+  "website" : {
+    "url" : "http://lakeviewchamber.com/ssa-27/low-line-market-.aspx"
+  },
+  "end_time" : "7:00 PM",
+  "location" : "Lowline Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.66392",
+    "latitude" : "41.943836"
+  },
+  "start_time" : "3:00 PM",
+  "longitude" : "-87.66392",
+  "latitude" : "41.943836",
+  "day" : "Thursday",
+  "type" : "Independent",
+  "start_date" : "2015-09-10T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "4646 N. Marine Dr.",
+  "end_date" : "2015-10-22T00:00:00",
+  "website" : {
+    "url" : "http://weisshospital.com"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Weiss Uptown Farmers Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6493557",
+    "latitude" : "41.9664324"
+  },
+  "start_time" : "7:00 AM",
+  "longitude" : "-87.6493557",
+  "latitude" : "41.9664324",
+  "day" : "Thursday",
+  "type" : "Independent",
+  "start_date" : "2015-06-04T00:00:00"
+}
+, {
+  "link_accepted" : "N",
+  "intersection" : "1200 W. Norwood St.",
+  "end_date" : "2015-08-17T00:00:00",
+  "website" : {
+    "url" : "http://edgewater.org"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Edgewater Farmers Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6603395",
+    "latitude" : "41.9918134"
+  },
+  "start_time" : "8:00 AM",
+  "longitude" : "-87.6603395",
+  "latitude" : "41.9918134",
+  "day" : "Saturday",
+  "type" : "Independent",
+  "start_date" : "2015-06-13T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "11400 S. Michigan Ave.",
+  "end_date" : "2015-08-28T00:00:00",
+  "end_time" : "3:00 PM",
+  "location" : "Roseland Community Farmers Market",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.621256",
+    "latitude" : "41.686898"
+  },
+  "start_time" : "10:00 AM",
+  "longitude" : "-87.621256",
+  "latitude" : "41.686898",
+  "day" : "Saturday",
+  "type" : "Independent",
+  "start_date" : "2015-04-25T00:00:00"
+}
+, {
+  "link_accepted" : "Y",
+  "intersection" : "Fulton & Halsted",
+  "end_date" : "2015-10-31T00:00:00",
+  "website" : {
+    "url" : "http://greencitymarket.org"
+  },
+  "end_time" : "1:00 PM",
+  "location" : "Green City Market - Fulton",
+  "map" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6475031",
+    "latitude" : "41.88679"
+  },
+  "start_time" : "7:00 AM",
+  "longitude" : "-87.6475031",
+  "latitude" : "41.88679",
+  "day" : "Saturday",
+  "type" : "Independent",
+  "start_date" : "2015-06-06T00:00:00"
+}
+ ]

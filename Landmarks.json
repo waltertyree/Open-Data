@@ -1,0 +1,4656 @@
+[ {
+  "architect" : "Horatio R. Wilson(Original Building)",
+  "id" : "L-317",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6476950505",
+    "latitude" : "41.8814844224"
+  },
+  "landmark_designation_date" : 1335243600,
+  "address" : "2 S. Halsted Street",
+  "landmark_name" : "(Former) Mid-City Trust and Savings Bank Buildings",
+  "longitude" : "-87.64769505050",
+  "latitude" : "41.88148442240",
+  "date_built" : "1911-12"
+}
+, {
+  "architect" : "Karl M. Vitzthum",
+  "id" : "L-318",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7266173415",
+    "latitude" : "41.9101921054"
+  },
+  "landmark_designation_date" : 1338966000,
+  "address" : "4000 W. North Ave.",
+  "landmark_name" : "(Former) Pioneer Trust and Savings Bank Building",
+  "longitude" : "-87.72661734150",
+  "latitude" : "41.91019210540",
+  "date_built" : "1924"
+}
+, {
+  "architect" : "R. Bernard Kurzon",
+  "id" : "L-319",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6607027795",
+    "latitude" : "41.9906450869"
+  },
+  "landmark_designation_date" : 1338966000,
+  "address" : "5948-60 N. Braodway",
+  "landmark_name" : "Riviera Motor Sales Company Building",
+  "longitude" : "-87.66070277950",
+  "latitude" : "41.99064508690",
+  "date_built" : "1925-26"
+}
+, {
+  "architect" : "Graham, Anderson, Probst and White",
+  "id" : "L-320",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6248529223",
+    "latitude" : "41.8897256315"
+  },
+  "landmark_designation_date" : 1336546800,
+  "address" : "400-410 North Michigan Avenue",
+  "landmark_name" : "Wrigley Building",
+  "longitude" : "-87.62485292230",
+  "latitude" : "41.88972563150",
+  "date_built" : "1921"
+}
+, {
+  "architect" : "Marshall & Fox, Huszagh & Hill",
+  "id" : "L-271",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.65913012",
+    "latitude" : "41.9686225445"
+  },
+  "landmark_designation_date" : 1223449200,
+  "address" : "4753 N Broadway",
+  "landmark_name" : "(Former) Sheridan Trust and Savings Bank Building",
+  "longitude" : "-87.65913012000",
+  "latitude" : "41.96862254450",
+  "date_built" : "1924-28"
+}
+, {
+  "architect" : "Frost & Granger",
+  "id" : "L- 16",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6409095654",
+    "latitude" : "41.8861888154"
+  },
+  "landmark_designation_date" : 1136966400,
+  "address" : "211 N Clinton St",
+  "landmark_name" : "Chicago & North Western Railway Powerhouse",
+  "longitude" : "-87.64090956540",
+  "latitude" : "41.88618881540",
+  "date_built" : "1909-11"
+}
+, {
+  "architect" : "Wheelock & Thomas and John M. Van Osdel",
+  "id" : "L-109",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6266580795",
+    "latitude" : "41.8813617549"
+  },
+  "landmark_designation_date" : 847872000,
+  "address" : "18-28 S Wabash Av",
+  "landmark_name" : "Haskell-Barker-Atwater Buildings",
+  "longitude" : "-87.62665807950",
+  "latitude" : "41.88136175490",
+  "date_built" : "1875-77"
+}
+, {
+  "architect" : "Frederick Schock",
+  "id" : "L-223",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7702225226",
+    "latitude" : "41.8893216935"
+  },
+  "landmark_designation_date" : 916819200,
+  "address" : "5804 W Midway Park",
+  "landmark_name" : "F. R. Schock House",
+  "longitude" : "-87.77022252260",
+  "latitude" : "41.88932169350",
+  "date_built" : "1886"
+}
+, {
+  "id" : "L-188",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6364727484",
+    "latitude" : "41.8853653984"
+  },
+  "landmark_designation_date" : 1036569600,
+  "address" : "SE corner of Lake St & Wacker Dr",
+  "landmark_name" : "Site of the Sauganash Hotel/Wigwam",
+  "longitude" : "-87.63647274840",
+  "latitude" : "41.88536539840",
+  "date_built" : "1831"
+}
+, {
+  "architect" : "A Saint-Gaudens,Sculptor & S White,Architect",
+  "id" : "L-107",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6302554195",
+    "latitude" : "41.9126040562"
+  },
+  "landmark_designation_date" : 1008144000,
+  "address" : "Lincoln Park at Dearborn Parkway",
+  "landmark_name" : "Abraham Lincoln Monument (\"Standing Lincoln\")",
+  "longitude" : "-87.63025541950",
+  "latitude" : "41.91260405620",
+  "date_built" : "1887"
+}
+, {
+  "architect" : "Richard E. Schmidt,Garden & Martin w/ Jens Jenson",
+  "id" : "L-116",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7008044418",
+    "latitude" : "41.9056214802"
+  },
+  "landmark_designation_date" : 847872000,
+  "address" : "1301 N Humboldt Blvd",
+  "landmark_name" : "Humboldt Park Boathouse Pavilion",
+  "longitude" : "-87.70080444180",
+  "latitude" : "41.90562148020",
+  "date_built" : "1907"
+}
+, {
+  "architect" : "Unknown, Dining Hall 1905: Pond & Pond",
+  "id" : "L- 43",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6483575157",
+    "latitude" : "41.871508892"
+  },
+  "landmark_designation_date" : 140252400,
+  "address" : "800 S Halsted St",
+  "landmark_name" : "Jane Addams' Hull House and Dining Hall",
+  "longitude" : "-87.64835751570",
+  "latitude" : "41.87150889200",
+  "date_built" : "1856"
+}
+, {
+  "architect" : "Richard Henry Park",
+  "id" : "L- 06",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.552758661",
+    "latitude" : "41.7280940998"
+  },
+  "landmark_designation_date" : 1078905600,
+  "address" : "92nd St @ South Chicago & Exchange Ave",
+  "landmark_name" : "Drake Fountain",
+  "longitude" : "-87.55275866100",
+  "latitude" : "41.72809409980",
+  "date_built" : "1892"
+}
+, {
+  "architect" : "Rapp and Rapp",
+  "id" : "L- 69",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6272232232",
+    "latitude" : "41.8853885067"
+  },
+  "landmark_designation_date" : 412588800,
+  "address" : "175 N State St",
+  "landmark_name" : "Chicago Theater",
+  "longitude" : "-87.62722322320",
+  "latitude" : "41.88538850670",
+  "date_built" : "1921"
+}
+, {
+  "architect" : "Joseph W McCarthy",
+  "id" : "L- 36",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6565516229",
+    "latitude" : "41.998675941"
+  },
+  "landmark_designation_date" : 1165996800,
+  "address" : "1020 W Sheridan Rd",
+  "landmark_name" : "Mundelein College Skyscraper Building",
+  "longitude" : "-87.65655162290",
+  "latitude" : "41.99867594100",
+  "date_built" : "1930-31"
+}
+, {
+  "architect" : "Frank Lloyd Wright",
+  "id" : "L-176",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5959702794",
+    "latitude" : "41.7899203248"
+  },
+  "landmark_designation_date" : 53766000,
+  "address" : "5757 S Woodlawn Av",
+  "landmark_name" : "Frederick C. Robie House",
+  "longitude" : "-87.59597027940",
+  "latitude" : "41.78992032480",
+  "date_built" : "1909"
+}
+, {
+  "architect" : "Michealsen & Rognstad",
+  "id" : "L-159",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6323150739",
+    "latitude" : "41.852373501"
+  },
+  "landmark_designation_date" : 754732800,
+  "address" : "2216 S Wentworth Av",
+  "landmark_name" : "On Leong Merchants Association",
+  "longitude" : "-87.63231507390",
+  "latitude" : "41.85237350100",
+  "date_built" : "1926-27"
+}
+, {
+  "architect" : "Andrew Rebori & Edgar Miller",
+  "id" : "L- 80",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6282941956",
+    "latitude" : "41.9042760697"
+  },
+  "landmark_designation_date" : 838796400,
+  "address" : "1209 N State Pkwy",
+  "landmark_name" : "Fisher Studio Houses",
+  "longitude" : "-87.62829419560",
+  "latitude" : "41.90427606970",
+  "date_built" : "1936"
+}
+, {
+  "architect" : "Karl M. Vitzthum",
+  "id" : "L-256",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6679607871",
+    "latitude" : "41.9036108008"
+  },
+  "landmark_designation_date" : 1202284800,
+  "address" : "1200-08 N Ashland Av / 1600-12 W Division St",
+  "landmark_name" : "Home Bank & Trust Company",
+  "longitude" : "-87.66796078710",
+  "latitude" : "41.90361080080"
+}
+, {
+  "architect" : "base:Burham & Root Upper Stor: D.H. Burnham and Co",
+  "id" : "L-175",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6282415079",
+    "latitude" : "41.8830285557"
+  },
+  "landmark_designation_date" : 174294000,
+  "address" : "32 N State St",
+  "landmark_name" : "Reliance Building",
+  "longitude" : "-87.62824150790",
+  "latitude" : "41.88302855570",
+  "date_built" : "1890"
+}
+, {
+  "architect" : "Frank Llyod Wright",
+  "id" : "L-203",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6983623347",
+    "latitude" : "41.8856316688"
+  },
+  "landmark_designation_date" : 762595200,
+  "address" : "2840-58 W Walnut St",
+  "landmark_name" : "Waller Apartments",
+  "longitude" : "-87.69836233470",
+  "latitude" : "41.88563166880",
+  "date_built" : "1895"
+}
+, {
+  "architect" : "Charles F. Hermann",
+  "id" : "L-230",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6236100747",
+    "latitude" : "41.8639576406"
+  },
+  "landmark_designation_date" : 1064991600,
+  "address" : "1401 S Michigan Av",
+  "landmark_name" : "(Former) Engine Company 104, Truck 3",
+  "longitude" : "-87.62361007470",
+  "latitude" : "41.86395764060",
+  "date_built" : "1905"
+}
+, {
+  "architect" : "Philip B. Maher",
+  "id" : "L- 07",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6246207821",
+    "latitude" : "41.8943149417"
+  },
+  "landmark_designation_date" : 1078905600,
+  "address" : "664 N Michigan Ave",
+  "landmark_name" : "Farwell Building",
+  "longitude" : "-87.62462078210",
+  "latitude" : "41.89431494170",
+  "date_built" : "1927"
+}
+, {
+  "architect" : "William W. Boyington (1866 sect)",
+  "id" : "L- 26",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6074738685",
+    "latitude" : "41.8307510749"
+  },
+  "landmark_designation_date" : 829638000,
+  "address" : "739 E 35th St",
+  "landmark_name" : "Soldiers' Home",
+  "longitude" : "-87.60747386850",
+  "latitude" : "41.83075107490",
+  "date_built" : "1864-1923"
+}
+, {
+  "architect" : "Otis L. Wheelock",
+  "id" : "L-210",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6195335943",
+    "latitude" : "41.8549118495"
+  },
+  "landmark_designation_date" : 886665600,
+  "address" : "2016-20 S Calumet Av",
+  "landmark_name" : "Wheeler-Kohn House",
+  "longitude" : "-87.61953359430",
+  "latitude" : "41.85491184950",
+  "date_built" : "1870"
+}
+, {
+  "architect" : "Parfitt Brothers, with Bauer & Hill",
+  "id" : "L-196",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6277371467",
+    "latitude" : "41.8928785261"
+  },
+  "landmark_designation_date" : 856944000,
+  "address" : "601-23 N State St/4-10 E Ohio St/3-7 E Ontario St",
+  "landmark_name" : "Tree Studios, Annexes and Courtyard",
+  "longitude" : "-87.62773714670",
+  "latitude" : "41.89287852610",
+  "date_built" : "1894"
+}
+, {
+  "architect" : "George Kingsley",
+  "id" : "L-173",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6394457702",
+    "latitude" : "41.9247194757"
+  },
+  "landmark_designation_date" : 936169200,
+  "address" : "2325-33 N Clark St",
+  "landmark_name" : "Reebie Storage Warehouse",
+  "longitude" : "-87.63944577020",
+  "latitude" : "41.92471947570",
+  "date_built" : "1921-22"
+}
+, {
+  "architect" : "Gustav Hallburg remod:1940;Hin Bredendieck&Lerner",
+  "id" : "L-190",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6226406573",
+    "latitude" : "41.8245859483"
+  },
+  "landmark_designation_date" : 771750000,
+  "address" : "3831 S Michigan Av",
+  "landmark_name" : "South Side Community Art Center",
+  "longitude" : "-87.62264065730",
+  "latitude" : "41.82458594830",
+  "date_built" : "1892-93"
+}
+, {
+  "architect" : "Holabird & Roche",
+  "id" : "L- 56",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.634778221",
+    "latitude" : "41.8778764445"
+  },
+  "landmark_designation_date" : 853228800,
+  "address" : "233 W Jackson Blvd",
+  "landmark_name" : "Brooks Building",
+  "longitude" : "-87.63477822100",
+  "latitude" : "41.87787644450",
+  "date_built" : "1910"
+}
+, {
+  "architect" : "Add. c. 1868-75 Architect Unknown",
+  "id" : "L-212",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.8216065907",
+    "latitude" : "41.9943088493"
+  },
+  "landmark_designation_date" : 649407600,
+  "address" : "6231 N Canfield Av",
+  "landmark_name" : "John Wingert House",
+  "longitude" : "-87.82160659070",
+  "latitude" : "41.99430884930",
+  "date_built" : "1854"
+}
+, {
+  "architect" : "Joachim G. Giaver & Frederick P. Dinkelberg",
+  "id" : "L-195",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6267847658",
+    "latitude" : "41.8865183645"
+  },
+  "landmark_designation_date" : 760780800,
+  "address" : "35 E Wacker Dr",
+  "landmark_name" : "35 East Wacker Building",
+  "longitude" : "-87.62678476580",
+  "latitude" : "41.88651836450",
+  "date_built" : "1925-27"
+}
+, {
+  "architect" : "John S Van Bergan",
+  "id" : "L-147",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5710108202",
+    "latitude" : "41.7654723018"
+  },
+  "landmark_designation_date" : 754732800,
+  "address" : "7121 S Paxton Av",
+  "landmark_name" : "Allan Miller House",
+  "longitude" : "-87.57101082020",
+  "latitude" : "41.76547230180",
+  "date_built" : "1915"
+}
+, {
+  "id" : "L-268",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6455288502",
+    "latitude" : "41.7793988527"
+  },
+  "address" : "815-815 W 63RD ST",
+  "landmark_name" : "Chicago City  Bank & Trust Co",
+  "longitude" : "-87.64552885020",
+  "latitude" : "41.77939885270",
+  "date_built" : "1920"
+}
+, {
+  "architect" : "Zachary T. & Charles G. Davis",
+  "id" : "L- 04",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6555425867",
+    "latitude" : "41.9481448318"
+  },
+  "landmark_designation_date" : 1076486400,
+  "address" : "1060 W Addison St",
+  "landmark_name" : "Wrigley Field",
+  "longitude" : "-87.65554258670",
+  "latitude" : "41.94814483180",
+  "date_built" : "1914"
+}
+, {
+  "id" : "L-254",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6319535815",
+    "latitude" : "41.8817071178"
+  },
+  "landmark_designation_date" : 1197446400,
+  "address" : "11 S LaSalle St",
+  "landmark_name" : "Roanoke Building and Tower",
+  "longitude" : "-87.63195358150",
+  "latitude" : "41.88170711780"
+}
+, {
+  "architect" : "Board of Public Works, add: W. C. Zimmerman",
+  "id" : "L-228",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6771416078",
+    "latitude" : "41.9112378121"
+  },
+  "landmark_designation_date" : 1064991600,
+  "address" : "1625 N Damen Av",
+  "landmark_name" : "(Former) Engine Company 35, Truck 28",
+  "longitude" : "-87.67714160780",
+  "latitude" : "41.91123781210",
+  "date_built" : "1894,1904"
+}
+, {
+  "architect" : "Horatio Wilson",
+  "id" : "L- 66",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6242198953",
+    "latitude" : "41.8536064409"
+  },
+  "landmark_designation_date" : 642841200,
+  "address" : "2120 S Michigan Av",
+  "landmark_name" : "Chess Records Office and Studio",
+  "longitude" : "-87.62421989530",
+  "latitude" : "41.85360644090",
+  "date_built" : "1911"
+}
+, {
+  "architect" : "Cobb & Frost",
+  "id" : "L- 38",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.627165987",
+    "latitude" : "41.8938801598"
+  },
+  "landmark_designation_date" : 1176274800,
+  "address" : "25 E Erie St",
+  "landmark_name" : "Ransom R Cable House",
+  "longitude" : "-87.62716598700",
+  "latitude" : "41.89388015980",
+  "date_built" : "1886"
+}
+, {
+  "architect" : "Banjamin Albert Comm",
+  "id" : "L-293",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6661538374",
+    "latitude" : "41.8821299211"
+  },
+  "landmark_designation_date" : 1276066800,
+  "address" : "1519 West Warren Blvd",
+  "landmark_name" : "Union Park Hotel",
+  "longitude" : "-87.66615383740",
+  "latitude" : "41.88212992110",
+  "date_built" : "1930"
+}
+, {
+  "architect" : "Unknown",
+  "id" : "L-294",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.673241177",
+    "latitude" : "41.916279821"
+  },
+  "landmark_designation_date" : 1276066800,
+  "address" : "1810 West Cortland St,",
+  "landmark_name" : "Richard Nickel Studio",
+  "longitude" : "-87.67324117700",
+  "latitude" : "41.91627982100",
+  "date_built" : "1889`"
+}
+, {
+  "architect" : "Paul Schweikher, addit in 1956:William Fyfe",
+  "id" : "L-259",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7715177336",
+    "latitude" : "41.8858772448"
+  },
+  "landmark_designation_date" : 1202284800,
+  "address" : "301 N Mayfield Av",
+  "landmark_name" : "Third Unitarian Church Building",
+  "longitude" : "-87.77151773360",
+  "latitude" : "41.88587724480",
+  "date_built" : "1936"
+}
+, {
+  "architect" : "Louis H. Sullivan",
+  "id" : "L-114",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6817887088",
+    "latitude" : "41.9019437029"
+  },
+  "landmark_designation_date" : 290851200,
+  "address" : "1121 N Leavitt St",
+  "landmark_name" : "Holy Trinity Orthodox Cathedral and Rectory",
+  "longitude" : "-87.68178870880",
+  "latitude" : "41.90194370290",
+  "date_built" : "1903"
+}
+, {
+  "id" : "L-253",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6352824539",
+    "latitude" : "41.891006795"
+  },
+  "landmark_designation_date" : 1197446400,
+  "address" : "228 W Illinois St",
+  "landmark_name" : "(Former) Engine Company 42 Firehouse",
+  "longitude" : "-87.63528245390",
+  "latitude" : "41.89100679500"
+}
+, {
+  "architect" : "1898 add:Jenney & Mundie 1903 add:Arch Unknown",
+  "id" : "L-217",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6317475108",
+    "latitude" : "41.8808865829"
+  },
+  "landmark_designation_date" : 1153897200,
+  "address" : "37-43 S LaSalle St",
+  "landmark_name" : "New York Life Building",
+  "longitude" : "-87.63174751080",
+  "latitude" : "41.88088658290",
+  "date_built" : "1893-94"
+}
+, {
+  "architect" : "Wheelock & Thomas,2 story add + atrium 1889 Huber",
+  "id" : "L- 95",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.629193382",
+    "latitude" : "41.884686068"
+  },
+  "landmark_designation_date" : 438422400,
+  "address" : "36 W Randolph St",
+  "landmark_name" : "Delaware Building",
+  "longitude" : "-87.62919338200",
+  "latitude" : "41.88468606800",
+  "date_built" : "1872-74"
+}
+, {
+  "architect" : "Bridge & Bridge Hses:1920:E. Bennett",
+  "id" : "L-220",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6248160434",
+    "latitude" : "41.8885621636"
+  },
+  "landmark_designation_date" : 686386800,
+  "address" : "S Side of Chicago River, bet Michigan and Wabash",
+  "landmark_name" : "Michigan Avenue Bridge and Wacker Dr Esplanade",
+  "longitude" : "-87.62481604340",
+  "latitude" : "41.88856216360",
+  "date_built" : "1920&1926"
+}
+, {
+  "architect" : "Frank Lloyd Wright",
+  "id" : "L-177",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.617868313",
+    "latitude" : "41.8360509541"
+  },
+  "landmark_designation_date" : 315129600,
+  "address" : "3213-19 S Calumet Av",
+  "landmark_name" : "Robert W. Roloson Houses",
+  "longitude" : "-87.61786831300",
+  "latitude" : "41.83605095410",
+  "date_built" : "1894"
+}
+, {
+  "architect" : "Architect Unknown",
+  "id" : "L-183",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6338435666",
+    "latitude" : "41.9015683128"
+  },
+  "landmark_designation_date" : 263372400,
+  "address" : "160 W Wendell St",
+  "landmark_name" : "James A. Sexton School",
+  "longitude" : "-87.63384356660",
+  "latitude" : "41.90156831280",
+  "date_built" : "1882"
+}
+, {
+  "architect" : "C.W. & George L. Rapp",
+  "id" : "L-157",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6260196521",
+    "latitude" : "41.8860572654"
+  },
+  "landmark_designation_date" : 1054710000,
+  "address" : "203 N Wabash Av",
+  "landmark_name" : "Old Dearborn Bank Building",
+  "longitude" : "-87.62601965210",
+  "latitude" : "41.88605726540",
+  "date_built" : "1928"
+}
+, {
+  "architect" : "D.H. Burnham & Co. 1907:side add. Peter Weber",
+  "id" : "L- 94",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6289913776",
+    "latitude" : "41.8771986354"
+  },
+  "landmark_designation_date" : 266050800,
+  "address" : "343 S Dearborn St",
+  "landmark_name" : "Fisher Building",
+  "longitude" : "-87.62899137760",
+  "latitude" : "41.87719863540",
+  "date_built" : "1896"
+}
+, {
+  "architect" : "Charles W. Kallal",
+  "id" : "L-231",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6565680861",
+    "latitude" : "41.9493008207"
+  },
+  "landmark_designation_date" : 1064991600,
+  "address" : "1052 W Waveland Av",
+  "landmark_name" : "Engine Company 78",
+  "longitude" : "-87.65656808610",
+  "latitude" : "41.94930082070",
+  "date_built" : "1915"
+}
+, {
+  "architect" : "Mundie & Jensen",
+  "id" : "L-209",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6867353759",
+    "latitude" : "41.8814310723"
+  },
+  "landmark_designation_date" : 1064991600,
+  "address" : "2400 W Madison St",
+  "landmark_name" : "West Town State Bank Building",
+  "longitude" : "-87.68673537590",
+  "latitude" : "41.88143107230",
+  "date_built" : "1929-30"
+}
+, {
+  "architect" : "Solon S. Beman",
+  "id" : "L- 61",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6327811067",
+    "latitude" : "41.7729625919"
+  },
+  "landmark_designation_date" : 1153897200,
+  "address" : "6657-59 S Harvard Av",
+  "landmark_name" : "Canaan Baptist Church of Christ Building",
+  "longitude" : "-87.63278110670",
+  "latitude" : "41.77296259190",
+  "date_built" : "1904-05"
+}
+, {
+  "architect" : "South Park Commission Architects",
+  "id" : "L- 33",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5305783823",
+    "latitude" : "41.7177372896"
+  },
+  "landmark_designation_date" : 1159945200,
+  "address" : "9801 S Avenue G",
+  "landmark_name" : "Calumet Park Fieldhouse",
+  "longitude" : "-87.53057838230",
+  "latitude" : "41.71773728960",
+  "date_built" : "1922-24"
+}
+, {
+  "id" : "L-245",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7024136703",
+    "latitude" : "41.8324244328"
+  },
+  "landmark_designation_date" : 1197446400,
+  "address" : "San & Ship Canal, N of Stevenson Exp & E of Kedzie",
+  "landmark_name" : "Illinois Central Swing Bridge",
+  "longitude" : "-87.70241367030",
+  "latitude" : "41.83242443280"
+}
+, {
+  "architect" : "Adler & Sullivan",
+  "id" : "L- 50",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6251600082",
+    "latitude" : "41.8760394215"
+  },
+  "landmark_designation_date" : 211618800,
+  "address" : "430 S Michigan Av",
+  "landmark_name" : "Auditorium Building",
+  "longitude" : "-87.62516000820",
+  "latitude" : "41.87603942150",
+  "date_built" : "1886-90"
+}
+, {
+  "architect" : "Holabird & Roche",
+  "id" : "L- 35",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6269542177",
+    "latitude" : "41.8803068866"
+  },
+  "landmark_designation_date" : 1165996800,
+  "address" : "17 E Monroe St",
+  "landmark_name" : "Palmer House Hotel",
+  "longitude" : "-87.62695421770",
+  "latitude" : "41.88030688660",
+  "date_built" : "1925-27"
+}
+, {
+  "architect" : "Palliser, Palliser & Co.",
+  "id" : "L- 41",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6793988346",
+    "latitude" : "41.6910919166"
+  },
+  "landmark_designation_date" : 950688000,
+  "address" : "2314 W 111th Pl",
+  "landmark_name" : "Palliser's Cottage Home No. 35",
+  "longitude" : "-87.67939883460",
+  "latitude" : "41.69109191660",
+  "date_built" : "1882"
+}
+, {
+  "architect" : "William W. Boyington",
+  "id" : "L- 21",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6752466759",
+    "latitude" : "41.9865940626"
+  },
+  "landmark_designation_date" : 340527600,
+  "address" : "5800 N Ravenswood Av",
+  "landmark_name" : "Rosehill Cemetery Entrance",
+  "longitude" : "-87.67524667590",
+  "latitude" : "41.98659406260",
+  "date_built" : "1864"
+}
+, {
+  "architect" : "Architect Unknown",
+  "id" : "L-102",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.636030583",
+    "latitude" : "41.9132133257"
+  },
+  "landmark_designation_date" : 991810800,
+  "address" : "1710 N Crilly Court",
+  "landmark_name" : "Henry Gerber House",
+  "longitude" : "-87.63603058300",
+  "latitude" : "41.91321332570",
+  "date_built" : "1885"
+}
+, {
+  "architect" : "Frederick R. Foltz",
+  "id" : "L- 49",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6365184841",
+    "latitude" : "41.8937173011"
+  },
+  "landmark_designation_date" : 1057734000,
+  "address" : "319 W Erie St",
+  "landmark_name" : "Assumption School",
+  "longitude" : "-87.63651848410",
+  "latitude" : "41.89371730110",
+  "date_built" : "1899"
+}
+, {
+  "architect" : "Alexander L. Levy & William J. Klein",
+  "id" : "L- 57",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6570029558",
+    "latitude" : "41.9833113433"
+  },
+  "landmark_designation_date" : 1036569600,
+  "address" : "5550 N Kenmore Av",
+  "landmark_name" : "Bryn Mawr Apartment Hotel",
+  "longitude" : "-87.65700295580",
+  "latitude" : "41.98331134330",
+  "date_built" : "1927-28"
+}
+, {
+  "architect" : "1907 (add.) Board of Public Works",
+  "id" : "L-227",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.634847935",
+    "latitude" : "41.9051610151"
+  },
+  "landmark_designation_date" : 1064991600,
+  "address" : "1244 N Wells St",
+  "landmark_name" : "(Former) Engine Company 27",
+  "longitude" : "-87.63484793500",
+  "latitude" : "41.90516101510",
+  "date_built" : "1874"
+}
+, {
+  "architect" : "Burling & Adler, George Edbrooke. Addit 1896:Adler",
+  "id" : "L-131",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6351025338",
+    "latitude" : "41.8853688868"
+  },
+  "landmark_designation_date" : 225792000,
+  "address" : "227-35 W Lake St & 173-91 N Franklin St",
+  "landmark_name" : "Lake-Franklin Group",
+  "longitude" : "-87.63510253380",
+  "latitude" : "41.88536888680",
+  "date_built" : "1872-75"
+}
+, {
+  "id" : "L-263",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6061132825",
+    "latitude" : "41.8097663459"
+  },
+  "landmark_designation_date" : 1215586800,
+  "address" : "4659 S Cottage Grove Av",
+  "landmark_name" : "(Former) South Side Trust Bank Bldg",
+  "longitude" : "-87.60611328250",
+  "latitude" : "41.80976634590"
+}
+, {
+  "architect" : "Frank Lloyd Wright",
+  "id" : "L- 48",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6738263553",
+    "latitude" : "41.7015922036"
+  },
+  "landmark_designation_date" : 774082800,
+  "address" : "10541 S Hoyne Av",
+  "landmark_name" : "American System-Built Houses",
+  "longitude" : "-87.67382635530",
+  "latitude" : "41.70159220360",
+  "date_built" : "1917"
+}
+, {
+  "architect" : "comm sculpture,\"Pillar of Fire\" Egon Weiner 1961",
+  "id" : "L-187",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6419907162",
+    "latitude" : "41.8692720628"
+  },
+  "landmark_designation_date" : 53766000,
+  "address" : "Dekoven (1050s) & Jefferson (600w) St",
+  "landmark_name" : "Site of the Origin of the Chicago Fire of 1871",
+  "longitude" : "-87.64199071620",
+  "latitude" : "41.86927206280",
+  "date_built" : "1871"
+}
+, {
+  "architect" : "Charles Summer Frost",
+  "id" : "L-150",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6046964212",
+    "latitude" : "41.8917352558"
+  },
+  "landmark_designation_date" : 248342400,
+  "address" : "Grand Av and Streeter Dr at Lake Michigan",
+  "landmark_name" : "Navy Pier (Headhouse and East End Building)",
+  "longitude" : "-87.60469642120",
+  "latitude" : "41.89173525580",
+  "date_built" : "1916"
+}
+, {
+  "architect" : "Dahlgren & Lievendahl - rear addit 1906 - unknown",
+  "id" : "L- 17",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6720606011",
+    "latitude" : "41.9654298692"
+  },
+  "landmark_designation_date" : 1141200000,
+  "address" : "4605 N Hermitage Ave",
+  "landmark_name" : "Dr. Wallace C. Abbott House",
+  "longitude" : "-87.67206060110",
+  "latitude" : "41.96542986920",
+  "date_built" : "1891"
+}
+, {
+  "id" : "L-265",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6921000957",
+    "latitude" : "41.9316266084"
+  },
+  "landmark_designation_date" : 1217401200,
+  "address" : "2543 - 2545 W Diversey Av",
+  "landmark_name" : "Vassar Swiss Underwear Company Building",
+  "longitude" : "-87.69210009570",
+  "latitude" : "41.93162660840"
+}
+, {
+  "architect" : "Meyer & Cook with Northwestern Terra Cotta Co.",
+  "id" : "L-132",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7558375828",
+    "latitude" : "41.8952077596"
+  },
+  "landmark_designation_date" : 803113200,
+  "address" : "5200 W Chicago Av",
+  "landmark_name" : "Laramie State Bank Building",
+  "longitude" : "-87.75583758280",
+  "latitude" : "41.89520775960",
+  "date_built" : "1927-29"
+}
+, {
+  "architect" : "Barry Byrne",
+  "id" : "L- 20",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.646291602",
+    "latitude" : "41.9551213381"
+  },
+  "landmark_designation_date" : 428137200,
+  "address" : "640 W Irving Park Rd & 4030 N Marine Dr",
+  "landmark_name" : "Immaculata High School & Convent Buildings",
+  "longitude" : "-87.64629160200",
+  "latitude" : "41.95512133810",
+  "date_built" : "1922"
+}
+, {
+  "architect" : "Holabird and Roche",
+  "id" : "L-140",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6297401183",
+    "latitude" : "41.8797869732"
+  },
+  "landmark_designation_date" : 171529200,
+  "address" : "140 S Dearborn St",
+  "landmark_name" : "Marquette Building",
+  "longitude" : "-87.62974011830",
+  "latitude" : "41.87978697320",
+  "date_built" : "1895"
+}
+, {
+  "id" : "L-251",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6390992381",
+    "latitude" : "41.8885100645"
+  },
+  "landmark_designation_date" : 1197446400,
+  "address" : "N Branch Chgo River, S of Kinzie & E of Canal St",
+  "landmark_name" : "Chicago & Northwestern Bridge",
+  "longitude" : "-87.63909923810",
+  "latitude" : "41.88851006450"
+}
+, {
+  "architect" : "George and William Keck",
+  "id" : "L-126",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5977036617",
+    "latitude" : "41.793550861"
+  },
+  "landmark_designation_date" : 775897200,
+  "address" : "5551 S University Av",
+  "landmark_name" : "Keck-Gottschalk-Keck Apartments",
+  "longitude" : "-87.59770366170",
+  "latitude" : "41.79355086100",
+  "date_built" : "1937"
+}
+, {
+  "architect" : "Perkins, Fellows & Hamilton",
+  "id" : "L-165",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6250726676",
+    "latitude" : "41.8972320507"
+  },
+  "landmark_designation_date" : 754732800,
+  "address" : "814 N Michigan Av",
+  "landmark_name" : "Perkins, Fellows & Hamilton Office and Studio",
+  "longitude" : "-87.62507266760",
+  "latitude" : "41.89723205070",
+  "date_built" : "1917"
+}
+, {
+  "architect" : "Thielbar & Fugard",
+  "id" : "L-144",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6248926856",
+    "latitude" : "41.891410922"
+  },
+  "landmark_designation_date" : 855302400,
+  "address" : "520 N Michigan Av",
+  "landmark_name" : "McGraw-Hill Building",
+  "longitude" : "-87.62489268560",
+  "latitude" : "41.89141092200",
+  "date_built" : "1928-29"
+}
+, {
+  "architect" : "Alfred S. Alshuler",
+  "id" : "L-105",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6682731246",
+    "latitude" : "41.8957717929"
+  },
+  "landmark_designation_date" : 891417600,
+  "address" : "1613-1635 W Chicago av",
+  "landmark_name" : "Goldblatt Bros. Department Store",
+  "longitude" : "-87.66827312460",
+  "latitude" : "41.89577179290",
+  "date_built" : "1921-22"
+}
+, {
+  "architect" : "Graham, Anderson, Probst & White",
+  "id" : "L-200",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6403567335",
+    "latitude" : "41.8786699026"
+  },
+  "landmark_designation_date" : 1020236400,
+  "address" : "210 S Canal St",
+  "landmark_name" : "Union Station",
+  "longitude" : "-87.64035673350",
+  "latitude" : "41.87866990260",
+  "date_built" : "1913-25"
+}
+, {
+  "id" : "L-244",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6646413674",
+    "latitude" : "41.8398735943"
+  },
+  "landmark_designation_date" : 1197446400,
+  "address" : "S Fork of S Branch, N of Archer & E of Ashland",
+  "landmark_name" : "Chicago and Alton Bridge",
+  "longitude" : "-87.66464136740",
+  "latitude" : "41.83987359430"
+}
+, {
+  "architect" : "Leon E. Stanhope",
+  "id" : "L- 87",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6225078834",
+    "latitude" : "41.8149877687"
+  },
+  "landmark_designation_date" : 739609200,
+  "address" : "4359 S Michigan Av",
+  "landmark_name" : "Eighth Church of Christ, Scientist",
+  "longitude" : "-87.62250788340",
+  "latitude" : "41.81498776870",
+  "date_built" : "1911"
+}
+, {
+  "architect" : "Klaber & Grunfeld",
+  "id" : "L- 23",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7133729164",
+    "latitude" : "41.863255626"
+  },
+  "landmark_designation_date" : 962175600,
+  "address" : "3500 W Douglas Blvd",
+  "landmark_name" : "Jewish People's Institute",
+  "longitude" : "-87.71337291640",
+  "latitude" : "41.86325562600",
+  "date_built" : "1927"
+}
+, {
+  "architect" : "C.F. Murphy Associates, Sculptor:Pablo Picasso",
+  "id" : "L- 78",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6301830697",
+    "latitude" : "41.8838471156"
+  },
+  "landmark_designation_date" : 1036569600,
+  "address" : "50 West Washington St",
+  "landmark_name" : "Daley Center",
+  "longitude" : "-87.63018306970",
+  "latitude" : "41.88384711560",
+  "date_built" : "1965"
+}
+, {
+  "architect" : "George Grant Elmslie & Herman V. von Holst",
+  "id" : "L-164",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5509205468",
+    "latitude" : "41.7326484509"
+  },
+  "landmark_designation_date" : 829638000,
+  "address" : "8935 S Commercial Av",
+  "landmark_name" : "Peoples Gas-South Chicago Neighborhood Store",
+  "longitude" : "-87.55092054680",
+  "latitude" : "41.73264845090",
+  "date_built" : "1925"
+}
+, {
+  "architect" : "Daniel H. Burham & Charles Atwood",
+  "id" : "L-141",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6270377395",
+    "latitude" : "41.8838568019"
+  },
+  "landmark_designation_date" : 1130832000,
+  "address" : "111 N State St",
+  "landmark_name" : "Marshall Field and Company Building",
+  "longitude" : "-87.62703773950",
+  "latitude" : "41.88385680190",
+  "date_built" : "1892"
+}
+, {
+  "architect" : "Pond & Pond",
+  "id" : "L-154",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6628740978",
+    "latitude" : "41.9000427266"
+  },
+  "landmark_designation_date" : 754732800,
+  "address" : "1400 W Augusta Blvd",
+  "landmark_name" : "Northwestern University Settlement House",
+  "longitude" : "-87.66287409780",
+  "latitude" : "41.90004272660",
+  "date_built" : "1901"
+}
+, {
+  "architect" : "Architect Unknown",
+  "id" : "L-171",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7336707451",
+    "latitude" : "41.9531018569"
+  },
+  "landmark_designation_date" : 590914800,
+  "address" : "3945 N Tripp Av",
+  "landmark_name" : "Stephen Race House",
+  "longitude" : "-87.73367074510",
+  "latitude" : "41.95310185690",
+  "date_built" : "1874"
+}
+, {
+  "architect" : "Bertram Grosvenor Goodhue Associates",
+  "id" : "L-178",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5970443072",
+    "latitude" : "41.7885259092"
+  },
+  "landmark_designation_date" : 1099468800,
+  "address" : "1156-80 E 59th St",
+  "landmark_name" : "Rockefeller Memorial Chapel",
+  "longitude" : "-87.59704430720",
+  "latitude" : "41.78852590920",
+  "date_built" : "1925-28"
+}
+, {
+  "architect" : "Oscar Cobb & Co.",
+  "id" : "L- 85",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6865936818",
+    "latitude" : "41.8285816489"
+  },
+  "landmark_designation_date" : 829638000,
+  "address" : "3558 S Artesian Av",
+  "landmark_name" : "DuPont-Whitehouse House",
+  "longitude" : "-87.68659368180",
+  "latitude" : "41.82858164890",
+  "date_built" : "1876"
+}
+, {
+  "architect" : "Perkins, Fellows & Hamilton",
+  "id" : "L- 15",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6333359813",
+    "latitude" : "41.92133817"
+  },
+  "landmark_designation_date" : 1133337600,
+  "address" : "2132 N Stockton Dr",
+  "landmark_name" : "Lion House - Lincoln Park Zoo",
+  "longitude" : "-87.63333598130",
+  "latitude" : "41.92133817000",
+  "date_built" : "1912"
+}
+, {
+  "architect" : "Holabird & Root",
+  "id" : "L-161",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.623501521",
+    "latitude" : "41.899779462"
+  },
+  "landmark_designation_date" : 950688000,
+  "address" : "919 N Michigan Av",
+  "landmark_name" : "Palmolive Building",
+  "longitude" : "-87.62350152100",
+  "latitude" : "41.89977946200",
+  "date_built" : "1927-29"
+}
+, {
+  "architect" : "Nathaniel Koenigsberg & Leon Weisfeld",
+  "id" : "L- 55",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6576244692",
+    "latitude" : "41.9838506859"
+  },
+  "landmark_designation_date" : 1036569600,
+  "address" : "1062 W Bryn Mawr Av",
+  "landmark_name" : "Belle Shore Apartment Hotel",
+  "longitude" : "-87.65762446920",
+  "latitude" : "41.98385068590",
+  "date_built" : "1928-29"
+}
+, {
+  "architect" : "Office of the United States Surveyor-General",
+  "id" : "L-118",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5262226891",
+    "latitude" : "41.7088646706"
+  },
+  "landmark_designation_date" : 1031122800,
+  "address" : "Avenue G, near 103rd St",
+  "landmark_name" : "Illinois-Indiana State Line Boundary Marker",
+  "longitude" : "-87.52622268910",
+  "latitude" : "41.70886467060",
+  "date_built" : "1838"
+}
+, {
+  "architect" : "Raymond M. Hood and John Mead Howells",
+  "id" : "L-198",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6232650679",
+    "latitude" : "41.8904602181"
+  },
+  "landmark_designation_date" : 602323200,
+  "address" : "435 N Michigan Av",
+  "landmark_name" : "Tribune Tower",
+  "longitude" : "-87.62326506790",
+  "latitude" : "41.89046021810",
+  "date_built" : "1922-25"
+}
+, {
+  "architect" : "Burnham Brothers, Inc.",
+  "id" : "L- 62",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6249948236",
+    "latitude" : "41.8865236143"
+  },
+  "landmark_designation_date" : 831625200,
+  "address" : "230 N Michigan Av",
+  "landmark_name" : "Carbide and Carbon Building",
+  "longitude" : "-87.62499482360",
+  "latitude" : "41.88652361430",
+  "date_built" : "1929"
+}
+, {
+  "architect" : "Charles W. Kallal",
+  "id" : "L-232",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6236607767",
+    "latitude" : "41.7966978108"
+  },
+  "landmark_designation_date" : 1064991600,
+  "address" : "5349 S Wabash Av",
+  "landmark_name" : "Engine Company 61",
+  "longitude" : "-87.62366077670",
+  "latitude" : "41.79669781080",
+  "date_built" : "1927-28"
+}
+, {
+  "architect" : "Holabird & Root",
+  "id" : "L- 14",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6322711493",
+    "latitude" : "41.8777351318"
+  },
+  "landmark_designation_date" : 231577200,
+  "address" : "141 W Jackson Blvd",
+  "landmark_name" : "Chicago Board of Trade Building",
+  "longitude" : "-87.63227114930",
+  "latitude" : "41.87773513180",
+  "date_built" : "1930"
+}
+, {
+  "id" : "L-258",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.627507656",
+    "latitude" : "41.8886144897"
+  },
+  "landmark_designation_date" : 1202284800,
+  "address" : "330 North Wabash Av",
+  "landmark_name" : "IBM Building",
+  "longitude" : "-87.62750765600",
+  "latitude" : "41.88861448970"
+}
+, {
+  "architect" : "Myron Church",
+  "id" : "L- 99",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6183036472",
+    "latitude" : "41.7937353344"
+  },
+  "landmark_designation_date" : 1008144000,
+  "address" : "319 E Garfield Blvd",
+  "landmark_name" : "Garfield Boulevard \"L\" Station and Overpass",
+  "longitude" : "-87.61830364720",
+  "latitude" : "41.79373533440",
+  "date_built" : "1892"
+}
+, {
+  "id" : "L- 10",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6295609692",
+    "latitude" : "41.8697949779"
+  },
+  "landmark_designation_date" : 1085554800,
+  "address" : "SW Corner of W 9th St & Plymouth Ct",
+  "landmark_name" : "Site of the John & Mary Jones House",
+  "longitude" : "-87.62956096920",
+  "latitude" : "41.86979497790"
+}
+, {
+  "architect" : "C. Howard Crane & H Kenneth Franzheim",
+  "id" : "L-108",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6298759973",
+    "latitude" : "41.8850527944"
+  },
+  "landmark_designation_date" : 417945600,
+  "address" : "180-90 N Dearborn st",
+  "landmark_name" : "Harris and Selwyn Theaters",
+  "longitude" : "-87.62987599730",
+  "latitude" : "41.88505279440",
+  "date_built" : "1922"
+}
+, {
+  "architect" : "Frederick Schock",
+  "id" : "L-224",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7706081072",
+    "latitude" : "41.8893178892"
+  },
+  "landmark_designation_date" : 916819200,
+  "address" : "5810 W Midway Park",
+  "landmark_name" : "Beeson House and Coach House",
+  "longitude" : "-87.77060810720",
+  "latitude" : "41.88931788920",
+  "date_built" : "1892"
+}
+, {
+  "architect" : "William LeBaron Jenney",
+  "id" : "L-139",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6289644505",
+    "latitude" : "41.8760657234"
+  },
+  "landmark_designation_date" : 268642800,
+  "address" : "431 S Dearborn St",
+  "landmark_name" : "Manhattan Building",
+  "longitude" : "-87.62896445050",
+  "latitude" : "41.87606572340",
+  "date_built" : "1891"
+}
+, {
+  "architect" : "Edmund R. Krause",
+  "id" : "L-138",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6285777569",
+    "latitude" : "41.8810785557"
+  },
+  "landmark_designation_date" : 1115794800,
+  "address" : "22 W Monore St",
+  "landmark_name" : "Majestic Building and Theater",
+  "longitude" : "-87.62857775690",
+  "latitude" : "41.88107855570",
+  "date_built" : "1906"
+}
+, {
+  "architect" : "Louis H. Sullivan, 1905-6:D.H. Burnham&Co.",
+  "id" : "L- 63",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6269801114",
+    "latitude" : "41.8814058757"
+  },
+  "landmark_designation_date" : 26640000,
+  "address" : "1 S State St",
+  "landmark_name" : "Carson Pirie Scott & Company Building",
+  "longitude" : "-87.62698011140",
+  "latitude" : "41.88140587570",
+  "date_built" : "1898-99"
+}
+, {
+  "architect" : "Richard E. Schmidt",
+  "id" : "L-194",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6395390064",
+    "latitude" : "41.9275524015"
+  },
+  "landmark_designation_date" : 303116400,
+  "address" : "2466 N Lakeview Av",
+  "landmark_name" : "Theurer-Wrigley House",
+  "longitude" : "-87.63953900640",
+  "latitude" : "41.92755240150",
+  "date_built" : "1896"
+}
+, {
+  "architect" : "Adolph Cudell & Arthur Hercz",
+  "id" : "L- 82",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6415742279",
+    "latitude" : "41.9303407661"
+  },
+  "landmark_designation_date" : 140252400,
+  "address" : "503 W Wrightwood Av",
+  "landmark_name" : "Francis J. Dewes House",
+  "longitude" : "-87.64157422790",
+  "latitude" : "41.93034076610",
+  "date_built" : "1896"
+}
+, {
+  "architect" : "George C. Nimmons",
+  "id" : "L-174",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6318314721",
+    "latitude" : "41.8881272387"
+  },
+  "landmark_designation_date" : 216892800,
+  "address" : "320 N Clark St",
+  "landmark_name" : "Reid, Murdoch and Company Building",
+  "longitude" : "-87.63183147210",
+  "latitude" : "41.88812723870",
+  "date_built" : "1914"
+}
+, {
+  "architect" : "Clarence Hatzfeld",
+  "id" : "L-120",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6925993315",
+    "latitude" : "42.0088761044"
+  },
+  "landmark_designation_date" : 1115794800,
+  "address" : "2500 W Lunt Av",
+  "landmark_name" : "Indian Boundary Park Fieldhouse",
+  "longitude" : "-87.69259933150",
+  "latitude" : "42.00887610440",
+  "date_built" : "1929"
+}
+, {
+  "architect" : "Argyle E. Robinson",
+  "id" : "L-233",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6070024003",
+    "latitude" : "41.8111849939"
+  },
+  "landmark_designation_date" : 1064991600,
+  "address" : "4600 S Cottage Grove Av",
+  "landmark_name" : "Engine Company 45, Truck 15",
+  "longitude" : "-87.60700240030",
+  "latitude" : "41.81118499390",
+  "date_built" : "1928"
+}
+, {
+  "id" : "L-248",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7144107037",
+    "latitude" : "41.8286493748"
+  },
+  "landmark_designation_date" : 1197446400,
+  "address" : "San & Ship Canal, S of 35th St & E of Pulaski Rd",
+  "landmark_name" : "Illinois Central Swing Bridge",
+  "longitude" : "-87.71441070370",
+  "latitude" : "41.82864937480"
+}
+, {
+  "architect" : "Nimmons & Fellows and George C. Nimmons & Co.",
+  "id" : "L-181",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.709632374",
+    "latitude" : "41.8696820866"
+  },
+  "landmark_designation_date" : 1031122800,
+  "address" : "3333 W Arthington St",
+  "landmark_name" : "Sears, Roebuck and Company Administration Building",
+  "longitude" : "-87.70963237400",
+  "latitude" : "41.86968208660",
+  "date_built" : "1905-14"
+}
+, {
+  "id" : "L-241",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6345304179",
+    "latitude" : "41.8609239906"
+  },
+  "landmark_designation_date" : 1197446400,
+  "address" : "S B Chgo River, N of 16th St & E of Lumber St",
+  "landmark_name" : "St Charles Air Line Bridge",
+  "longitude" : "-87.63453041790",
+  "latitude" : "41.86092399060"
+}
+, {
+  "architect" : "Charles B. Atwood",
+  "id" : "L- 27",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5828746617",
+    "latitude" : "41.7905472338"
+  },
+  "landmark_designation_date" : 815212800,
+  "address" : "57th St and Lake Shore Dr",
+  "landmark_name" : "Museum of Science and Industry",
+  "longitude" : "-87.58287466170",
+  "latitude" : "41.79054723380",
+  "date_built" : "1891-93"
+}
+, {
+  "architect" : "John T. Long",
+  "id" : "L-215",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.631296223",
+    "latitude" : "41.7747041062"
+  },
+  "landmark_designation_date" : 1049871600,
+  "address" : "6565 S Yale Av",
+  "landmark_name" : "Yale Apartments",
+  "longitude" : "-87.63129622300",
+  "latitude" : "41.77470410620",
+  "date_built" : "1892-93"
+}
+, {
+  "id" : "L-186",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6442084744",
+    "latitude" : "41.8851560683"
+  },
+  "landmark_designation_date" : 701510400,
+  "address" : "Desplaines St(650W), bet Randolph & Lake",
+  "landmark_name" : "Site of Haymarket Tragedy",
+  "longitude" : "-87.64420847440",
+  "latitude" : "41.88515606830",
+  "date_built" : "1886"
+}
+, {
+  "architect" : "Holabird and Roche",
+  "id" : "L- 71",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6316552814",
+    "latitude" : "41.8838425425"
+  },
+  "landmark_designation_date" : 380448000,
+  "address" : "121 N LaSalle St / 118 N Clark St",
+  "landmark_name" : "City Hall-County Building",
+  "longitude" : "-87.63165528140",
+  "latitude" : "41.88384254250",
+  "date_built" : "1905-08"
+}
+, {
+  "architect" : "Ludwig Mies van der Rohe",
+  "id" : "L- 29",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6272852013",
+    "latitude" : "41.8332451677"
+  },
+  "landmark_designation_date" : 875689200,
+  "address" : "3360 S State St",
+  "landmark_name" : "Crown Hall",
+  "longitude" : "-87.62728520130",
+  "latitude" : "41.83324516770",
+  "date_built" : "1950-56"
+}
+, {
+  "id" : "L-269",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7328787313",
+    "latitude" : "41.9526035933"
+  },
+  "landmark_designation_date" : 1223449200,
+  "address" : "3926 N Keeler",
+  "landmark_name" : "Charles N. Loucks House",
+  "longitude" : "-87.73287873130",
+  "latitude" : "41.95260359330"
+}
+, {
+  "id" : "L-270",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.691870419",
+    "latitude" : "41.8833505943"
+  },
+  "address" : "2620 W Washington Blvd",
+  "landmark_name" : "Lindemann and Hoverson Company",
+  "longitude" : "-87.69187041900",
+  "latitude" : "41.88335059430"
+}
+, {
+  "id" : "L-280",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6308257431",
+    "latitude" : "41.8968472205"
+  },
+  "address" : "801 N Clark St",
+  "landmark_name" : "(Former) Cosmopolitan State Bank Building",
+  "longitude" : "-87.63082574310",
+  "latitude" : "41.89684722050"
+}
+, {
+  "id" : "L-279",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6356810697",
+    "latitude" : "41.8797274269"
+  },
+  "address" : "300 W Adams St",
+  "landmark_name" : "300 West Adams Street Office Building",
+  "longitude" : "-87.63568106970",
+  "latitude" : "41.87972742690"
+}
+, {
+  "id" : "L-278",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6165077965",
+    "latitude" : "41.8013419579"
+  },
+  "address" : "5120 S Dr Martin Luther King, Jr. Dr",
+  "landmark_name" : "Chicago Orphan Asylum Building",
+  "longitude" : "-87.61650779650",
+  "latitude" : "41.80134195790"
+}
+, {
+  "id" : "L-277",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6420118526",
+    "latitude" : "41.9294713553"
+  },
+  "address" : "2551 N Clark Street",
+  "landmark_name" : "North Chicago Hospital Building",
+  "longitude" : "-87.64201185260",
+  "latitude" : "41.92947135530"
+}
+, {
+  "id" : "L-276",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6320888311",
+    "latitude" : "41.9108452763"
+  },
+  "address" : "1546-1550 N Clark St",
+  "landmark_name" : "Village Theatre",
+  "longitude" : "-87.63208883110",
+  "latitude" : "41.91084527630"
+}
+, {
+  "id" : "L-282",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7172693271",
+    "latitude" : "41.9249085241"
+  },
+  "landmark_name" : "Kimbell Trust and Savings Bank Building",
+  "longitude" : "-87.71726932710",
+  "latitude" : "41.92490852410"
+}
+, {
+  "id" : "L-274",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6840194809",
+    "latitude" : "41.7786654038"
+  },
+  "address" : "6314 S Western Av",
+  "landmark_name" : "(Former) Marquette Park State Bank Building",
+  "longitude" : "-87.68401948090",
+  "latitude" : "41.77866540380"
+}
+, {
+  "id" : "L-273",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7384906171",
+    "latitude" : "41.9514812467"
+  },
+  "address" : "3854 N Kostner Av",
+  "landmark_name" : "John and Clara Merchant House",
+  "longitude" : "-87.73849061710",
+  "latitude" : "41.95148124670"
+}
+, {
+  "id" : "L-272",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6701634545",
+    "latitude" : "41.9421918025"
+  },
+  "address" : "3321 N Lincoln Av",
+  "landmark_name" : "(Former) Marshfield Trust and Savings Bank Bldg",
+  "longitude" : "-87.67016345450",
+  "latitude" : "41.94219180250"
+}
+, {
+  "id" : "L-281",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6462960058",
+    "latitude" : "41.8188089866"
+  },
+  "address" : "4150 S Halsted St",
+  "landmark_name" : "(Former) Stock Yards National Bank Building",
+  "longitude" : "-87.64629600580",
+  "latitude" : "41.81880898660"
+}
+, {
+  "architect" : "Frederick Schock",
+  "id" : "L-225",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7697167565",
+    "latitude" : "41.889758609"
+  },
+  "landmark_designation_date" : 916819200,
+  "address" : "5749 W Race Av",
+  "landmark_name" : "Marie Schock House",
+  "longitude" : "-87.76971675650",
+  "latitude" : "41.88975860900",
+  "date_built" : "1888"
+}
+, {
+  "architect" : "Alfred S. Alschuler",
+  "id" : "L-134",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6250578561",
+    "latitude" : "41.8879557052"
+  },
+  "landmark_designation_date" : 829638000,
+  "address" : "360 N Michigan Av",
+  "landmark_name" : "London Guarantee Building",
+  "longitude" : "-87.62505785610",
+  "latitude" : "41.88795570520",
+  "date_built" : "1922-23"
+}
+, {
+  "architect" : "John C. Cochrane",
+  "id" : "L- 44",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.672948616",
+    "latitude" : "41.9649452289"
+  },
+  "landmark_designation_date" : 409824000,
+  "address" : "4550 N Hermitage Av",
+  "landmark_name" : "All Saints Church and Rectory",
+  "longitude" : "-87.67294861600",
+  "latitude" : "41.96494522890",
+  "date_built" : "1883"
+}
+, {
+  "architect" : "Holabird & Roche",
+  "id" : "L-155",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6289773341",
+    "latitude" : "41.876607594"
+  },
+  "landmark_designation_date" : 268642800,
+  "address" : "407 S Dearborn St",
+  "landmark_name" : "Old Colony Building",
+  "longitude" : "-87.62897733410",
+  "latitude" : "41.87660759400",
+  "date_built" : "1894"
+}
+, {
+  "architect" : "Daniel Chester French,sculptor&Henry Bacon,arch",
+  "id" : "L-191",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5798816509",
+    "latitude" : "41.779596126"
+  },
+  "landmark_designation_date" : 1054710000,
+  "address" : "Jackson Park at Hayes & Richards Drs",
+  "landmark_name" : "Statue of the Republic",
+  "longitude" : "-87.57988165090",
+  "latitude" : "41.77959612600",
+  "date_built" : "1918"
+}
+, {
+  "architect" : "John C. Cochrane",
+  "id" : "L-214",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.619976759",
+    "latitude" : "41.8432902979"
+  },
+  "landmark_designation_date" : 1064991600,
+  "address" : "2801 S Prarie Av",
+  "landmark_name" : "Wood-Maxey-Boyd House",
+  "longitude" : "-87.61997675900",
+  "latitude" : "41.84329029790",
+  "date_built" : "1885"
+}
+, {
+  "architect" : "James Renwick Recon:1900;Howard Van Doren Shaw",
+  "id" : "L-182",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6243593054",
+    "latitude" : "41.8557248795"
+  },
+  "landmark_designation_date" : 244278000,
+  "address" : "1928-1936 S Michigan Av",
+  "landmark_name" : "Second Presbyterian Church",
+  "longitude" : "-87.62435930540",
+  "latitude" : "41.85572487950",
+  "date_built" : "1874"
+}
+, {
+  "architect" : "John M. Van Osdel,1902 State St facade:Hill",
+  "id" : "L- 40",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6275898319",
+    "latitude" : "41.8854887622"
+  },
+  "landmark_designation_date" : 412588800,
+  "address" : "177-191 N State St",
+  "landmark_name" : "Page Brothers Building",
+  "longitude" : "-87.62758983190",
+  "latitude" : "41.88548876220",
+  "date_built" : "1872"
+}
+, {
+  "architect" : "William Presto ans Louis H. Sullivan",
+  "id" : "L-130",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6860108177",
+    "latitude" : "41.965336129"
+  },
+  "landmark_designation_date" : 244278000,
+  "address" : "4611 N Lincoln Av",
+  "landmark_name" : "Krause Music Store",
+  "longitude" : "-87.68601081770",
+  "latitude" : "41.96533612900",
+  "date_built" : "1922"
+}
+, {
+  "architect" : "Adler & Sullivan",
+  "id" : "L- 89",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6027879992",
+    "latitude" : "41.819255751"
+  },
+  "landmark_designation_date" : 686386800,
+  "address" : "4122 S Ellis Av",
+  "landmark_name" : "Mathilde Eliel House",
+  "longitude" : "-87.60278799920",
+  "latitude" : "41.81925575100",
+  "date_built" : "1886"
+}
+, {
+  "architect" : "Admin Bldg: Adolph Cudell",
+  "id" : "L-179",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6397318774",
+    "latitude" : "41.8580556905"
+  },
+  "landmark_designation_date" : 584780400,
+  "address" : "18th St & Canalport (500W)",
+  "landmark_name" : "Schoenhofen Brewery",
+  "longitude" : "-87.63973187740",
+  "latitude" : "41.85805569050",
+  "date_built" : "1886"
+}
+, {
+  "architect" : "Richard E. Schmidt & Hugh M.G. Garden",
+  "id" : "L-136",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6292217949",
+    "latitude" : "41.9096485971"
+  },
+  "landmark_designation_date" : 101635200,
+  "address" : "4 W Burton Pl",
+  "landmark_name" : "Albert F. Madlener House",
+  "longitude" : "-87.62922179490",
+  "latitude" : "41.90964859710",
+  "date_built" : "1902"
+}
+, {
+  "id" : "L-260",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6544485367",
+    "latitude" : "41.9396787526"
+  },
+  "landmark_designation_date" : 1215586800,
+  "address" : "3150 N Sheffield Av",
+  "landmark_name" : "(Former) Belmont-Sheffield Trust & Savings Bldg",
+  "longitude" : "-87.65444853670",
+  "latitude" : "41.93967875260"
+}
+, {
+  "architect" : "Karl M. Vitzhum & Co.",
+  "id" : "L-218",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6336029549",
+    "latitude" : "41.884829161"
+  },
+  "landmark_designation_date" : 1153897200,
+  "address" : "188 W Randolph St",
+  "landmark_name" : "Steuben Club Building",
+  "longitude" : "-87.63360295490",
+  "latitude" : "41.88482916100",
+  "date_built" : "1929"
+}
+, {
+  "architect" : "John Turner Long.1913 mn sanc alt Charles S Frost",
+  "id" : "L- 39",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6175252982",
+    "latitude" : "41.8199982447"
+  },
+  "landmark_designation_date" : 1184828400,
+  "address" : "4100 S Dr Martin Luther King Jr Dr",
+  "landmark_name" : "Metropolitan Apostolic Community Church Building",
+  "longitude" : "-87.61752529820",
+  "latitude" : "41.81999824470",
+  "date_built" : "1890"
+}
+, {
+  "architect" : "John Eberson",
+  "id" : "L-151",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5835096955",
+    "latitude" : "41.7512473796"
+  },
+  "landmark_designation_date" : 708764400,
+  "address" : "1641 E 79th st",
+  "landmark_name" : "New Regal Theater",
+  "longitude" : "-87.58350969550",
+  "latitude" : "41.75124737960",
+  "date_built" : "1927"
+}
+, {
+  "architect" : "Commern. sculpture,\"Nuclear Energy\" Henry Moore",
+  "id" : "L-184",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6008698951",
+    "latitude" : "41.7921621211"
+  },
+  "landmark_designation_date" : 57394800,
+  "address" : "East Side of S Ellis Ave between 56th & 57th St",
+  "landmark_name" : "Site of the 1st Self-Sustain Cont. Nuclear Chain",
+  "longitude" : "-87.60086989510",
+  "latitude" : "41.79216212110",
+  "date_built" : "1942"
+}
+, {
+  "architect" : "K.M. Vizthum & Co with John Burns",
+  "id" : "L-160",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6320059355",
+    "latitude" : "41.8823136051"
+  },
+  "landmark_designation_date" : 829638000,
+  "address" : "1 N LaSalle St",
+  "landmark_name" : "One North LaSalle Building",
+  "longitude" : "-87.63200593550",
+  "latitude" : "41.88231360510",
+  "date_built" : "1929-30"
+}
+, {
+  "architect" : "N1/2: Burham & Root; S1/2: Holabird & Roche",
+  "id" : "L-148",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6295458084",
+    "latitude" : "41.8775314473"
+  },
+  "landmark_designation_date" : 122112000,
+  "address" : "53 W Jackson Blvd",
+  "landmark_name" : "Monadnock Block",
+  "longitude" : "-87.62954580840",
+  "latitude" : "41.87753144730",
+  "date_built" : "1889-93"
+}
+, {
+  "architect" : "Murgatroyd & Ogden with Fugard & Knapp",
+  "id" : "L- 45",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6237137555",
+    "latitude" : "41.8952009758"
+  },
+  "landmark_designation_date" : 893833200,
+  "address" : "701 N Michigan Av",
+  "landmark_name" : "Allerton Hotel",
+  "longitude" : "-87.62371375550",
+  "latitude" : "41.89520097580",
+  "date_built" : "1922"
+}
+, {
+  "architect" : "Hugh M.G. Garden",
+  "id" : "L-146",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6812423555",
+    "latitude" : "41.8828003421"
+  },
+  "landmark_designation_date" : 603619200,
+  "address" : "2151 W Washington Blvd",
+  "landmark_name" : "Metropolitan Missionary Baptist Church",
+  "longitude" : "-87.68124235550",
+  "latitude" : "41.88280034210",
+  "date_built" : "1901"
+}
+, {
+  "architect" : "Architect Unknown",
+  "id" : "L-117",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6827684859",
+    "latitude" : "41.6911832728"
+  },
+  "landmark_designation_date" : 774082800,
+  "address" : "11118 S Artesian Av",
+  "landmark_name" : "Charles D. Iglehart House",
+  "longitude" : "-87.68276848590",
+  "latitude" : "41.69118327280",
+  "date_built" : "1857"
+}
+, {
+  "architect" : "Architect Unknown",
+  "id" : "L-110",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7538785635",
+    "latitude" : "41.9810393623"
+  },
+  "landmark_designation_date" : 1122447600,
+  "address" : "5453 N Forest Glen Av",
+  "landmark_name" : "Hazelton-Mikota House",
+  "longitude" : "-87.75387856350",
+  "latitude" : "41.98103936230",
+  "date_built" : "1881"
+}
+, {
+  "architect" : "Henry Hobson Richardson",
+  "id" : "L-104",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6212106559",
+    "latitude" : "41.8577246412"
+  },
+  "landmark_designation_date" : 24735600,
+  "address" : "1800 S Prairie Av",
+  "landmark_name" : "John J. Glessner House",
+  "longitude" : "-87.62121065590",
+  "latitude" : "41.85772464120",
+  "date_built" : "1886"
+}
+, {
+  "architect" : "James J. Egan",
+  "id" : "L-115",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6264417713",
+    "latitude" : "41.8969804073"
+  },
+  "landmark_designation_date" : 827827200,
+  "address" : "40-52 E Chicago Av",
+  "landmark_name" : "Hotel St. Benedict Flats",
+  "longitude" : "-87.62644177130",
+  "latitude" : "41.89698040730",
+  "date_built" : "1882-83"
+}
+, {
+  "architect" : "Otto H. Matz",
+  "id" : "L- 77",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6301319449",
+    "latitude" : "41.8902709798"
+  },
+  "landmark_designation_date" : 739609200,
+  "address" : "54 W Hubbard St",
+  "landmark_name" : "Courthouse Place",
+  "longitude" : "-87.63013194490",
+  "latitude" : "41.89027097980",
+  "date_built" : "1893"
+}
+, {
+  "architect" : "Burnham & Root",
+  "id" : "L-156",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6317974337",
+    "latitude" : "41.8790761299"
+  },
+  "landmark_designation_date" : 79167600,
+  "address" : "209 S LaSalle St",
+  "landmark_name" : "Rookery Building",
+  "longitude" : "-87.63179743370",
+  "latitude" : "41.87907612990",
+  "date_built" : "1885-88"
+}
+, {
+  "architect" : "J.E.O. Pridmore",
+  "id" : "L- 59",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6316684701",
+    "latitude" : "41.8969029318"
+  },
+  "landmark_designation_date" : 993625200,
+  "address" : "100 W Chicago Av",
+  "landmark_name" : "Bush Temple of Music",
+  "longitude" : "-87.63166847010",
+  "latitude" : "41.89690293180",
+  "date_built" : "1901"
+}
+, {
+  "id" : "L-249",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6370035357",
+    "latitude" : "41.8556585241"
+  },
+  "landmark_designation_date" : 1197446400,
+  "address" : "S Branch Chgo River, 19th St, SE of Lumber St",
+  "landmark_name" : "Pennsylania Bridge",
+  "longitude" : "-87.63700353570",
+  "latitude" : "41.85565852410"
+}
+, {
+  "architect" : "Architect Unknown",
+  "id" : "L-122",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6819294776",
+    "latitude" : "42.010392421"
+  },
+  "landmark_designation_date" : 466758000,
+  "address" : "7053 N Ridge Blvd",
+  "landmark_name" : "Jackson-Thomas House",
+  "longitude" : "-87.68192947760",
+  "latitude" : "42.01039242100",
+  "date_built" : "1874"
+}
+, {
+  "architect" : "George Maher",
+  "id" : "L-162",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6221496925",
+    "latitude" : "41.8010165532"
+  },
+  "landmark_designation_date" : 1064991600,
+  "address" : "5131 S Michigan Av",
+  "landmark_name" : "Pate-Comiskey House",
+  "longitude" : "-87.62214969250",
+  "latitude" : "41.80101655320",
+  "date_built" : "1901"
+}
+, {
+  "id" : "L-240",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6101975521",
+    "latitude" : "41.8876407491"
+  },
+  "landmark_designation_date" : 1197446400,
+  "address" : "250 North Breakwater Access",
+  "landmark_name" : "Old Chicago Coast Guard Station",
+  "longitude" : "-87.61019755210",
+  "latitude" : "41.88764074910"
+}
+, {
+  "architect" : "Paul Gerhardt, Jr.",
+  "id" : "L-237",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7353570425",
+    "latitude" : "41.8037338592"
+  },
+  "landmark_designation_date" : 1064991600,
+  "address" : "3000 W. 42nd St",
+  "landmark_name" : "Engine Company 65, Truck 52",
+  "longitude" : "-87.73535704250",
+  "latitude" : "41.80373385920",
+  "date_built" : "1929"
+}
+, {
+  "architect" : "Frank Lloyd Wright",
+  "id" : "L-111",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5971117009",
+    "latitude" : "41.8014083215"
+  },
+  "landmark_designation_date" : 53766000,
+  "address" : "5132 S Woodlawn Av",
+  "landmark_name" : "Isidore H. Heller House",
+  "longitude" : "-87.59711170090",
+  "latitude" : "41.80140832150",
+  "date_built" : "1897"
+}
+, {
+  "architect" : "Dankmar Adler with Louis H. Sullivan",
+  "id" : "L-123",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6256671687",
+    "latitude" : "41.8816174691"
+  },
+  "landmark_designation_date" : 376646400,
+  "address" : "15-17 S Wabash Av",
+  "landmark_name" : "Jewelers  Building",
+  "longitude" : "-87.62566716870",
+  "latitude" : "41.88161746910",
+  "date_built" : "1881-82"
+}
+, {
+  "architect" : "Board of Public Works",
+  "id" : "L-229",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6892282373",
+    "latitude" : "41.9551914391"
+  },
+  "landmark_designation_date" : 1064991600,
+  "address" : "2414 W Cuyler Av",
+  "landmark_name" : "(Former) Engine Company 86",
+  "longitude" : "-87.68922823730",
+  "latitude" : "41.95519143910",
+  "date_built" : "1899"
+}
+, {
+  "architect" : "Samuel N. Corwen",
+  "id" : "L- 53",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.64975918",
+    "latitude" : "41.9265207104"
+  },
+  "landmark_designation_date" : 985766400,
+  "address" : "2433-43 N Lincoln Av",
+  "landmark_name" : "Biograph Theater",
+  "longitude" : "-87.64975918000",
+  "latitude" : "41.92652071040",
+  "date_built" : "1914"
+}
+, {
+  "architect" : "Thielbard & Fugard w/ Eugene&Gwen Lux,Edgar Miller",
+  "id" : "L- 03",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6336339931",
+    "latitude" : "41.8860461885"
+  },
+  "landmark_designation_date" : 1074067200,
+  "address" : "201 N Wells St",
+  "landmark_name" : "Trustees System Service Building",
+  "longitude" : "-87.63363399310",
+  "latitude" : "41.88604618850",
+  "date_built" : "1929-30"
+}
+, {
+  "architect" : "Unknown",
+  "id" : "L- 19",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5904094691",
+    "latitude" : "41.8892733652"
+  },
+  "landmark_designation_date" : 1049871600,
+  "address" : "S End of the North Breakwater,N side of Harbor Ent",
+  "landmark_name" : "Chicago Harbor Lighthouse",
+  "longitude" : "-87.59040946910",
+  "latitude" : "41.88927336520",
+  "date_built" : "1893"
+}
+, {
+  "architect" : "Herbert Hugh Riddle",
+  "id" : "L-142",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6254272014",
+    "latitude" : "41.8876059776"
+  },
+  "landmark_designation_date" : 983952000,
+  "address" : "75 E Wacker Dr",
+  "landmark_name" : "Mather Tower",
+  "longitude" : "-87.62542720140",
+  "latitude" : "41.88760597760",
+  "date_built" : "1928"
+}
+, {
+  "architect" : "Enoch Hill Turnock",
+  "id" : "L- 54",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6415829766",
+    "latitude" : "41.9331639618"
+  },
+  "landmark_designation_date" : 402735600,
+  "address" : "2800 N Pine Grove Av",
+  "landmark_name" : "Brewster Apartments",
+  "longitude" : "-87.64158297660",
+  "latitude" : "41.93316396180",
+  "date_built" : "1893"
+}
+, {
+  "architect" : "Richard E. Schmidt, Garden and Martin",
+  "id" : "L-149",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6436954155",
+    "latitude" : "41.8974368676"
+  },
+  "landmark_designation_date" : 958546800,
+  "address" : "618 W Chicago Av",
+  "landmark_name" : "Montgomery Ward & Co. Catalog House",
+  "longitude" : "-87.64369541550",
+  "latitude" : "41.89743686760",
+  "date_built" : "1907-08"
+}
+, {
+  "architect" : "Argyle E. Robinson",
+  "id" : "L-235",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6640331512",
+    "latitude" : "41.9857240595"
+  },
+  "landmark_designation_date" : 1064991600,
+  "address" : "5714 N Ridge Av",
+  "landmark_name" : "Engine Company 59, Truck 47",
+  "longitude" : "-87.66403315120",
+  "latitude" : "41.98572405950",
+  "date_built" : "1928"
+}
+, {
+  "architect" : "Adler & Sullivan",
+  "id" : "L-125",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6470710728",
+    "latitude" : "41.9238674291"
+  },
+  "landmark_designation_date" : 829638000,
+  "address" : "2312-14 N Lincoln Av (S Half:1883;North Half:1887)",
+  "landmark_name" : "Kaufmann Store and Flats",
+  "longitude" : "-87.64707107280",
+  "latitude" : "41.92386742910",
+  "date_built" : "1883"
+}
+, {
+  "architect" : "Graham, Anderson, Probst & White",
+  "id" : "L-167",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.625716287",
+    "latitude" : "41.8829469518"
+  },
+  "landmark_designation_date" : 1036569600,
+  "address" : "55 E Washington st",
+  "landmark_name" : "Pittsfield Building",
+  "longitude" : "-87.62571628700",
+  "latitude" : "41.88294695180",
+  "date_built" : "1927"
+}
+, {
+  "architect" : "John Ernst Ericson. Bridgehse reconst. 1982",
+  "id" : "L- 76",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6643115534",
+    "latitude" : "41.916917265"
+  },
+  "landmark_designation_date" : 680338800,
+  "address" : "1440 W Cortland St",
+  "landmark_name" : "Cortland Street Drawbridge",
+  "longitude" : "-87.66431155340",
+  "latitude" : "41.91691726500",
+  "date_built" : "1902"
+}
+, {
+  "architect" : "Robert DeGolyer & Charles Morgan",
+  "id" : "L- 24",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5844718519",
+    "latitude" : "41.8046084045"
+  },
+  "landmark_designation_date" : 726825600,
+  "address" : "4950 S Chicago Beach Dr",
+  "landmark_name" : "Powhatan Apartments",
+  "longitude" : "-87.58447185190",
+  "latitude" : "41.80460840450",
+  "date_built" : "1927-29"
+}
+, {
+  "architect" : "addit 1863, Architects Unknown",
+  "id" : "L-153",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7958473092",
+    "latitude" : "41.9836151349"
+  },
+  "landmark_designation_date" : 579337200,
+  "address" : "5624 N Newark Av",
+  "landmark_name" : "Noble-Seymour-Crippen House",
+  "longitude" : "-87.79584730920",
+  "latitude" : "41.98361513490",
+  "date_built" : "1833"
+}
+, {
+  "architect" : "South Park Commission Architects",
+  "id" : "L-222",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5737125481",
+    "latitude" : "41.7814414364"
+  },
+  "landmark_designation_date" : 1102492800,
+  "address" : "South Lake Shore Dr and 63rd St",
+  "landmark_name" : "63rd Street Bathing Pavilion",
+  "longitude" : "-87.57371254810",
+  "latitude" : "41.78144143640",
+  "date_built" : "1919"
+}
+, {
+  "architect" : "D.H. Burnham & Co.",
+  "id" : "L-112",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6266873845",
+    "latitude" : "41.8818595588"
+  },
+  "landmark_designation_date" : 970038000,
+  "address" : "29 E Madison st",
+  "landmark_name" : "Heyworth Building",
+  "longitude" : "-87.62668738450",
+  "latitude" : "41.88185955880",
+  "date_built" : "1904"
+}
+, {
+  "architect" : "Egerton Swartwout",
+  "id" : "L- 01",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6398976486",
+    "latitude" : "41.9322856215"
+  },
+  "landmark_designation_date" : 1064991600,
+  "address" : "2750 N Lakeview Ave",
+  "landmark_name" : "Elks National Memorial Headquarters Building",
+  "longitude" : "-87.63989764860",
+  "latitude" : "41.93228562150",
+  "date_built" : "1924-26"
+}
+, {
+  "id" : "L-252",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6330118538",
+    "latitude" : "41.8790789815"
+  },
+  "landmark_designation_date" : 1197446400,
+  "address" : "208 South LaSalle St",
+  "landmark_name" : "Continental And Commercial National Bank Building",
+  "longitude" : "-87.63301185380",
+  "latitude" : "41.87907898150"
+}
+, {
+  "id" : "L-264",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6685514296",
+    "latitude" : "41.9799788623"
+  },
+  "landmark_designation_date" : 1215586800,
+  "address" : "5400 N Clark St",
+  "landmark_name" : "(Former) Swedish American State Bank Bldg",
+  "longitude" : "-87.66855142960",
+  "latitude" : "41.97997886230"
+}
+, {
+  "architect" : "McKim, Meade & White",
+  "id" : "L- 31",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.625063762",
+    "latitude" : "41.9018797146"
+  },
+  "landmark_designation_date" : 105778800,
+  "address" : "120 E Bellevue Pl",
+  "landmark_name" : "Bryan Lathrop House",
+  "longitude" : "-87.62506376200",
+  "latitude" : "41.90187971460",
+  "date_built" : "1892"
+}
+, {
+  "architect" : "Frank Lloyd Wright",
+  "id" : "L- 42",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6701901472",
+    "latitude" : "41.7239969488"
+  },
+  "landmark_designation_date" : 771750000,
+  "address" : "9326 S Pleasant Av",
+  "landmark_name" : "Jessie and William Adams House",
+  "longitude" : "-87.67019014720",
+  "latitude" : "41.72399694880",
+  "date_built" : "1901"
+}
+, {
+  "architect" : "Holabird & Roche/Holabird & Root",
+  "id" : "L-197",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6242005382",
+    "latitude" : "41.8878077823"
+  },
+  "landmark_designation_date" : 855302400,
+  "address" : "333 N Michigan Av",
+  "landmark_name" : "333 North Michigan Building",
+  "longitude" : "-87.62420053820",
+  "latitude" : "41.88780778230",
+  "date_built" : "1928"
+}
+, {
+  "architect" : "Adolph Cudell & Arthur Hercz",
+  "id" : "L- 81",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6417688895",
+    "latitude" : "41.9302781538"
+  },
+  "landmark_designation_date" : 1110355200,
+  "address" : "509 W Wrightwood Av",
+  "landmark_name" : "August Dewes House",
+  "longitude" : "-87.64176888950",
+  "latitude" : "41.93027815380",
+  "date_built" : "1894-96"
+}
+, {
+  "architect" : "Pond & Pond",
+  "id" : "L- 46",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6041036284",
+    "latitude" : "41.789753922"
+  },
+  "landmark_designation_date" : 797929200,
+  "address" : "850 E 58th St",
+  "landmark_name" : "American School of Correspondence",
+  "longitude" : "-87.60410362840",
+  "latitude" : "41.78975392200",
+  "date_built" : "1907"
+}
+, {
+  "architect" : "Lorado Taft & Leonrd Crunelle, Sculptors",
+  "id" : "L-206",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6269280677",
+    "latitude" : "41.8870052799"
+  },
+  "landmark_designation_date" : 53766000,
+  "address" : "Wacker Dr at Wabash Av",
+  "landmark_name" : "Heald Square Monument",
+  "longitude" : "-87.62692806770",
+  "latitude" : "41.88700527990",
+  "date_built" : "1936-41"
+}
+, {
+  "id" : "L-250",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.655522189",
+    "latitude" : "41.9103687297"
+  },
+  "landmark_designation_date" : 1197446400,
+  "address" : "N Branch Chgo River, Cherry Av, S of North Ave",
+  "landmark_name" : "Milwaukee & St Paul Bridge",
+  "longitude" : "-87.65552218900",
+  "latitude" : "41.91036872970"
+}
+, {
+  "architect" : "Henry Ives Cobb",
+  "id" : "L- 70",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6293480212",
+    "latitude" : "41.8889956949"
+  },
+  "landmark_designation_date" : 996044400,
+  "address" : "33 W Kinzie St",
+  "landmark_name" : "Chicago Varnish Company Building",
+  "longitude" : "-87.62934802120",
+  "latitude" : "41.88899569490",
+  "date_built" : "1895"
+}
+, {
+  "architect" : "Top Addit 1920;Holabird & Roche",
+  "id" : "L-158",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6292537203",
+    "latitude" : "41.8849392948"
+  },
+  "landmark_designation_date" : 452934000,
+  "address" : "159 N Dearborn St",
+  "landmark_name" : "Oliver Building",
+  "longitude" : "-87.62925372030",
+  "latitude" : "41.88493929480",
+  "date_built" : "1907"
+}
+, {
+  "architect" : "Edward G. McClellan add:1927,unknown,remod:1992-93",
+  "id" : "L- 30",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6259113331",
+    "latitude" : "41.8212099271"
+  },
+  "landmark_designation_date" : 1143619200,
+  "address" : "4021 S State St",
+  "landmark_name" : "Roberts Temple Church of God in Christ Building",
+  "longitude" : "-87.62591133310",
+  "latitude" : "41.82120992710",
+  "date_built" : "1922"
+}
+, {
+  "architect" : "Joseph A. Thain",
+  "id" : "L-208",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6177320886",
+    "latitude" : "41.8285919899"
+  },
+  "landmark_designation_date" : 812617200,
+  "address" : "3624 S Dr Martin Luther King Jr Dr",
+  "landmark_name" : "Ida B. Wells-Barnett House",
+  "longitude" : "-87.61773208860",
+  "latitude" : "41.82859198990",
+  "date_built" : "1889"
+}
+, {
+  "architect" : "Frank Lloyd Wright",
+  "id" : "L- 97",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6305737503",
+    "latitude" : "41.6728032228"
+  },
+  "landmark_designation_date" : 831625200,
+  "address" : "12147 S Harvard Av",
+  "landmark_name" : "Stephen Foster House and Stable",
+  "longitude" : "-87.63057375030",
+  "latitude" : "41.67280322280",
+  "date_built" : "1900"
+}
+, {
+  "architect" : "Leonard W. Volk",
+  "id" : "L- 84",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6084033152",
+    "latitude" : "41.8316280537"
+  },
+  "landmark_designation_date" : 244278000,
+  "address" : "35th St and Cottage Grove Av",
+  "landmark_name" : "Stephen A. Douglas Memorial",
+  "longitude" : "-87.60840331520",
+  "latitude" : "41.83162805370",
+  "date_built" : "1881"
+}
+, {
+  "architect" : "Marshall & Fox",
+  "id" : "L- 18",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6247754392",
+    "latitude" : "41.8733514222"
+  },
+  "landmark_designation_date" : 893833200,
+  "address" : "636 S Michigan Ave",
+  "landmark_name" : "Blackstone Hotel",
+  "longitude" : "-87.62477543920",
+  "latitude" : "41.87335142220",
+  "date_built" : "1910"
+}
+, {
+  "architect" : "Bruce Goff",
+  "id" : "L- 52",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6616818446",
+    "latitude" : "41.9748882046"
+  },
+  "landmark_designation_date" : 723888000,
+  "address" : "1244 W Carmen av",
+  "landmark_name" : "Myron Bachman House",
+  "longitude" : "-87.66168184460",
+  "latitude" : "41.97488820460",
+  "date_built" : "1948"
+}
+, {
+  "architect" : "Alfred S. Alschuler",
+  "id" : "L-124",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5986163947",
+    "latitude" : "41.8028258295"
+  },
+  "landmark_designation_date" : 234687600,
+  "address" : "1100 E Hyde Park Blvd",
+  "landmark_name" : "K.A.M. Isaiah Israel Temple",
+  "longitude" : "-87.59861639470",
+  "latitude" : "41.80282582950",
+  "date_built" : "1924"
+}
+, {
+  "architect" : "William Carbys Zimmerman",
+  "id" : "L-168",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6632836491",
+    "latitude" : "41.9064853706"
+  },
+  "landmark_designation_date" : 1059462000,
+  "address" : "1419 W Blackhawk St",
+  "landmark_name" : "Pulaski Park Fieldhouse",
+  "longitude" : "-87.66328364910",
+  "latitude" : "41.90648537060",
+  "date_built" : "1912-14"
+}
+, {
+  "architect" : "Unknown",
+  "id" : "L- 34",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6729894567",
+    "latitude" : "41.9665720815"
+  },
+  "landmark_designation_date" : 1159945200,
+  "address" : "4646 N Hermitage Av",
+  "landmark_name" : "Carl Sandburg House",
+  "longitude" : "-87.67298945670",
+  "latitude" : "41.96657208150",
+  "date_built" : "1886"
+}
+, {
+  "architect" : "Henry Ives Cobb",
+  "id" : "L- 96",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.630063442",
+    "latitude" : "41.8934950442"
+  },
+  "landmark_designation_date" : 856944000,
+  "address" : "632 N Dearborn St",
+  "landmark_name" : "Former Chicago Historical Society Building",
+  "longitude" : "-87.63006344200",
+  "latitude" : "41.89349504420",
+  "date_built" : "1892"
+}
+, {
+  "architect" : "Graham, Anderson, Probst & White",
+  "id" : "L- 72",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6375130036",
+    "latitude" : "41.8825337488"
+  },
+  "landmark_designation_date" : 886665600,
+  "address" : "20 N Wacker Dr",
+  "landmark_name" : "Civic Opera Building",
+  "longitude" : "-87.63751300360",
+  "latitude" : "41.88253374880",
+  "date_built" : "1927-29"
+}
+, {
+  "architect" : "Fridstein & Co.",
+  "id" : "L- 75",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.692213144",
+    "latitude" : "41.9203165293"
+  },
+  "landmark_designation_date" : 1026284400,
+  "address" : "2117-39 N Milwaukee Av / 2117-39 N Rockwell St",
+  "landmark_name" : "Congress Theater",
+  "longitude" : "-87.69221314400",
+  "latitude" : "41.92031652930",
+  "date_built" : "1925-26"
+}
+, {
+  "architect" : "Frank Llyod Wright",
+  "id" : "L-204",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.765373899",
+    "latitude" : "41.8815281961"
+  },
+  "landmark_designation_date" : 449481600,
+  "address" : "42 N Central Av",
+  "landmark_name" : "John Jacob Walser House",
+  "longitude" : "-87.76537389900",
+  "latitude" : "41.88152819610",
+  "date_built" : "1903"
+}
+, {
+  "architect" : "Architect Unknown",
+  "id" : "L-211",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7326762984",
+    "latitude" : "41.953817572"
+  },
+  "landmark_designation_date" : 660384000,
+  "address" : "4200 W Irving Park Rd",
+  "landmark_name" : "Whistle Stop Inn",
+  "longitude" : "-87.73267629840",
+  "latitude" : "41.95381757200",
+  "date_built" : "1889"
+}
+, {
+  "id" : "L-261",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5508459436",
+    "latitude" : "41.7295112391"
+  },
+  "landmark_designation_date" : 1215586800,
+  "address" : "9117 S Commercial Av",
+  "landmark_name" : "(Former) Calumet National Bank Bldg",
+  "longitude" : "-87.55084594360",
+  "latitude" : "41.72951123910"
+}
+, {
+  "architect" : "Paul Frederick Olsen",
+  "id" : "L-266",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5677851557",
+    "latitude" : "41.7695991074"
+  },
+  "landmark_designation_date" : 1221030000,
+  "address" : "6901 S Oglesby Av",
+  "landmark_name" : "6901 Oglesby Cooperative Apartment Building",
+  "longitude" : "-87.56778515570",
+  "latitude" : "41.76959910740",
+  "date_built" : "1928-29"
+}
+, {
+  "architect" : "Walter Burley Griffin",
+  "id" : "L-100",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6611900539",
+    "latitude" : "41.989611701"
+  },
+  "landmark_designation_date" : 962175600,
+  "address" : "5917 N Magnolia Av",
+  "landmark_name" : "Gauler Twin House",
+  "longitude" : "-87.66119005390",
+  "latitude" : "41.98961170100",
+  "date_built" : "1908"
+}
+, {
+  "architect" : "Richard E. Schmidt and Hugh M.G. Garden",
+  "id" : "L- 64",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6256147818",
+    "latitude" : "41.8793273197"
+  },
+  "landmark_designation_date" : 380448000,
+  "address" : "63 E Adams",
+  "landmark_name" : "Chapin and Gore Building",
+  "longitude" : "-87.62561478180",
+  "latitude" : "41.87932731970",
+  "date_built" : "1904"
+}
+, {
+  "architect" : "Walter Burley Griffin",
+  "id" : "L-101",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6611934358",
+    "latitude" : "41.9897069735"
+  },
+  "landmark_designation_date" : 962175600,
+  "address" : "5921 N Magnolia Av",
+  "landmark_name" : "Gauler Twin House",
+  "longitude" : "-87.66119343580",
+  "latitude" : "41.98970697350",
+  "date_built" : "1908"
+}
+, {
+  "architect" : "Frederick Ahlschlager",
+  "id" : "L-216",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6478690779",
+    "latitude" : "41.9111934157"
+  },
+  "landmark_designation_date" : 996044400,
+  "address" : "758 W North Av",
+  "landmark_name" : "Yondorf Block and Hall",
+  "longitude" : "-87.64786907790",
+  "latitude" : "41.91119341570",
+  "date_built" : "1887"
+}
+, {
+  "architect" : "Alfred S. Alschuler",
+  "id" : "L- 32",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7265988984",
+    "latitude" : "41.9386100074"
+  },
+  "landmark_designation_date" : 1143619200,
+  "address" : "3963 W Belmont Av",
+  "landmark_name" : "Florsheim Shoe Company Building",
+  "longitude" : "-87.72659889840",
+  "latitude" : "41.93861000740",
+  "date_built" : "1924-26"
+}
+, {
+  "architect" : "Philip B. Maher",
+  "id" : "L-213",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6246010223",
+    "latitude" : "41.8935811629"
+  },
+  "landmark_designation_date" : 686386800,
+  "address" : "626 N Michigan av",
+  "landmark_name" : "Woman's Athletic Club",
+  "longitude" : "-87.62460102230",
+  "latitude" : "41.89358116290",
+  "date_built" : "1928"
+}
+, {
+  "architect" : "James Peterson",
+  "id" : "L-243",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.558964347",
+    "latitude" : "41.6693406136"
+  },
+  "landmark_designation_date" : 1197446400,
+  "address" : "Calumet River, 126th St, W of Torrence Av",
+  "landmark_name" : "Chicago & Western Indiana  Railroad Bridge",
+  "longitude" : "-87.55896434700",
+  "latitude" : "41.66934061360",
+  "date_built" : "1967-68"
+}
+, {
+  "architect" : "Otis L. Wheelock",
+  "id" : "L-106",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6600476639",
+    "latitude" : "41.8832908247"
+  },
+  "landmark_designation_date" : 726825600,
+  "address" : "1304 W  Washington Blvd",
+  "landmark_name" : "Abraham Groesbeck House",
+  "longitude" : "-87.66004766390",
+  "latitude" : "41.88329082470",
+  "date_built" : "1869"
+}
+, {
+  "architect" : "Louis H. Sullivan",
+  "id" : "L-103",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6611886208",
+    "latitude" : "41.9612300749"
+  },
+  "landmark_designation_date" : 37440000,
+  "address" : "Graceland Cemetery, 4011 N Clark St",
+  "landmark_name" : "Getty Tomb",
+  "longitude" : "-87.66118862080",
+  "latitude" : "41.96123007490",
+  "date_built" : "1890"
+}
+, {
+  "architect" : "Shepley, Rutan and Coolidge",
+  "id" : "L- 68",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6249958656",
+    "latitude" : "41.8838646621"
+  },
+  "landmark_designation_date" : 216028800,
+  "address" : "78 E Washington St",
+  "landmark_name" : "Chicago Public Library/Cultural Center",
+  "longitude" : "-87.62499586560",
+  "latitude" : "41.88386466210",
+  "date_built" : "1897"
+}
+, {
+  "id" : "L-119",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6646164616",
+    "latitude" : "41.8426582338"
+  },
+  "landmark_designation_date" : 831625200,
+  "address" : "S Fork of Chicago River at W Levee & W Fuller Sts",
+  "landmark_name" : "Illinois and Michigan Canal",
+  "longitude" : "-87.66461646160",
+  "latitude" : "41.84265823380",
+  "date_built" : "1845-48"
+}
+, {
+  "architect" : "Bruce Goff",
+  "id" : "L-199",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.8132519358",
+    "latitude" : "42.0095630785"
+  },
+  "landmark_designation_date" : 723888000,
+  "address" : "7059 N Olcott Av",
+  "landmark_name" : "Charles Turzak House",
+  "longitude" : "-87.81325193580",
+  "latitude" : "42.00956307850",
+  "date_built" : "1938-39"
+}
+, {
+  "architect" : "Dwight H. Perkins",
+  "id" : "L-180",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7356393075",
+    "latitude" : "41.9472702951"
+  },
+  "landmark_designation_date" : 313401600,
+  "address" : "3601 N Milwaukee Av",
+  "landmark_name" : "Carl Schurz High School",
+  "longitude" : "-87.73563930750",
+  "latitude" : "41.94727029510",
+  "date_built" : "1910"
+}
+, {
+  "architect" : "Paul Gerhardt, Jr.",
+  "id" : "L-238",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6463969977",
+    "latitude" : "41.7812663113"
+  },
+  "landmark_designation_date" : 1064991600,
+  "address" : "6204 S Green St",
+  "landmark_name" : "Engine Company 84, Truck 51",
+  "longitude" : "-87.64639699770",
+  "latitude" : "41.78126631130",
+  "date_built" : "1929"
+}
+, {
+  "architect" : "Huehl & Schmid",
+  "id" : "L-145",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6271415142",
+    "latitude" : "41.8928877822"
+  },
+  "landmark_designation_date" : 993625200,
+  "address" : "600 N Wabash Av",
+  "landmark_name" : "Medinah Temple",
+  "longitude" : "-87.62714151420",
+  "latitude" : "41.89288778220",
+  "date_built" : "1912"
+}
+, {
+  "architect" : "Argyle E. Robinson",
+  "id" : "L-236",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6637057717",
+    "latitude" : "41.746005133"
+  },
+  "landmark_designation_date" : 1064991600,
+  "address" : "8120 S Ashland Av",
+  "landmark_name" : "Engine Company 129, Truck 50",
+  "longitude" : "-87.66370577170",
+  "latitude" : "41.74600513300",
+  "date_built" : "1928-29"
+}
+, {
+  "architect" : "William LeBaron Jenney",
+  "id" : "L-135",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.626354968",
+    "latitude" : "41.8690058489"
+  },
+  "landmark_designation_date" : 834390000,
+  "address" : "1104 S Wabash Av",
+  "landmark_name" : "Ludington Building",
+  "longitude" : "-87.62635496800",
+  "latitude" : "41.86900584890",
+  "date_built" : "1891"
+}
+, {
+  "architect" : "George W. Maher",
+  "id" : "L-172",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6953097347",
+    "latitude" : "41.9278983322"
+  },
+  "landmark_designation_date" : 754732800,
+  "address" : "2703 W Logan Blvd",
+  "landmark_name" : "John Rath House",
+  "longitude" : "-87.69530973470",
+  "latitude" : "41.92789833220",
+  "date_built" : "1907"
+}
+, {
+  "architect" : "Frank Lloyd Wright",
+  "id" : "L- 47",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6746479892",
+    "latitude" : "41.7041967461"
+  },
+  "landmark_designation_date" : 774082800,
+  "address" : "10410 S Hoyne Av",
+  "landmark_name" : "American System-Built Houses",
+  "longitude" : "-87.67464798920",
+  "latitude" : "41.70419674610",
+  "date_built" : "1917"
+}
+, {
+  "architect" : "Arch ?, recon:1929;O F Johnson Add:1964;E D Dart",
+  "id" : "L-192",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6032052025",
+    "latitude" : "41.7855264091"
+  },
+  "landmark_designation_date" : 754732800,
+  "address" : "6016 S Ingleside Dr",
+  "landmark_name" : "Lorado Taft's Midway Studios",
+  "longitude" : "-87.60320520250",
+  "latitude" : "41.78552640910",
+  "date_built" : "1890-1929"
+}
+, {
+  "architect" : "Henry F. Starbuck",
+  "id" : "L-169",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6250764052",
+    "latitude" : "41.8490730441"
+  },
+  "landmark_designation_date" : 241858800,
+  "address" : "2401 S Wabash Av",
+  "landmark_name" : "Quinn Chapel",
+  "longitude" : "-87.62507640520",
+  "latitude" : "41.84907304410",
+  "date_built" : "1892"
+}
+, {
+  "architect" : "Frederick & Edward Baumann",
+  "id" : "L-143",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6257211435",
+    "latitude" : "41.8942787556"
+  },
+  "landmark_designation_date" : 1128582000,
+  "address" : "660 N Rush St",
+  "landmark_name" : "McCormick Double House",
+  "longitude" : "-87.62572114350",
+  "latitude" : "41.89427875560",
+  "date_built" : "1875"
+}
+, {
+  "id" : "L-255",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6328894866",
+    "latitude" : "41.890479153"
+  },
+  "landmark_designation_date" : 1197446400,
+  "address" : "444 N LaSalle St",
+  "landmark_name" : "Veseman Building",
+  "longitude" : "-87.63288948660",
+  "latitude" : "41.89047915300"
+}
+, {
+  "id" : "L-262",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6643520227",
+    "latitude" : "41.9249455279"
+  },
+  "landmark_designation_date" : 1215586800,
+  "address" : "1425 W Fullerton Av",
+  "landmark_name" : "(Former) Fullerton State Bank Bldg",
+  "longitude" : "-87.66435202270",
+  "latitude" : "41.92494552790"
+}
+, {
+  "architect" : "Walter T. Bailey,1946 Add. Kocher,Buss & DeKlerk",
+  "id" : "L- 78",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.624158884",
+    "latitude" : "41.8158826088"
+  },
+  "landmark_designation_date" : 781340400,
+  "address" : "4315 S Wabash Av",
+  "landmark_name" : "First Church of Deliverance",
+  "longitude" : "-87.62415888400",
+  "latitude" : "41.81588260880",
+  "date_built" : "1939"
+}
+, {
+  "architect" : "Adler and Sullivan, Frank Lloyd Wright",
+  "id" : "L- 65",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.627477823",
+    "latitude" : "41.9076480171"
+  },
+  "landmark_designation_date" : 83142000,
+  "address" : "1365 N Astor st",
+  "landmark_name" : "James Charnley House",
+  "longitude" : "-87.62747782300",
+  "latitude" : "41.90764801710",
+  "date_built" : "1891"
+}
+, {
+  "id" : "L-267",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5881868815",
+    "latitude" : "41.7993257107"
+  },
+  "address" : "1515-1535 E 53rd St",
+  "landmark_name" : "(Former) Hyde Park Bank",
+  "longitude" : "-87.58818688150",
+  "latitude" : "41.79932571070"
+}
+, {
+  "architect" : "Henry L. Newhouse",
+  "id" : "L- 88",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6172043949",
+    "latitude" : "41.808529769"
+  },
+  "landmark_designation_date" : 290851200,
+  "address" : "4726 S Dr Martin Luther King Jr Dr",
+  "landmark_name" : "Melissa Ann Elam House",
+  "longitude" : "-87.61720439490",
+  "latitude" : "41.80852976900",
+  "date_built" : "1903"
+}
+, {
+  "architect" : "Burnham and Root",
+  "id" : "L-201",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6486807529",
+    "latitude" : "41.8186287649"
+  },
+  "landmark_designation_date" : 67766400,
+  "address" : "Exchange Av (4150S) at Peoria St (900W)",
+  "landmark_name" : "Union Stock Yard Gate",
+  "longitude" : "-87.64868075290",
+  "latitude" : "41.81862876490",
+  "date_built" : "1875"
+}
+, {
+  "architect" : "George Grant Elmslie & Herman V. von Holst",
+  "id" : "L-163",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7489038399",
+    "latitude" : "41.9530942943"
+  },
+  "landmark_designation_date" : 543052800,
+  "address" : "4829 W Irving Park Rd",
+  "landmark_name" : "Peoples Gas-Irving Park Neighborhood Store",
+  "longitude" : "-87.74890383990",
+  "latitude" : "41.95309429430",
+  "date_built" : "1926"
+}
+, {
+  "architect" : "Frederick & Edward Baumann",
+  "id" : "L-207",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6340776568",
+    "latitude" : "41.8829558343"
+  },
+  "landmark_designation_date" : 853228800,
+  "address" : "40 N Wells St",
+  "landmark_name" : "Washington Block",
+  "longitude" : "-87.63407765680",
+  "latitude" : "41.88295583430",
+  "date_built" : "1873-74"
+}
+, {
+  "architect" : "Howard Van Doren Shaw",
+  "id" : "L- 08",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6182878093",
+    "latitude" : "41.853680375"
+  },
+  "landmark_designation_date" : 1080720000,
+  "address" : "350 E Cermak Rd",
+  "landmark_name" : "R.R. Donnelley & Sons Co. Calumet Plant",
+  "longitude" : "-87.61828780930",
+  "latitude" : "41.85368037500",
+  "date_built" : "1912-25"
+}
+, {
+  "architect" : "Frank Lloyd Wright",
+  "id" : "L- 51",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6647753031",
+    "latitude" : "42.0165829133"
+  },
+  "landmark_designation_date" : 244278000,
+  "address" : "7415 N Sheridan Road",
+  "landmark_name" : "Emil Bach House",
+  "longitude" : "-87.66477530310",
+  "latitude" : "42.01658291330",
+  "date_built" : "1915"
+}
+, {
+  "architect" : "Rapp & Rapp",
+  "id" : "L-202",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6601956677",
+    "latitude" : "41.969525712"
+  },
+  "landmark_designation_date" : 686386800,
+  "address" : "4816 N Broadway",
+  "landmark_name" : "Uptown Theater",
+  "longitude" : "-87.66019566770",
+  "latitude" : "41.96952571200",
+  "date_built" : "1925"
+}
+, {
+  "architect" : "William Bryce Mundie",
+  "id" : "L- 22",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6198065344",
+    "latitude" : "41.8247514543"
+  },
+  "landmark_designation_date" : 1052290800,
+  "address" : "244 E Pershing Rd",
+  "landmark_name" : "Wendell Phillips High School",
+  "longitude" : "-87.61980653440",
+  "latitude" : "41.82475145430",
+  "date_built" : "1904"
+}
+, {
+  "architect" : "Skidmore, Owings & Merrill",
+  "id" : "L-121",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6290031914",
+    "latitude" : "41.8810733166"
+  },
+  "landmark_designation_date" : 907743600,
+  "address" : "30 W Monore St",
+  "landmark_name" : "Inland Steel Building",
+  "longitude" : "-87.62900319140",
+  "latitude" : "41.88107331660",
+  "date_built" : "1957"
+}
+, {
+  "architect" : "Cyrus L. W. Eidlitz",
+  "id" : "L- 79",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6291049252",
+    "latitude" : "41.8717405487"
+  },
+  "landmark_designation_date" : 383904000,
+  "address" : "47 W Polk St",
+  "landmark_name" : "Dearborn Street Station",
+  "longitude" : "-87.62910492520",
+  "latitude" : "41.87174054870",
+  "date_built" : "1885"
+}
+, {
+  "architect" : "Burling & Whitehouse",
+  "id" : "L-152",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6265337873",
+    "latitude" : "41.8943505796"
+  },
+  "landmark_designation_date" : 244278000,
+  "address" : "40 E Erie St",
+  "landmark_name" : "Samuel M. Nickerson House",
+  "longitude" : "-87.62653378730",
+  "latitude" : "41.89435057960",
+  "date_built" : "1883"
+}
+, {
+  "architect" : "Barry Byrne",
+  "id" : "L-127",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5707982433",
+    "latitude" : "41.7701003115"
+  },
+  "landmark_designation_date" : 653122800,
+  "address" : "2214 E 69th St",
+  "landmark_name" : "Kenna Apartments",
+  "longitude" : "-87.57079824330",
+  "latitude" : "41.77010031150",
+  "date_built" : "1916"
+}
+, {
+  "architect" : "Holabird and Roche",
+  "id" : "L-239",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6304679039",
+    "latitude" : "41.9060070155"
+  },
+  "landmark_designation_date" : 361004400,
+  "address" : "1300 N Dearborn St",
+  "landmark_name" : "Three Arts Club",
+  "longitude" : "-87.63046790390",
+  "latitude" : "41.90600701550",
+  "date_built" : "1914"
+}
+, {
+  "architect" : "Major Alterations, 1894;Thomas Wing",
+  "id" : "L-170",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6269529364",
+    "latitude" : "41.7892193733"
+  },
+  "landmark_designation_date" : 829638000,
+  "address" : "5760 S LaFayette Av",
+  "landmark_name" : "John Raber House",
+  "longitude" : "-87.62695293640",
+  "latitude" : "41.78921937330",
+  "date_built" : "1870"
+}
+, {
+  "architect" : "Patton, Fisher & Miller",
+  "id" : "L- 12",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6292212235",
+    "latitude" : "41.8351614122"
+  },
+  "landmark_designation_date" : 1085554800,
+  "address" : "100 W 33rd St",
+  "landmark_name" : "Machinery Hall at Illinois Institute of Technology",
+  "longitude" : "-87.62922122350",
+  "latitude" : "41.83516141220",
+  "date_built" : "1901"
+}
+, {
+  "architect" : "Holabird and Roche",
+  "id" : "L- 37",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6352563581",
+    "latitude" : "41.7717845083"
+  },
+  "landmark_designation_date" : 1170835200,
+  "address" : "6720 S Stewart Av",
+  "landmark_name" : "Truevine Missionary Baptist Church Building",
+  "longitude" : "-87.63525635810",
+  "latitude" : "41.77178450830",
+  "date_built" : "1892"
+}
+, {
+  "architect" : "Graham, Anderson, Probst & White",
+  "id" : "L- 91",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6315477722",
+    "latitude" : "41.8797642534"
+  },
+  "landmark_designation_date" : 760780800,
+  "address" : "135 S LaSalle St",
+  "landmark_name" : "Field Building",
+  "longitude" : "-87.63154777220",
+  "latitude" : "41.87976425340",
+  "date_built" : "1924-34"
+}
+, {
+  "architect" : "Architect Unknown",
+  "id" : "L-113",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7680837965",
+    "latitude" : "41.8913213962"
+  },
+  "landmark_designation_date" : 710492400,
+  "address" : "5704 W Ohio St",
+  "landmark_name" : "Charles Hitchcock House",
+  "longitude" : "-87.76808379650",
+  "latitude" : "41.89132139620",
+  "date_built" : "1871"
+}
+, {
+  "architect" : "S Pond:Perkins&Hamilton Comfort:Joseph L Silsbee",
+  "id" : "L-189",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6340101049",
+    "latitude" : "41.9191051952"
+  },
+  "landmark_designation_date" : 1044432000,
+  "address" : "2019 N Stockton Dr",
+  "landmark_name" : "S. Pond Refectory/Men's & Ladies Comfort Station",
+  "longitude" : "-87.63401010490",
+  "latitude" : "41.91910519520",
+  "date_built" : "1908&1888"
+}
+, {
+  "architect" : "North Chicago Street Railroad Co.",
+  "id" : "L-133",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6329622566",
+    "latitude" : "41.8910391333"
+  },
+  "landmark_designation_date" : 993625200,
+  "address" : "500 N LaSalle St",
+  "landmark_name" : "LaSalle Street Cable Car Powerhouse",
+  "longitude" : "-87.63296225660",
+  "latitude" : "41.89103913330",
+  "date_built" : "1887"
+}
+, {
+  "architect" : "Toussaint Menard west add:1874;John P. Huber",
+  "id" : "L-221",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6541220413",
+    "latitude" : "41.867418562"
+  },
+  "landmark_designation_date" : 543052800,
+  "address" : "1076 W Roosevelt Rd",
+  "landmark_name" : "St Ignatius College Prep Building",
+  "longitude" : "-87.65412204130",
+  "latitude" : "41.86741856200",
+  "date_built" : "1869"
+}
+, {
+  "architect" : "Johnson & Edelmann Add:1897;N. S. Patton",
+  "id" : "L-205",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6350923115",
+    "latitude" : "41.8431960865"
+  },
+  "landmark_designation_date" : 1126681200,
+  "address" : "2703 S Shields Av",
+  "landmark_name" : "James Ward Public School",
+  "longitude" : "-87.63509231150",
+  "latitude" : "41.84319608650",
+  "date_built" : "1874-75"
+}
+, {
+  "architect" : "Various Architects",
+  "id" : "L- 90",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6633353503",
+    "latitude" : "41.9721486481"
+  },
+  "landmark_designation_date" : 827827200,
+  "address" : "1333-35 W Argle St",
+  "landmark_name" : "Essanay Studios",
+  "longitude" : "-87.66333535030",
+  "latitude" : "41.97214864810",
+  "date_built" : "1908-15"
+}
+, {
+  "id" : "L-257",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.70333639",
+    "latitude" : "41.9023067948"
+  },
+  "landmark_designation_date" : 1202284800,
+  "address" : "3015 W Divison St",
+  "landmark_name" : "Humboldt Park Receptory Building and Stable",
+  "longitude" : "-87.70333639000",
+  "latitude" : "41.90230679480"
+}
+, {
+  "architect" : "William Drummond",
+  "id" : "L- 05",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7170606822",
+    "latitude" : "41.85016619"
+  },
+  "landmark_designation_date" : 1076486400,
+  "address" : "3600 W 23rd St",
+  "landmark_name" : "Shedd Park Fieldhouse",
+  "longitude" : "-87.71706068220",
+  "latitude" : "41.85016619000",
+  "date_built" : "1916-17"
+}
+, {
+  "architect" : "Alfred S. Alschulter",
+  "id" : "L-234",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6443086397",
+    "latitude" : "41.87718066"
+  },
+  "landmark_designation_date" : 1064991600,
+  "address" : "324 S DesPlaines Av",
+  "landmark_name" : "Engine Company 5, Truck 2",
+  "longitude" : "-87.64430863970",
+  "latitude" : "41.87718066000",
+  "date_built" : "1928"
+}
+, {
+  "architect" : "Landscape Architect: Alfred Caldwell",
+  "id" : "L- 60",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6339622471",
+    "latitude" : "41.9249992261"
+  },
+  "landmark_designation_date" : 1036569600,
+  "address" : "North end of Lincoln Park Zoo at Fullerton Parkway",
+  "landmark_name" : "Alfred Caldwell Lily Pool",
+  "longitude" : "-87.63396224710",
+  "latitude" : "41.92499922610",
+  "date_built" : "1936-38"
+}
+, {
+  "id" : "L-185",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6245097699",
+    "latitude" : "41.8883516485"
+  },
+  "landmark_designation_date" : 53766000,
+  "address" : "at the intersection of Miochigan av & Wacker Dr",
+  "landmark_name" : "Site of Fort Dearborn",
+  "longitude" : "-87.62450976990",
+  "latitude" : "41.88835164850",
+  "date_built" : "1803-37"
+}
+, {
+  "architect" : "Adler & Sullivan",
+  "id" : "L-166",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.621482506",
+    "latitude" : "41.8344644349"
+  },
+  "landmark_designation_date" : 377510400,
+  "address" : "3301 S Indiana Av",
+  "landmark_name" : "Pilgrim Baptist Church",
+  "longitude" : "-87.62148250600",
+  "latitude" : "41.83446443490",
+  "date_built" : "1890-91"
+}
+, {
+  "id" : "L-247",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7019428541",
+    "latitude" : "41.8340332832"
+  },
+  "landmark_designation_date" : 1197446400,
+  "address" : "Collateral Channel Water Lot D,33rd,E of Kedzie",
+  "landmark_name" : "Chicago & Illinois Western Bridge",
+  "longitude" : "-87.70194285410",
+  "latitude" : "41.83403328320"
+}
+, {
+  "architect" : "Frederick Schock",
+  "id" : "L-226",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7703987961",
+    "latitude" : "41.8903860875"
+  },
+  "landmark_designation_date" : 916819200,
+  "address" : "5804 W Race Av",
+  "landmark_name" : "Schlecht House",
+  "longitude" : "-87.77039879610",
+  "latitude" : "41.89038608750",
+  "date_built" : "1887"
+}
+, {
+  "architect" : "Henry J. Schlacks",
+  "id" : "L- 02",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5957609348",
+    "latitude" : "41.7783516794"
+  },
+  "landmark_designation_date" : 1074067200,
+  "address" : "6401-09 S Woodlawn Ave",
+  "landmark_name" : "St. Gelasius Church Building",
+  "longitude" : "-87.59576093480",
+  "latitude" : "41.77835167940",
+  "date_built" : "1923-28"
+}
+, {
+  "id" : "L-246",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6875954375",
+    "latitude" : "41.8370788107"
+  },
+  "landmark_designation_date" : 1197446400,
+  "address" : "San & Ship Canal, S of 31st & W of Western Av",
+  "landmark_name" : "Pennsylvania \"Eight Track\" Bridge",
+  "longitude" : "-87.68759543750",
+  "latitude" : "41.83707881070"
+}
+, {
+  "architect" : "Unknown",
+  "id" : "L- 74",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6218715857",
+    "latitude" : "41.8570668546"
+  },
+  "landmark_designation_date" : 24735600,
+  "address" : "1855 S Indiana Av",
+  "landmark_name" : "Henry B Clarke House",
+  "longitude" : "-87.62187158570",
+  "latitude" : "41.85706685460",
+  "date_built" : "1836"
+}
+, {
+  "architect" : "Gurdon P. Randall",
+  "id" : "L- 93",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6672815294",
+    "latitude" : "41.8829904011"
+  },
+  "landmark_designation_date" : 380448000,
+  "address" : "60 N Ashland Av",
+  "landmark_name" : "First Baptist Congregational Church",
+  "longitude" : "-87.66728152940",
+  "latitude" : "41.88299040110",
+  "date_built" : "1869-71"
+}
+, {
+  "architect" : "George W. Maher",
+  "id" : "L- 73",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6558166627",
+    "latitude" : "41.9903360972"
+  },
+  "landmark_designation_date" : 781340400,
+  "address" : "5940 N Sheridan Rd",
+  "landmark_name" : "Edwin Colvin House",
+  "longitude" : "-87.65581666270",
+  "latitude" : "41.99033609720",
+  "date_built" : "1909"
+}
+, {
+  "architect" : "George W. Maher",
+  "id" : "L-129",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7075949912",
+    "latitude" : "41.883054938"
+  },
+  "landmark_designation_date" : 571478400,
+  "address" : "3234 W Washington Blvd",
+  "landmark_name" : "King-Nash House",
+  "longitude" : "-87.70759499120",
+  "latitude" : "41.88305493800",
+  "date_built" : "1901"
+}
+, {
+  "architect" : "William LeBaron Jenney",
+  "id" : "L- 25",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6271867248",
+    "latitude" : "41.8763370403"
+  },
+  "landmark_designation_date" : 853228800,
+  "address" : "403 S State St",
+  "landmark_name" : "Leiter II Building",
+  "longitude" : "-87.62718672480",
+  "latitude" : "41.87633704030",
+  "date_built" : "1891"
+}
+, {
+  "architect" : "Walter Burley Griffin",
+  "id" : "L- 09",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.743669935",
+    "latitude" : "41.9672199264"
+  },
+  "landmark_designation_date" : 1083740400,
+  "address" : "4731 N Knox Ave",
+  "landmark_name" : "Henry V. Peters House",
+  "longitude" : "-87.74366993500",
+  "latitude" : "41.96721992640",
+  "date_built" : "1906"
+}
+, {
+  "architect" : "add & remod. 1898 Solon S. Beman",
+  "id" : "L- 92",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.624846173",
+    "latitude" : "41.8764684299"
+  },
+  "landmark_designation_date" : 266050800,
+  "address" : "410 S Michigan Av",
+  "landmark_name" : "Fine Arts Building",
+  "longitude" : "-87.62484617300",
+  "latitude" : "41.87646842990",
+  "date_built" : "1885"
+}
+, {
+  "architect" : "Louis H. Sullivan (18),Holabird & Roche (25 & 30)",
+  "id" : "L- 98",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6249801492",
+    "latitude" : "41.8813237899"
+  },
+  "landmark_designation_date" : 842425200,
+  "address" : "18,24, and 30 S Michigan Av",
+  "landmark_name" : "Gage Group",
+  "longitude" : "-87.62498014920",
+  "latitude" : "41.88132378990",
+  "date_built" : "1899-1900"
+}
+, {
+  "architect" : "Bennett, Parsons & Frost with Jacques Lambert",
+  "id" : "L- 58",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6189879276",
+    "latitude" : "41.8757971904"
+  },
+  "landmark_designation_date" : 967618800,
+  "address" : "Grant Park at Congress Drive",
+  "landmark_name" : "Clarence Buckingham Memorial Fountain and Garden",
+  "longitude" : "-87.61898792760",
+  "latitude" : "41.87579719040",
+  "date_built" : "1927"
+}
+, {
+  "id" : "L-242",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5429609441",
+    "latitude" : "41.7196867122"
+  },
+  "landmark_designation_date" : 1197446400,
+  "address" : "Calumet River, N of 98th St & E of Chicago Skyway",
+  "landmark_name" : "Lake Shore & Michigan Southern Bridges (pair)",
+  "longitude" : "-87.54296094410",
+  "latitude" : "41.71968671220"
+}
+, {
+  "architect" : "Faber & Pagels",
+  "id" : "L-193",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6572938552",
+    "latitude" : "41.8577101822"
+  },
+  "landmark_designation_date" : 625302000,
+  "address" : "1215-25 W 18th St",
+  "landmark_name" : "Thalia Hall",
+  "longitude" : "-87.65729385520",
+  "latitude" : "41.85771018220",
+  "date_built" : "1892"
+}
+, {
+  "architect" : "Henry Ives Cobb",
+  "id" : "L- 28",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6047911873",
+    "latitude" : "41.8048612592"
+  },
+  "landmark_designation_date" : 1146034800,
+  "address" : "4938 S Drexel Blvd",
+  "landmark_name" : "McGill House",
+  "longitude" : "-87.60479118730",
+  "latitude" : "41.80486125920",
+  "date_built" : "1891"
+}
+, {
+  "architect" : "Holabird & Roche",
+  "id" : "L- 67",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6281729688",
+    "latitude" : "41.881849562"
+  },
+  "landmark_designation_date" : 827827200,
+  "address" : "7 W Madison St",
+  "landmark_name" : "Chicago Building",
+  "longitude" : "-87.62817296880",
+  "latitude" : "41.88184956200",
+  "date_built" : "1905"
+}
+, {
+  "architect" : "Burnham and Root",
+  "id" : "L-128",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6240007056",
+    "latitude" : "41.8406768551"
+  },
+  "landmark_designation_date" : 543052800,
+  "address" : "2944 S Michigan Av",
+  "landmark_name" : "Sydney A. Kent House",
+  "longitude" : "-87.62400070560",
+  "latitude" : "41.84067685510",
+  "date_built" : "1883"
+}
+, {
+  "architect" : "Patton & Fisher",
+  "id" : "L- 13",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6292230641",
+    "latitude" : "41.8336805026"
+  },
+  "landmark_designation_date" : 1085554800,
+  "address" : "3320 S Federal St",
+  "landmark_name" : "Main Building at Illinois Institute of Technology",
+  "longitude" : "-87.62922306410",
+  "latitude" : "41.83368050260",
+  "date_built" : "1891-93"
+}
+, {
+  "architect" : "Andrew N. Rebori",
+  "id" : "L-283",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7110509022",
+    "latitude" : "41.9859371464"
+  },
+  "landmark_designation_date" : 1251961200,
+  "address" : "3252 W. Victoria St",
+  "landmark_name" : "Dr. Philip Weintraub House",
+  "longitude" : "-87.71105090220",
+  "latitude" : "41.98593714640"
+}
+, {
+  "id" : "L-284",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6195175238",
+    "latitude" : "41.8532245491"
+  },
+  "address" : "320 E. Cermak Rd & 2132 S. Calumet Ave",
+  "landmark_name" : "American Book Company",
+  "longitude" : "-87.61951752380",
+  "latitude" : "41.85322454910",
+  "date_built" : "1909"
+}
+, {
+  "id" : "L-285",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.7160686",
+    "latitude" : "41.8826839988"
+  },
+  "landmark_designation_date" : 1251961200,
+  "address" : "100 N. Central park Ave",
+  "landmark_name" : "Garfield Park Fieldhouse",
+  "longitude" : "-87.71606860000",
+  "latitude" : "41.88268399880",
+  "date_built" : "1928"
+}
+, {
+  "id" : "L-286",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6872469444",
+    "latitude" : "41.8661518103"
+  },
+  "landmark_designation_date" : 1251961200,
+  "address" : "2431 W. Roosevelt Rd",
+  "landmark_name" : "Vorwaerts Turner Hall",
+  "longitude" : "-87.68724694440",
+  "latitude" : "41.86615181030"
+}
+, {
+  "architect" : "Andrew N. Rebori",
+  "id" : "L-137",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6562471998",
+    "latitude" : "41.9995586369"
+  },
+  "landmark_designation_date" : 1094108400,
+  "address" : "6453 N. Kenmore Avenue",
+  "landmark_name" : "Madonna Della Strada Chapel",
+  "longitude" : "-87.65624719980",
+  "latitude" : "41.99955863690",
+  "date_built" : "1938-39"
+}
+, {
+  "architect" : "Charles Hodgdon",
+  "id" : "L-288",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6223010197",
+    "latitude" : "41.80711009"
+  },
+  "landmark_designation_date" : 1265788800,
+  "address" : "4801 S. Michigan Avenue",
+  "landmark_name" : "George Cleveland Hall Branch Library",
+  "longitude" : "-87.62230101970",
+  "latitude" : "41.80711009000",
+  "date_built" : "1931"
+}
+, {
+  "architect" : "Unknown",
+  "id" : "L-289",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6070011998",
+    "latitude" : "41.7595034373"
+  },
+  "landmark_designation_date" : 1265788800,
+  "address" : "7428 S. Evans Ave",
+  "landmark_name" : "Gwendolyn Brooks House",
+  "longitude" : "-87.60700119980",
+  "latitude" : "41.75950343730",
+  "date_built" : "1890"
+}
+, {
+  "architect" : "Unknown",
+  "id" : "L-290",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6134970595",
+    "latitude" : "41.8066696254"
+  },
+  "landmark_designation_date" : 1265788800,
+  "address" : "4831 S Vincennes Avenue",
+  "landmark_name" : "Richard Wright House",
+  "longitude" : "-87.61349705950",
+  "latitude" : "41.80666962540",
+  "date_built" : "1893"
+}
+, {
+  "architect" : "Albert G. Ferree",
+  "id" : "L-291",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6124201046",
+    "latitude" : "41.7827387885"
+  },
+  "landmark_designation_date" : 1265788800,
+  "address" : "6140 S. Rhodes Avenue",
+  "landmark_name" : "Lorraine Hansberry House",
+  "longitude" : "-87.61242010460",
+  "latitude" : "41.78273878850",
+  "date_built" : "1909"
+}
+, {
+  "architect" : "Solon S. Beman",
+  "id" : "L-292",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6236652359",
+    "latitude" : "41.8252664679"
+  },
+  "landmark_designation_date" : 1265788800,
+  "address" : "3806 S. Michigan Avenue",
+  "landmark_name" : "Griffiths-Burroughs House",
+  "longitude" : "-87.62366523590",
+  "latitude" : "41.82526646790",
+  "date_built" : "1892"
+}
+, {
+  "architect" : "Ludwig Mies van der Rohe",
+  "id" : "L- 86",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6188573323",
+    "latitude" : "41.8988425122"
+  },
+  "landmark_designation_date" : 834390000,
+  "address" : "860-880 N Lake Shore Dr",
+  "landmark_name" : "860-880 Lake Shore Drive",
+  "longitude" : "-87.61885733230",
+  "latitude" : "41.89884251220",
+  "date_built" : "1949-51"
+}
+, {
+  "architect" : "Marshall & Fox",
+  "id" : "L- 11",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5644151423",
+    "latitude" : "41.7676086628"
+  },
+  "landmark_designation_date" : 1085554800,
+  "address" : "7059 South Shore Dr",
+  "landmark_name" : "South Shore Cultural Center",
+  "longitude" : "-87.56441514230",
+  "latitude" : "41.76760866280",
+  "date_built" : "1906,09,16"
+}
+, {
+  "architect" : "Meyer Fridstein",
+  "id" : "L-295",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5814614219",
+    "latitude" : "41.7961879206"
+  },
+  "landmark_designation_date" : 1283929200,
+  "address" : "5454 South Shore Drive",
+  "landmark_name" : "Shoreland Hotel",
+  "longitude" : "-87.58146142190",
+  "latitude" : "41.79618792060",
+  "date_built" : "1925-1926"
+}
+, {
+  "architect" : "Arthur F. Hussander",
+  "id" : "L-296",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6721645801",
+    "latitude" : "41.7820970584"
+  },
+  "landmark_designation_date" : 1276066800,
+  "address" : "6130 S. Wolcott Ave",
+  "landmark_name" : "Robert Lindblom Technical High Schoool building",
+  "longitude" : "-87.67216458010",
+  "latitude" : "41.78209705840",
+  "date_built" : "1917-1919"
+}
+, {
+  "architect" : "Solon Spencer Beman",
+  "id" : "L-297",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.5903059538",
+    "latitude" : "41.805828791"
+  },
+  "landmark_designation_date" : 1294905600,
+  "address" : "4904 S. Lake Park Ave",
+  "landmark_name" : "Blackstone Library",
+  "longitude" : "-87.59030595380",
+  "latitude" : "41.80582879100",
+  "date_built" : "1904"
+}
+, {
+  "architect" : "Addison  and Fiedler",
+  "id" : "L-298",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6320775815",
+    "latitude" : "41.9106132428"
+  },
+  "landmark_designation_date" : 1294905600,
+  "address" : "108 W. Germania Place / 1538-1542 N. Clark St.",
+  "landmark_name" : "Germania Club Building",
+  "longitude" : "-87.63207758150",
+  "latitude" : "41.91061324280",
+  "date_built" : "1889"
+}
+, {
+  "architect" : "K. M. Vitzthum and Company",
+  "id" : "L-299",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6241814106",
+    "latitude" : "41.887086452"
+  },
+  "landmark_designation_date" : 1291795200,
+  "address" : "307 N. Michigan Ave",
+  "landmark_name" : "Old Republic Building",
+  "longitude" : "-87.62418141060",
+  "latitude" : "41.88708645200",
+  "date_built" : "1924"
+}
+, {
+  "architect" : "Charles Thisslew",
+  "id" : "L-300",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6602583662",
+    "latitude" : "41.9752251056"
+  },
+  "landmark_designation_date" : 1304492400,
+  "address" : "5120 N. Broadway",
+  "landmark_name" : "(Former) Schlitz Brewery-Tied House",
+  "longitude" : "-87.66025836620",
+  "latitude" : "41.97522510560",
+  "date_built" : "1904"
+}
+, {
+  "architect" : "Stephen Vaughn Shipman",
+  "id" : "L-301",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6532522723",
+    "latitude" : "41.8814027295"
+  },
+  "landmark_designation_date" : 1304492400,
+  "address" : "1027 W. Madison St.",
+  "landmark_name" : "Holden Block",
+  "longitude" : "-87.65325227230",
+  "latitude" : "41.88140272950",
+  "date_built" : "1872"
+}
+, {
+  "architect" : "Battey & Kipp (1936), A. Epstein (1941-1942)",
+  "id" : "L-302",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6520015393",
+    "latitude" : "41.830931883"
+  },
+  "landmark_designation_date" : 1304492400,
+  "address" : "1038 W. 35th Street",
+  "landmark_name" : "Spiegel Administration Building",
+  "longitude" : "-87.65200153930",
+  "latitude" : "41.83093188300",
+  "date_built" : "1936, 1941"
+}
+, {
+  "architect" : "Fritz Lang",
+  "id" : "L-303",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6725414477",
+    "latitude" : "41.9030132443"
+  },
+  "landmark_designation_date" : 1304492400,
+  "address" : "1801 W. Division St.",
+  "landmark_name" : "(Former) Schlitz Brewery-Tied House@1801W.Division",
+  "longitude" : "-87.67254144770",
+  "latitude" : "41.90301324430",
+  "date_built" : "1900-01"
+}
+, {
+  "architect" : "Unknown",
+  "id" : "L-304",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6492013632",
+    "latitude" : "41.769006287"
+  },
+  "landmark_designation_date" : 1309935600,
+  "address" : "958 W. 69th St.",
+  "landmark_name" : "(Former) Schlitz BreweryTied-House@958W.69th St.",
+  "longitude" : "-87.64920136320",
+  "latitude" : "41.76900628700",
+  "date_built" : "1898"
+}
+, {
+  "architect" : "Charles Thisslew",
+  "id" : "L-305",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6830331298",
+    "latitude" : "41.9392502017"
+  },
+  "landmark_designation_date" : 1309935600,
+  "address" : "2159 W. Belmont Ave.",
+  "landmark_name" : "(Former) Schlitz BreweryTied-House@2159 W.Belmont",
+  "longitude" : "-87.68303312980",
+  "latitude" : "41.93925020170",
+  "date_built" : "1903-1904"
+}
+, {
+  "architect" : "Frommann and Jebsen",
+  "id" : "L-306",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.663450898",
+    "latitude" : "41.9396477129"
+  },
+  "landmark_designation_date" : 1309935600,
+  "address" : "3159 N. Southport Ave.",
+  "landmark_name" : "(Former) Schlitz BreweryTied-House@3159NSouthport",
+  "longitude" : "-87.66345089800",
+  "latitude" : "41.93964771290",
+  "date_built" : "1903"
+}
+, {
+  "architect" : "Kley & Lang",
+  "id" : "L-307",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6854449419",
+    "latitude" : "41.8304224833"
+  },
+  "landmark_designation_date" : 1309935600,
+  "address" : "3456 S. Western Ave.",
+  "landmark_name" : "(Former) Schlitz BreweryTied-House@3456SWestern",
+  "longitude" : "-87.68544494190",
+  "latitude" : "41.83042248330",
+  "date_built" : "1899"
+}
+, {
+  "architect" : "Frommann and Jebsen",
+  "id" : "L-308",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6121528668",
+    "latitude" : "41.6885588813"
+  },
+  "landmark_designation_date" : 1309935600,
+  "address" : "11314 S. Front Ave.",
+  "landmark_name" : "(Former) Schlitz Brewery Stable Building",
+  "longitude" : "-87.61215286680",
+  "latitude" : "41.68855888130",
+  "date_built" : "1906"
+}
+, {
+  "architect" : "Frommann and Jebsen",
+  "id" : "L-309",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6123887351",
+    "latitude" : "41.6871246524"
+  },
+  "landmark_designation_date" : 1309935600,
+  "address" : "11400 S. Front Ave.",
+  "landmark_name" : "(Former) Schlitz Brewery Tied-House@11400S.Front",
+  "longitude" : "-87.61238873510",
+  "latitude" : "41.68712465240",
+  "date_built" : "1906"
+}
+, {
+  "architect" : "Kley  & Lang",
+  "id" : "L-310",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6852556957",
+    "latitude" : "41.917484239"
+  },
+  "landmark_designation_date" : 1317798000,
+  "address" : "1944 N. Oakley Ave.",
+  "landmark_name" : "(Former) Schlitz BreweryTied-House@1944 N.Oakley",
+  "longitude" : "-87.68525569570",
+  "latitude" : "41.91748423900",
+  "date_built" : "1898"
+}
+, {
+  "architect" : "William W. Boyington, Henry B. Wheelock,Chatten",
+  "id" : "L-311",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.599781067",
+    "latitude" : "41.8111672548"
+  },
+  "landmark_designation_date" : 1317798000,
+  "address" : "4600-4608 South Greenwood Avenue",
+  "landmark_name" : "Kenwood United Church of Christ",
+  "longitude" : "-87.59978106700",
+  "latitude" : "41.81116725480",
+  "date_built" : "1930"
+}
+, {
+  "architect" : "Lewis E. Russell",
+  "id" : "L-312",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6253298227",
+    "latitude" : "41.8526379217"
+  },
+  "landmark_designation_date" : 1317798000,
+  "address" : "43 East Cermak Road",
+  "landmark_name" : "White Castle # 16",
+  "longitude" : "-87.62532982270",
+  "latitude" : "41.85263792170",
+  "date_built" : "1930"
+}
+, {
+  "architect" : "Dankmar Adler",
+  "id" : "L-313",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6135745354",
+    "latitude" : "41.8128364492"
+  },
+  "landmark_designation_date" : 1311836400,
+  "address" : "4501 S. Vincennes Ave",
+  "landmark_name" : "Ebenezer Missionary Baptist Church Building",
+  "longitude" : "-87.61357453540",
+  "latitude" : "41.81283644920",
+  "date_built" : "1898-1899"
+}
+, {
+  "architect" : "Harry Weese",
+  "id" : "L-314",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6207782308",
+    "latitude" : "41.8998142935"
+  },
+  "landmark_designation_date" : 1336546800,
+  "address" : "227 East Walton Place",
+  "landmark_name" : "227 East Walton Place Apartment Building",
+  "longitude" : "-87.62077823080",
+  "latitude" : "41.89981429350",
+  "date_built" : "1956"
+}
+, {
+  "architect" : "Holabird & Root",
+  "id" : "L-315",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6254250923",
+    "latitude" : "41.8870347853"
+  },
+  "landmark_designation_date" : 1336546800,
+  "address" : "69 E. Wacker Place",
+  "landmark_name" : "Chicago Motor Club Building",
+  "longitude" : "-87.62542509230",
+  "latitude" : "41.88703478530",
+  "date_built" : "1928"
+}
+, {
+  "architect" : "Cobb & Frost",
+  "id" : "L-316",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-87.6211348779",
+    "latitude" : "41.853922125"
+  },
+  "landmark_designation_date" : 1331708400,
+  "address" : "2110 S. Prairie Ave.",
+  "landmark_name" : "Harriet F. Rees House",
+  "longitude" : "-87.62113487790",
+  "latitude" : "41.85392212500",
+  "date_built" : "1888"
+}
+ ]

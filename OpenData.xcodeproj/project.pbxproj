@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D445EE351CA2E9AA00786CA3 /* Farmers2015.json in Resources */ = {isa = PBXBuildFile; fileRef = D445EE311CA2E9AA00786CA3 /* Farmers2015.json */; };
+		D445EE361CA2E9AA00786CA3 /* RedLight.json in Resources */ = {isa = PBXBuildFile; fileRef = D445EE321CA2E9AA00786CA3 /* RedLight.json */; };
+		D445EE371CA2E9AA00786CA3 /* Landmarks.json in Resources */ = {isa = PBXBuildFile; fileRef = D445EE331CA2E9AA00786CA3 /* Landmarks.json */; };
+		D445EE3A1CA2E9FA00786CA3 /* Parks.swift in Sources */ = {isa = PBXBuildFile; fileRef = D445EE391CA2E9FA00786CA3 /* Parks.swift */; };
+		D445EE3E1CA34D5C00786CA3 /* Parks_Ammenities.json in Resources */ = {isa = PBXBuildFile; fileRef = D445EE3D1CA34D5C00786CA3 /* Parks_Ammenities.json */; };
 		D498BDBD1C9AD25B00B8FEFC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D498BDBC1C9AD25B00B8FEFC /* AppDelegate.swift */; };
 		D498BDBF1C9AD25B00B8FEFC /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D498BDBE1C9AD25B00B8FEFC /* ListViewController.swift */; };
 		D498BDC11C9AD25B00B8FEFC /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D498BDC01C9AD25B00B8FEFC /* MapViewController.swift */; };
@@ -16,6 +21,8 @@
 		D498BDD41C9AD25B00B8FEFC /* OpenDataTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D498BDD31C9AD25B00B8FEFC /* OpenDataTests.swift */; };
 		D498BDDF1C9AD25B00B8FEFC /* OpenDataUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D498BDDE1C9AD25B00B8FEFC /* OpenDataUITests.swift */; };
 		D498BDED1C9AD73A00B8FEFC /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D498BDEC1C9AD73A00B8FEFC /* MapKit.framework */; };
+		D4FD723E1C9DF7F900D5D959 /* FoodInspection.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FD723D1C9DF7F900D5D959 /* FoodInspection.swift */; };
+		D4FD72421C9E09F800D5D959 /* Food.json in Resources */ = {isa = PBXBuildFile; fileRef = D4FD72411C9E09F800D5D959 /* Food.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +43,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D445EE311CA2E9AA00786CA3 /* Farmers2015.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Farmers2015.json; sourceTree = "<group>"; };
+		D445EE321CA2E9AA00786CA3 /* RedLight.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = RedLight.json; sourceTree = "<group>"; };
+		D445EE331CA2E9AA00786CA3 /* Landmarks.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Landmarks.json; sourceTree = "<group>"; };
+		D445EE391CA2E9FA00786CA3 /* Parks.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Parks.swift; sourceTree = "<group>"; };
+		D445EE3D1CA34D5C00786CA3 /* Parks_Ammenities.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Parks_Ammenities.json; sourceTree = "<group>"; };
 		D498BDB91C9AD25B00B8FEFC /* OpenData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OpenData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D498BDBC1C9AD25B00B8FEFC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D498BDBE1C9AD25B00B8FEFC /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
@@ -51,6 +63,8 @@
 		D498BDDE1C9AD25B00B8FEFC /* OpenDataUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenDataUITests.swift; sourceTree = "<group>"; };
 		D498BDE01C9AD25B00B8FEFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D498BDEC1C9AD73A00B8FEFC /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		D4FD723D1C9DF7F900D5D959 /* FoodInspection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FoodInspection.swift; sourceTree = "<group>"; };
+		D4FD72411C9E09F800D5D959 /* Food.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Food.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,10 +93,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D46387061C9B51AA00CBDAAD /* DataObjects */ = {
+			isa = PBXGroup;
+			children = (
+				D445EE311CA2E9AA00786CA3 /* Farmers2015.json */,
+				D445EE321CA2E9AA00786CA3 /* RedLight.json */,
+				D445EE331CA2E9AA00786CA3 /* Landmarks.json */,
+				D4FD723D1C9DF7F900D5D959 /* FoodInspection.swift */,
+				D4FD72411C9E09F800D5D959 /* Food.json */,
+				D445EE391CA2E9FA00786CA3 /* Parks.swift */,
+				D445EE3D1CA34D5C00786CA3 /* Parks_Ammenities.json */,
+			);
+			name = DataObjects;
+			sourceTree = "<group>";
+		};
 		D498BDB01C9AD25B00B8FEFC = {
 			isa = PBXGroup;
 			children = (
 				D498BDBB1C9AD25B00B8FEFC /* OpenData */,
+				D46387061C9B51AA00CBDAAD /* DataObjects */,
 				D498BDD21C9AD25B00B8FEFC /* OpenDataTests */,
 				D498BDEE1C9AD75800B8FEFC /* SupportingFiles */,
 				D498BDDD1C9AD25B00B8FEFC /* OpenDataUITests */,
@@ -208,6 +237,7 @@
 				TargetAttributes = {
 					D498BDB81C9AD25B00B8FEFC = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = NHWEW7GGZ6;
 						SystemCapabilities = {
 							com.apple.Maps.iOS = {
 								enabled = 1;
@@ -249,8 +279,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D445EE361CA2E9AA00786CA3 /* RedLight.json in Resources */,
+				D445EE3E1CA34D5C00786CA3 /* Parks_Ammenities.json in Resources */,
 				D498BDC91C9AD25B00B8FEFC /* LaunchScreen.storyboard in Resources */,
+				D445EE351CA2E9AA00786CA3 /* Farmers2015.json in Resources */,
+				D4FD72421C9E09F800D5D959 /* Food.json in Resources */,
 				D498BDC61C9AD25B00B8FEFC /* Assets.xcassets in Resources */,
+				D445EE371CA2E9AA00786CA3 /* Landmarks.json in Resources */,
 				D498BDC41C9AD25B00B8FEFC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -277,8 +312,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				D498BDC11C9AD25B00B8FEFC /* MapViewController.swift in Sources */,
+				D445EE3A1CA2E9FA00786CA3 /* Parks.swift in Sources */,
 				D498BDBD1C9AD25B00B8FEFC /* AppDelegate.swift in Sources */,
 				D498BDBF1C9AD25B00B8FEFC /* ListViewController.swift in Sources */,
+				D4FD723E1C9DF7F900D5D959 /* FoodInspection.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,10 +457,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = OpenData/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.tyreeapps.OpenData;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dartonion.OpenData;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -432,10 +470,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = OpenData/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.tyreeapps.OpenData;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dartonion.OpenData;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -507,6 +546,7 @@
 				D498BDE51C9AD25B00B8FEFC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D498BDE61C9AD25B00B8FEFC /* Build configuration list for PBXNativeTarget "OpenDataTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +555,7 @@
 				D498BDE81C9AD25B00B8FEFC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D498BDE91C9AD25B00B8FEFC /* Build configuration list for PBXNativeTarget "OpenDataUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +564,7 @@
 				D498BDEB1C9AD25B00B8FEFC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
