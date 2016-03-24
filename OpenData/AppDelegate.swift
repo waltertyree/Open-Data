@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  OpenData
 //
-//  Created by Walter Tyree on 3/17/16.
+//  Created by Walter Tyree on 3/12/16.
 //  Copyright © 2016 Tyree Apps, LLC. All rights reserved.
 //
 
@@ -25,13 +25,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func populateArrays() {
-        if let fileURL = NSBundle.mainBundle().URLForResource("Parks_Ammenities", withExtension: "json"), data = NSData(contentsOfURL:fileURL) {
+        if let fileURL = NSBundle.mainBundle().URLForResource("Food", withExtension: "json"), data = NSData(contentsOfURL:fileURL) {
             do {
                 
                 let dataList = try NSJSONSerialization.JSONObjectWithData(data, options: NSJSONReadingOptions.AllowFragments) as? Array<Dictionary<String,AnyObject>>
                 
                 for entry in dataList! {
-                    let populatedEntry = ParkAmenitiesEntry.init(dictionary: entry)
+                    let populatedEntry = FoodInspectionEntry.init(dictionary: entry)
                     self.listForTableView.append(populatedEntry)
                     self.listForMapView.append(populatedEntry)
                 }

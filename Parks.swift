@@ -2,7 +2,7 @@
 //  Parks.swift
 //  OpenData
 //
-//  Created by Walter Tyree on 3/23/16.
+//  Created by Walter Tyree on 3/12/16.
 //  Copyright © 2016 Tyree Apps, LLC. All rights reserved.
 //
 
@@ -266,7 +266,7 @@ class ParkAmenitiesEntry : NSObject {
 extension ParkAmenitiesEntry : Listable {
     
     func itemTitle() -> String {
-        var name = self.park_name
+        let name = self.park_name
         return name
     }
 }

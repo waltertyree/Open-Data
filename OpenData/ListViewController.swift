@@ -2,7 +2,7 @@
 //  ListViewController.swift
 //  OpenData
 //
-//  Created by Walter Tyree on 3/17/16.
+//  Created by Walter Tyree on 3/12/16.
 //  Copyright © 2016 Tyree Apps, LLC. All rights reserved.
 //
 
@@ -26,6 +26,9 @@ class ListViewController: UIViewController {
         self.tableView.dataSource = self
         self.tableView.delegate = self
         
+        applicationDelegate.listForTableView.sortInPlace { (anItem, aSecondItem)-> Bool in
+            anItem.itemTitle() < aSecondItem.itemTitle()
+        }
     }
 
     override func viewDidAppear(animated: Bool) {
@@ -39,6 +42,20 @@ extension ListViewController : UITableViewDelegate, UITableViewDataSource {
     func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return applicationDelegate.listForTableView.count
     }
+    
+    func tableView(tableView: UITableView, titleForHeaderInSection section: Int) -> String? {
+        return nil
+    }
+    
+    func numberOfSectionsInTableView(tableView: UITableView) -> Int {
+        return 1
+    }
+    
+    func sectionIndexTitlesForTableView(tableView: UITableView) -> [String]? {
+        return nil
+    }
+    
+    
     
     func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
         
@@ -58,4 +75,16 @@ extension ListViewController : UITableViewDelegate, UITableViewDataSource {
         
     }
 }
+
+/**
+ var indexedList=Dictionary<String:Array<String>>()
+ 
+ for fieldToIndex in listOfItems {
+ let firstLetter=fieldToIndex.substringToIndex(fieldToIndex.startIndex.advancedBy(1)).uppercaseString
+ var indexArray=indexedList[firstLetter] ?? Array<String>()
+ letterArray.append(fieldToIndex)
+ indexedList[firstLetter]=indexArray
+ }
+
+ **/
 
