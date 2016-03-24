@@ -22,13 +22,15 @@ class ListViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-       
+        
         self.tableView.dataSource = self
         self.tableView.delegate = self
         
+        /**
         applicationDelegate.listForTableView.sortInPlace { (anItem, aSecondItem)-> Bool in
             anItem.itemTitle() < aSecondItem.itemTitle()
         }
+         **/
     }
 
     override func viewDidAppear(animated: Bool) {
@@ -64,7 +66,7 @@ extension ListViewController : UITableViewDelegate, UITableViewDataSource {
                 reusedCell.textLabel?.text = item.itemTitle()
             return reusedCell
         }
-        let cell = UITableViewCell()
+        let cell = UITableViewCell(style: .Default, reuseIdentifier: "cell")
         let item = applicationDelegate.listForTableView[indexPath.row]
             cell.textLabel?.text = item.itemTitle()
         return cell

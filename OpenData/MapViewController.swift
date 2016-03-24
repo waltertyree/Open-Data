@@ -37,6 +37,7 @@ class MapViewController: UIViewController {
 
     }
     
+    
     @IBAction func unwindToMap(sender: UIStoryboardSegue)
     {
         let sourceViewController = sender.sourceViewController
@@ -46,6 +47,7 @@ class MapViewController: UIViewController {
 
 extension MapViewController : MKMapViewDelegate {
     
+    /*
     func mapView(mapView: MKMapView, viewForAnnotation annotation: MKAnnotation) -> MKAnnotationView? {
         let theView = MKPinAnnotationView(annotation: annotation, reuseIdentifier: "place")
         theView.canShowCallout = true
@@ -53,6 +55,8 @@ extension MapViewController : MKMapViewDelegate {
     return theView
         
     }
+     
+     */
     func mapView(mapView: MKMapView, annotationView view: MKAnnotationView, calloutAccessoryControlTapped control: UIControl) {
         print("I was tapped")
     }

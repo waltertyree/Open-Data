@@ -30,6 +30,14 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                         </tableViewCellContentView>
                                     </tableViewCell>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="customCell" id="0GC-eo-kzU" customClass="CustomTableViewCell" customModule="OpenData" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="136" width="560" height="44"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="0GC-eo-kzU" id="X5E-cA-vBA">
+                                            <rect key="frame" x="0.0" y="0.0" width="560" height="43"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
                                 </prototypes>
                             </tableView>
                         </subviews>
@@ -53,7 +61,7 @@
         <!--View Controller-->
         <scene sceneID="nZz-2l-S8R">
             <objects>
-                <viewController id="ycS-lT-sTF" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="DetailViewController" id="ycS-lT-sTF" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="4tJ-bf-zJ8"/>
                         <viewControllerLayoutGuide type="bottom" id="vId-Yn-aBF"/>

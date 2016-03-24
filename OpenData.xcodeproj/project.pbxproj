@@ -13,6 +13,7 @@
 		D445EE3A1CA2E9FA00786CA3 /* Parks.swift in Sources */ = {isa = PBXBuildFile; fileRef = D445EE391CA2E9FA00786CA3 /* Parks.swift */; };
 		D445EE3E1CA34D5C00786CA3 /* Parks_Ammenities.json in Resources */ = {isa = PBXBuildFile; fileRef = D445EE3D1CA34D5C00786CA3 /* Parks_Ammenities.json */; };
 		D445EE401CA3EDBA00786CA3 /* LandmarkEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = D445EE3F1CA3EDBA00786CA3 /* LandmarkEntry.swift */; };
+		D445EE421CA4021000786CA3 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D445EE411CA4021000786CA3 /* CustomTableViewCell.swift */; };
 		D498BDBD1C9AD25B00B8FEFC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D498BDBC1C9AD25B00B8FEFC /* AppDelegate.swift */; };
 		D498BDBF1C9AD25B00B8FEFC /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D498BDBE1C9AD25B00B8FEFC /* ListViewController.swift */; };
 		D498BDC11C9AD25B00B8FEFC /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D498BDC01C9AD25B00B8FEFC /* MapViewController.swift */; };
@@ -50,6 +51,7 @@
 		D445EE391CA2E9FA00786CA3 /* Parks.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Parks.swift; sourceTree = "<group>"; };
 		D445EE3D1CA34D5C00786CA3 /* Parks_Ammenities.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Parks_Ammenities.json; sourceTree = "<group>"; };
 		D445EE3F1CA3EDBA00786CA3 /* LandmarkEntry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LandmarkEntry.swift; sourceTree = "<group>"; };
+		D445EE411CA4021000786CA3 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		D498BDB91C9AD25B00B8FEFC /* OpenData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OpenData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D498BDBC1C9AD25B00B8FEFC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D498BDBE1C9AD25B00B8FEFC /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
@@ -138,6 +140,7 @@
 				D498BDBC1C9AD25B00B8FEFC /* AppDelegate.swift */,
 				D498BDBE1C9AD25B00B8FEFC /* ListViewController.swift */,
 				D498BDC01C9AD25B00B8FEFC /* MapViewController.swift */,
+				D445EE411CA4021000786CA3 /* CustomTableViewCell.swift */,
 				D498BDC21C9AD25B00B8FEFC /* Main.storyboard */,
 				D498BDC51C9AD25B00B8FEFC /* Assets.xcassets */,
 				D498BDC71C9AD25B00B8FEFC /* LaunchScreen.storyboard */,
@@ -317,6 +320,7 @@
 				D498BDC11C9AD25B00B8FEFC /* MapViewController.swift in Sources */,
 				D445EE3A1CA2E9FA00786CA3 /* Parks.swift in Sources */,
 				D445EE401CA3EDBA00786CA3 /* LandmarkEntry.swift in Sources */,
+				D445EE421CA4021000786CA3 /* CustomTableViewCell.swift in Sources */,
 				D498BDBD1C9AD25B00B8FEFC /* AppDelegate.swift in Sources */,
 				D498BDBF1C9AD25B00B8FEFC /* ListViewController.swift in Sources */,
 				D4FD723E1C9DF7F900D5D959 /* FoodInspection.swift in Sources */,
