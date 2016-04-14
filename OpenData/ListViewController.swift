@@ -23,7 +23,8 @@ class ListViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(ListViewController.reload), name: "NOW_RELOAD", object: nil)
+//        NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(ListViewController.reload), name: "NOW_RELOAD", object: nil)
+
         self.tableView.dataSource = self
         self.tableView.delegate = self
         
@@ -42,13 +43,14 @@ class ListViewController: UIViewController {
     func reload() {
         self.tableView.reloadData()
     }
+    
     override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
         self.detailViewController = segue.destinationViewController as? DetailViewController
     }
     
-    deinit {
-        NSNotificationCenter.defaultCenter().removeObserver(self)
-    }
+//    deinit {
+//        NSNotificationCenter.defaultCenter().removeObserver(self)
+//    }
 }
 
 extension ListViewController : UITableViewDelegate, UITableViewDataSource {
@@ -84,7 +86,7 @@ extension ListViewController : UITableViewDelegate, UITableViewDataSource {
     }
     
     func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) {
-        self.detailViewController?.foodInspection = applicationDelegate.listForTableView[indexPath.row] as? FoodInspectionEntry
+        self.detailViewController?.artItem = applicationDelegate.listForTableView[indexPath.row] as? ArtEntry
     }
     
 }

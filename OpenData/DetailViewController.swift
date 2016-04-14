@@ -11,7 +11,7 @@ import UIKit
 class DetailViewController: UIViewController {
 
     @IBOutlet weak var doneButton: UIButton!
-    var foodInspection : FoodInspectionEntry?
+    var artItem : ArtEntry?
     var doneButtonHidden = true
     
     @IBOutlet weak var titleLabel: UILabel!
@@ -24,7 +24,7 @@ class DetailViewController: UIViewController {
     override func viewWillAppear(animated: Bool) {
         super.viewWillAppear(animated)
         self.doneButton.hidden = self.doneButtonHidden
-        self.titleLabel.text = foodInspection?.title
+        self.titleLabel.text = artItem?.title
 
     }
     override func viewDidAppear(animated: Bool) {

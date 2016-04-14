@@ -32,6 +32,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         //Watch for that notification by name
 //        NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(AppDelegate.populateArrays), name: "DownloadCompleted", object: nil)
         
+        
         let documentsURL = fetchDocumentsDirectoryURL()
         
         let destinationURL = documentsURL.URLByAppendingPathComponent("/\(DataConstants.kDataFileName)")

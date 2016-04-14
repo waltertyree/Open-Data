@@ -21,7 +21,7 @@ class MapViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         mapView.delegate = self
         mapView.addAnnotations(applicationDelegate.listForMapView)
-        NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(MapViewController.reload), name: "NOW_RELOAD", object: nil)
+//        NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(MapViewController.reload), name: "NOW_RELOAD", object: nil)
     }
 
     override func didReceiveMemoryWarning() {
@@ -45,7 +45,7 @@ class MapViewController: UIViewController {
     override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
         if segue.identifier == "showDetail" {
         let detailView = segue.destinationViewController as? DetailViewController
-        detailView?.foodInspection = sender as? FoodInspectionEntry
+        detailView?.artItem = sender as? ArtEntry
             detailView?.doneButtonHidden = false
         }
     }
@@ -55,7 +55,7 @@ class MapViewController: UIViewController {
         let sourceViewController = sender.sourceViewController as? DetailViewController
         sourceViewController?.doneButton.hidden = true
         // Pull any data from the view controller which initiated the unwind segue.
-        NSNotificationCenter.defaultCenter().addObserver(self, selector: Selector("recordNotification"), name: nil, object: nil)
+        
     }
 }
 
