@@ -9,9 +9,6 @@
 import UIKit
 import MapKit
 
-protocol Mappable {
-    
-}
 
 class MapViewController: UIViewController {
 
@@ -24,6 +21,7 @@ class MapViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         mapView.delegate = self
         mapView.addAnnotations(applicationDelegate.listForMapView)
+        NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(MapViewController.reload), name: "NOW_RELOAD", object: nil)
     }
 
     override func didReceiveMemoryWarning() {
@@ -36,18 +34,34 @@ class MapViewController: UIViewController {
         mapView.showAnnotations(applicationDelegate.listForMapView, animated: true)
 
     }
+    deinit {
+        NSNotificationCenter.defaultCenter().removeObserver(self)
+    }
     
+    func reload() {
+        mapView.showAnnotations(applicationDelegate.listForMapView, animated: true)
+    }
+    
+    override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
+        if segue.identifier == "showDetail" {
+        let detailView = segue.destinationViewController as? DetailViewController
+        detailView?.foodInspection = sender as? FoodInspectionEntry
+            detailView?.doneButtonHidden = false
+        }
+    }
     
     @IBAction func unwindToMap(sender: UIStoryboardSegue)
     {
-        let sourceViewController = sender.sourceViewController
+        let sourceViewController = sender.sourceViewController as? DetailViewController
+        sourceViewController?.doneButton.hidden = true
         // Pull any data from the view controller which initiated the unwind segue.
+        NSNotificationCenter.defaultCenter().addObserver(self, selector: Selector("recordNotification"), name: nil, object: nil)
     }
 }
 
 extension MapViewController : MKMapViewDelegate {
     
-    /*
+    
     func mapView(mapView: MKMapView, viewForAnnotation annotation: MKAnnotation) -> MKAnnotationView? {
         let theView = MKPinAnnotationView(annotation: annotation, reuseIdentifier: "place")
         theView.canShowCallout = true
@@ -56,9 +70,9 @@ extension MapViewController : MKMapViewDelegate {
         
     }
      
-     */
+     
     func mapView(mapView: MKMapView, annotationView view: MKAnnotationView, calloutAccessoryControlTapped control: UIControl) {
-        print("I was tapped")
+        self.performSegueWithIdentifier("showDetail", sender: view.annotation)
     }
     
     func mapView(mapView: MKMapView, didSelectAnnotationView view: MKAnnotationView) {

@@ -59,7 +59,7 @@ class FoodInspectionEntry : NSObject {
         } else {
             self.state = ""
         }
-        
+    
         if let localFacility_type = dictionary["facility_type"] as? String {
             self.facility_type = localFacility_type
         } else {
@@ -111,13 +111,13 @@ class FoodInspectionEntry : NSObject {
         if let localLongitude = dictionary["longitude"] as? String {
             self.longitude = Double(localLongitude)!
         } else {
-            self.longitude = 0.0
+            self.longitude = -87.6500500
         }
         
         if let localLatitude = dictionary["latitude"] as? String {
             self.latitude = Double(localLatitude)!
         } else {
-            self.latitude = 0.0
+            self.latitude = 41.8500300
         }
     }
 }
@@ -136,7 +136,7 @@ extension FoodInspectionEntry : Listable {
 import CoreLocation
 import MapKit
 
-extension FoodInspectionEntry : Mappable, MKAnnotation {
+extension FoodInspectionEntry : MKAnnotation {
     var coordinate: CLLocationCoordinate2D { get {
             return CLLocationCoordinate2D(latitude: self.latitude, longitude: self.longitude)
         }}

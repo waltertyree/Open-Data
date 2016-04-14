@@ -98,7 +98,7 @@ extension LandmarkEntry : Listable {
 import CoreLocation
 import MapKit
 
-extension LandmarkEntry : Mappable, MKAnnotation {
+extension LandmarkEntry : MKAnnotation {
     var coordinate: CLLocationCoordinate2D { get {
         return CLLocationCoordinate2D(latitude: self.latitude, longitude: self.longitude)
         }}

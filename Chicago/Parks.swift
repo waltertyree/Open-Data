@@ -274,7 +274,7 @@ extension ParkAmenitiesEntry : Listable {
 import CoreLocation
 import MapKit
 
-extension ParkAmenitiesEntry : Mappable, MKAnnotation {
+extension ParkAmenitiesEntry : MKAnnotation {
     var coordinate: CLLocationCoordinate2D { get {
         return CLLocationCoordinate2D(latitude: self.latitude, longitude: self.longitude)
         }}

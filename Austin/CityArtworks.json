@@ -1,0 +1,2834 @@
+[ {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin Convention Center Parking Garage/Chiller Tower",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73647200312456",
+    "latitude" : "30.265255505104278",
+    "human_address" : "{\"address\":\"5th Street and Sabine Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Ann M.Adams",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=504 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2005_003_1.jpg;http://assets.austintexas.gov/aipp/images/pic2005_003_2.jpg;http://assets.austintexas.gov/aipp/images/pic2005_003_3.jpg;",
+  "art_location_street_address" : "5th Street and Sabine Street;",
+  "art_title" : "Big Chiller Blues",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Eustasio Cepeda Branch",
+  "location" : {
+    "needs_recoding" : false,
+    "human_address" : "{\"address\":\"651 North Pleasant Valley Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Rene Anguiano",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=132 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1998_004.jpg;http://assets.austintexas.gov/aipp/images/pic1998_004_2.jpg;http://assets.austintexas.gov/aipp/images/pic1998_004_3.jpg;",
+  "art_location_street_address" : "651 North Pleasant Valley  Rd.;",
+  "art_title" : "Dawn to Dusk",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Holly Street Power Plant",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72072545231359",
+    "latitude" : "30.25158178209171",
+    "human_address" : "{\"address\":\"2400 Holly St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Joe Arellano",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=99 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1991_003.jpg",
+  "art_location_street_address" : "2400 Holly St.;",
+  "art_title" : "The Children are the Future",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "St. Elmo Service Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.75245295558523",
+    "latitude" : "30.210783569789555",
+    "human_address" : "{\"address\":\"4411 Meinardus Road;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78744\"}"
+  },
+  "art_location_zip" : "78744",
+  "artist_full_name" : "Tre Arenz",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=110 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1994_001.jpg;http://assets.austintexas.gov/aipp/images/pic1994_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic1994_001_3.jpg;",
+  "art_location_street_address" : "4411 Meinardus Road;",
+  "art_title" : "Wall of Hands",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "North Austin Police Substation",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.69589651948735",
+    "latitude" : "30.41594458828731",
+    "human_address" : "{\"address\":\"12400 Lamplight Village Ave.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78727\"}"
+  },
+  "art_location_zip" : "78727",
+  "artist_full_name" : "Tre Arenz",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=114 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1994_011.jpg",
+  "art_location_street_address" : "12400 Lamplight Village Ave.;",
+  "art_title" : "Untitled",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Terrazas Branch Library",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73317439552804",
+    "latitude" : "30.260024534650952",
+    "human_address" : "{\"address\":\"1105 E. Cesar Chavez Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Connie Arismendi",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=513 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2009_001_1.jpg;http://assets.austintexas.gov/aipp/images/pic2009_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic2009_001_3.jpg;",
+  "art_location_street_address" : "1105 E. Cesar Chavez Street;",
+  "art_title" : "Rayo de Esperanza - A Beacon of Hope: Sculpture; Community Kiosk; Benches",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Town Lake Hike and Bike Trail (Trail of Tejano Legends)",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.71688999987344",
+    "latitude" : "30.265009999611948",
+    "human_address" : "{\"address\":\"Roy Montelongo Scenic Overlook; Canterbury St and Pleasant Valley Rd\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Connie Arismendi",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=516 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2008_003_1.jpg;http://assets.austintexas.gov/aipp/images/pic2008_003_2.jpg;http://assets.austintexas.gov/aipp/images/pic2008_003_3.jpg;",
+  "art_location_street_address" : "Roy Montelongo Scenic Overlook; Canterbury St and Pleasant Valley Rd",
+  "art_title" : "Trail of Tejano Legends: ¡Estamos en Tejas!",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Terrazas Branch Library",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73317439552804",
+    "latitude" : "30.260024534650952",
+    "human_address" : "{\"address\":\"1105 E. Cesar Chavez Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Connie Arismendi",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=506 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2006_002_1.jpg;http://assets.austintexas.gov/aipp/images/pic2006_002_2.jpg;http://assets.austintexas.gov/aipp/images/pic2006_002_3.jpg;",
+  "art_location_street_address" : "1105 E. Cesar Chavez Street;",
+  "art_title" : "El futuro es una página en blanco. ¿Qué escribirás en ella?",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Mexican American Cultural Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73958365734592",
+    "latitude" : "30.25799797632783",
+    "human_address" : "{\"address\":\"600 River Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Connie Arismendi",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=514 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2008_007_1.jpg;http://assets.austintexas.gov/aipp/images/pic2008_007_2.jpg;http://assets.austintexas.gov/aipp/images/pic2008_007_3.jpg;",
+  "art_location_street_address" : "600 River Street;",
+  "art_title" : "Trail of Tejano Legends: Una Canción de Fe Y Familia",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Town Lake Hike and Bike Trail (Trail of Tejano Legends)",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.71688999987344",
+    "latitude" : "30.265009999611948",
+    "human_address" : "{\"address\":\"Festival Beach Park along the; Nash Hernandez Sr. Road\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Connie Arismendi",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=515 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2008_004_1.jpg;http://assets.austintexas.gov/aipp/images/pic2008_004_2.jpg;http://assets.austintexas.gov/aipp/images/pic2008_004_3.jpg;",
+  "art_location_street_address" : "Festival Beach Park along the; Nash Hernandez Sr. Road ",
+  "art_title" : "Trail of Tejano Legends: Tenderly",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Palmer Event Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.753981803035",
+    "latitude" : "30.25976064750523",
+    "human_address" : "{\"address\":\"900 Barton Springs Road;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Twyla Arthur",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=191 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2002_003_1.jpg;http://assets.austintexas.gov/aipp/images/pic2002_003_2.jpg;http://assets.austintexas.gov/aipp/images/pic2002_003_3.jpg;",
+  "art_location_street_address" : "900 Barton Springs Road;",
+  "art_title" : "Autumn Ponds",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Springdale Park",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.71330097103964",
+    "latitude" : "30.263196057657183",
+    "human_address" : "{\"address\":\"Webberville Road;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Twyla Arthur",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=197 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2002_007_1.jpg;http://assets.austintexas.gov/aipp/images/pic2002_007_2.jpg;http://assets.austintexas.gov/aipp/images/pic2002_007_3.jpg;",
+  "art_location_street_address" : "Webberville Road;",
+  "art_title" : "Celebrating Traditions",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "North Village Branch Library",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73069835569646",
+    "latitude" : "30.36249919613249",
+    "human_address" : "{\"address\":\"2505 Steck Ave.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78757\"}"
+  },
+  "art_location_zip" : "78757",
+  "artist_full_name" : "Kathleen Ash",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=519 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2009_002_1.jpg;http://assets.austintexas.gov/aipp/images/pic2009_002_2.jpg;http://assets.austintexas.gov/aipp/images/pic2009_002_3.jpg;",
+  "art_location_street_address" : "2505 Steck Ave.;",
+  "art_title" : "Read More Books",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin Nature & Science Center ",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.77514285038444",
+    "latitude" : "30.272315183034266",
+    "human_address" : "{\"address\":\"301 Nature Center Dr.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78746\"}"
+  },
+  "art_location_zip" : "78746",
+  "artist_full_name" : "Kathleen Ash",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=128 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_016.jpg;http://assets.austintexas.gov/aipp/images/pic1997_016_2.gif;http://assets.austintexas.gov/aipp/images/pic1997_016_3.gif;",
+  "art_location_street_address" : "301 Nature Center Dr.;",
+  "art_title" : "Big Snake",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "North Village Branch Library",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73069835569646",
+    "latitude" : "30.36249919613249",
+    "human_address" : "{\"address\":\"2505 Steck Ave.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78757\"}"
+  },
+  "art_location_zip" : "78757",
+  "artist_full_name" : "Kathleen Ash",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=520 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2009_003_1.jpg;http://assets.austintexas.gov/aipp/images/pic2009_003_2.jpg;http://assets.austintexas.gov/aipp/images/pic2009_003_3.jpg;",
+  "art_location_street_address" : "2505 Steck Ave.;",
+  "art_title" : "Sea of Knowledge",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "2nd Street District  ",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74332000011776",
+    "latitude" : "30.269920000307934",
+    "human_address" : "{\"address\":\"2nd Street &amp; San Antonio;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Jerolyn Bahm-Colombik",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=529 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2010_002_1.jpg;http://assets.austintexas.gov/aipp/images/pic0000_002_2.jpg;http://assets.austintexas.gov/aipp/images/pic0000_002_3.jpg;",
+  "art_location_street_address" : "2nd Street & San Antonio;",
+  "art_title" : "La Fuente en Calle Segundo",
+  "art_location_state" : "TX "
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Yarborough Branch",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74093264038987",
+    "latitude" : "30.323072918367984",
+    "human_address" : "{\"address\":\"2200 Hancock Dr.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78756\"}"
+  },
+  "art_location_zip" : "78756",
+  "artist_full_name" : "Dayna Beard-Isensee",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=133 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1998_005.jpg;http://assets.austintexas.gov/aipp/images/pic1998_005_2.jpg;http://assets.austintexas.gov/aipp/images/pic1998_005_3.jpg;",
+  "art_location_street_address" : "2200 Hancock Dr.;",
+  "art_title" : "Flights of Fancy",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin-Bergstrom International Airport",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.66544354925043",
+    "latitude" : "30.202653698644724",
+    "human_address" : "{\"address\":\"3600 Presidential Blvd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Jill Bedgood ",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=137 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1999_004_1.jpg;http://assets.austintexas.gov/aipp/images/pic1999_004_2.jpg;http://assets.austintexas.gov/aipp/images/pic1999_004_3.jpg;",
+  "art_location_street_address" : "3600 Presidential Blvd.;",
+  "art_title" : "Reality * Texas * Mythology",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin Convention Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74923338272032",
+    "latitude" : "30.26473389832728",
+    "human_address" : "{\"address\":\"500 East Cesar Chavez St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Jill Bedgood ",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=125 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_002_1.jpg;http://assets.austintexas.gov/aipp/images/pic1997_002_2.jpg;http://assets.austintexas.gov/aipp/images/pic1997_002_3.jpg;",
+  "art_location_street_address" : "500 East Cesar Chavez St.;",
+  "art_title" : "Texas Botanicals",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Zilker Park",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.76862276567203",
+    "latitude" : "30.265983955948002",
+    "human_address" : "{\"address\":\"2201 Barton Springs Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78746\"}"
+  },
+  "art_location_zip" : "78746",
+  "artist_full_name" : "Jill Bedgood ",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=98 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1991_002_01.jpg;http://assets.austintexas.gov/aipp/images/pic1991_002_02.jpg;http://assets.austintexas.gov/aipp/images/pic1991_002_03.jpg;",
+  "art_location_street_address" : "2201 Barton Springs Rd.;",
+  "art_title" : "Phantom Ship",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "South Austin Senior Activity Center ",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.78565592490696",
+    "latitude" : "30.23392312560344",
+    "human_address" : "{\"address\":\"3911 Manchaca Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78704\"}"
+  },
+  "art_location_zip" : "78704",
+  "artist_full_name" : "Jill Bedgood ",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=117 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1995_003.jpg",
+  "art_location_street_address" : "3911 Manchaca Rd.;",
+  "art_title" : "Community Quilt",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Sand Beach Park",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73717840179187",
+    "latitude" : "30.25604476813926",
+    "human_address" : "{\"address\":\";\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Roberto Behar ",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=526 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic0000_001_1.jpg;http://assets.austintexas.gov/aipp/images/pic0000_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic0000_001_3.jpg;",
+  "art_location_street_address" : ";",
+  "art_title" : "Open Room Austin",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Health and Human Services Administration",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.69302633905961",
+    "latitude" : "30.252912715050357",
+    "human_address" : "{\"address\":\"7201 Levander Loop;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Nan StandishBlake",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=212 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/connected_blake.jpg",
+  "art_location_street_address" : "7201 Levander Loop;",
+  "art_title" : "Connected",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Windsor Park Branch",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.69066053895199",
+    "latitude" : "30.311966291306135",
+    "human_address" : "{\"address\":\"5801 Westminster Dr.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78723\"}"
+  },
+  "art_location_zip" : "78723",
+  "artist_full_name" : "Paul Bond",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=144 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2000_001_1.jpg;http://assets.austintexas.gov/aipp/images/pic2000_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic2000_001_3.jpg;",
+  "art_location_street_address" : "5801 Westminster Dr.;",
+  "art_title" : "Reading Between the Lions",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Learning & Research Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.67493999978103",
+    "latitude" : "30.136680000082094",
+    "human_address" : "{\"address\":\"2800 Star of Texas Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Katherine Brimberry",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=172 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_004.jpg",
+  "art_location_street_address" : "2800  Star of Texas Rd.;",
+  "art_title" : "Personal Effects III",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin Convention Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74923338272032",
+    "latitude" : "30.26473389832728",
+    "human_address" : "{\"address\":\"500 East Cesar Chavez St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Rolando Briseno",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=196 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2002_005_1.jpg;http://assets.austintexas.gov/aipp/images/pic2002_005_2.jpg;http://assets.austintexas.gov/aipp/images/pic2002_005_3.jpg;",
+  "art_location_street_address" : "500 East Cesar Chavez St.;",
+  "art_title" : "Macro / Micro Culture",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Todd Lane Service Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73807279633667",
+    "latitude" : "30.21058571894315",
+    "human_address" : "{\"address\":\"4108 Todd Lane;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Doug Brown",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=187 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/unsung_brown.jpg;http://assets.austintexas.gov/aipp/images/pic2001_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic2001_001_3.jpg;",
+  "art_location_street_address" : "4108 Todd Lane;",
+  "art_title" : "The Unsung",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Conley-Guerrero Senior Activity Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.71101219647505",
+    "latitude" : "30.266028922049486",
+    "human_address" : "{\"address\":\"808 Nile Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Elizabeth Busch",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=91 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1988_001_1.jpg;http://assets.austintexas.gov/aipp/images/pic1988_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic1988_001_3.jpg;",
+  "art_location_street_address" : "808 Nile Rd.;",
+  "art_title" : "Aurora",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Central Access Television Facility ",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.71621027780441",
+    "latitude" : "30.26929346101582",
+    "human_address" : "{\"address\":\"1143 Northwestern Ave.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Laurel Butler",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=95 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1990_001.jpg",
+  "art_location_street_address" : "1143 Northwestern Ave.;",
+  "art_title" : "Outdoor Studio",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Yarborough Branch",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74093264038987",
+    "latitude" : "30.323072918367984",
+    "human_address" : "{\"address\":\"2200 Hancock Dr.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78756\"}"
+  },
+  "art_location_zip" : "78756",
+  "artist_full_name" : "Marla Camp",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=133 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1998_005.jpg;http://assets.austintexas.gov/aipp/images/pic1998_005_2.jpg;http://assets.austintexas.gov/aipp/images/pic1998_005_3.jpg;",
+  "art_location_street_address" : "2200 Hancock Dr.;",
+  "art_title" : "Flights of Fancy",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Spicewood Springs Branch Library",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.77254380971976",
+    "latitude" : "30.43341073814281",
+    "human_address" : "{\"address\":\"8637 Spicewood Springs Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78759\"}"
+  },
+  "art_location_zip" : "78759",
+  "artist_full_name" : "Heather Carter",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=508 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2007_001_1.jpg;http://assets.austintexas.gov/aipp/images/pic2007_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic2007_001_3.jpg;",
+  "art_location_street_address" : "8637 Spicewood Springs Rd.;",
+  "art_title" : "Souls of the Trees",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Learning & Research Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.67493999978103",
+    "latitude" : "30.136680000082094",
+    "human_address" : "{\"address\":\"2800 Star of Texas Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Belinda Casey",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=180 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_012.jpg",
+  "art_location_street_address" : "2800  Star of Texas Rd.;",
+  "art_title" : "X",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Waller Creek Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73455644720212",
+    "latitude" : "30.269833054233402",
+    "human_address" : "{\"address\":\"625 East 10th Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "John Christensen",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=112 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1994_003.jpg",
+  "art_location_street_address" : "625 East 10th Street;",
+  "art_title" : "The Source",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Turner Roberts Recreation Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.63448888500193",
+    "latitude" : "30.302361532033217",
+    "human_address" : "{\"address\":\"7201 Colony Loop Drive;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78724\"}"
+  },
+  "art_location_zip" : "78724",
+  "artist_full_name" : "John Christensen",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=531 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/2008_005_01.jpg;http://assets.austintexas.gov/aipp/images/2008_005_02.jpg;http://assets.austintexas.gov/aipp/images/2008_005_03.jpg;",
+  "art_location_street_address" : "7201 Colony Loop Drive;",
+  "art_title" : "Turner-Roberts-Overton Memorial",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin-Bergstrom International Airport",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.66544354925043",
+    "latitude" : "30.202653698644724",
+    "human_address" : "{\"address\":\"3600 Presidential Blvd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "John Christensen",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=134 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1999_001_1.jpg;http://assets.austintexas.gov/aipp/images/pic1999_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic1999_001_3.jpg;",
+  "art_location_street_address" : "3600 Presidential Blvd.;",
+  "art_title" : "Leaf; Pod & Samara",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "East Side Hike and Bike Trail",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.71688999987344",
+    "latitude" : "30.265009999611948",
+    "human_address" : "{\"address\":\";\",\"city\":\"Austin\",\"state\":\"Texas\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Ryah Christensen",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=537 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic006_2009_1.jpg;http://assets.austintexas.gov/aipp/images/pic006_2009_2.jpg;http://assets.austintexas.gov/aipp/images/pic006_2009_3.jpg;",
+  "art_location_street_address" : ";",
+  "art_title" : "Door/Not Door",
+  "art_location_state" : "Texas"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "O. Henry Museum",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73916996921241",
+    "latitude" : "30.266019928829166",
+    "human_address" : "{\"address\":\"409 East Fifth St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "John PatrickCobb",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=105 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1993_004.jpg",
+  "art_location_street_address" : "409 East Fifth St.;",
+  "art_title" : "O. Henry at Cards",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Combined Emergency Communication & Transportation Management Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.69086738301871",
+    "latitude" : "30.298845182898617",
+    "human_address" : "{\"address\":\"5010 Old Manor Rd;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78723\"}"
+  },
+  "art_location_zip" : "78723",
+  "artist_full_name" : "Roger Colombik",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=218 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2003_016_1.jpg;http://assets.austintexas.gov/aipp/images/pic2003_016_2.jpg;http://assets.austintexas.gov/aipp/images/pic2003_016_3.jpg;",
+  "art_location_street_address" : "5010 Old Manor Rd;",
+  "art_title" : "The Island",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "2nd Street District  ",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74332000011776",
+    "latitude" : "30.269920000307934",
+    "human_address" : "{\"address\":\"2nd Street &amp; San Antonio;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Roger Colombik",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=529 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2010_002_1.jpg;http://assets.austintexas.gov/aipp/images/pic0000_002_2.jpg;http://assets.austintexas.gov/aipp/images/pic0000_002_3.jpg;",
+  "art_location_street_address" : "2nd Street & San Antonio;",
+  "art_title" : "La Fuente en Calle Segundo",
+  "art_location_state" : "TX "
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Holly Street Power Plant",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72072545231359",
+    "latitude" : "30.25158178209171",
+    "human_address" : "{\"address\":\"2400 Holly St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Oscar Cortez",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=104 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1992_006.jpg",
+  "art_location_street_address" : "2400 Holly St.;",
+  "art_title" : "For La Raza",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Learning & Research Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.67493999978103",
+    "latitude" : "30.136680000082094",
+    "human_address" : "{\"address\":\"2800 Star of Texas Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Margie Crisp",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=173 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_005.jpg",
+  "art_location_street_address" : "2800  Star of Texas Rd.;",
+  "art_title" : "Swallow Suite",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Auditorium Shores",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73717840179187",
+    "latitude" : "30.25604476813926",
+    "human_address" : "{\"address\":\";\",\"city\":\"Austin\",\"state\":\"Texas\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Bill Davenport",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=538 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic001_2009_1.jpg;http://assets.austintexas.gov/aipp/images/pic001_2009_2.jpg;http://assets.austintexas.gov/aipp/images/pic001_2009_3.jpg;",
+  "art_location_street_address" : ";",
+  "art_title" : "Giant Mushroom Forest",
+  "art_location_state" : "Texas"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Mexican American Cultural Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73958365734592",
+    "latitude" : "30.25799797632783",
+    "human_address" : "{\"address\":\"600 River Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Sasha Dela",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=543 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic007_2009_1.jpg;http://assets.austintexas.gov/aipp/images/pic007_2009_2.jpg;http://assets.austintexas.gov/aipp/images/pic007_2009_3.jpg;",
+  "art_location_street_address" : "600 River Street;",
+  "art_title" : "Variegated Continuum",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Carver Museum",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72441430407154",
+    "latitude" : "30.269754194880353",
+    "human_address" : "{\"address\":\"1163 Angelina St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Eddie Dixon",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=507 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2005_001_1.jpg",
+  "art_location_street_address" : "1163 Angelina St.;",
+  "art_title" : "Go Forth",
+  "art_location_state" : "TX "
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Holly Street Power Plant",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72072545231359",
+    "latitude" : "30.25158178209171",
+    "human_address" : "{\"address\":\"2400 Holly St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Fidencio Duran",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=102 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1992_001.jpg",
+  "art_location_street_address" : "2400 Holly St.;",
+  "art_title" : "La Quinceanera - 15th Birthday",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Parque Zaragoza Recreation Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.71211836257112",
+    "latitude" : "30.261388420378296",
+    "human_address" : "{\"address\":\"2608 Gonzales St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Fidencio Duran",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=119 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1996_002.jpg",
+  "art_location_street_address" : "2608 Gonzales St.;",
+  "art_title" : "Comite Patriota; Cinco de Mayo and Diez y Seis",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin-Bergstrom International Airport",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.66544354925043",
+    "latitude" : "30.202653698644724",
+    "human_address" : "{\"address\":\"3600 Presidential Blvd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Fidencio Duran",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=136 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1999_003_1.jpg;http://assets.austintexas.gov/aipp/images/pic1999_003_2.jpg;http://assets.austintexas.gov/aipp/images/pic1999_003_3.jpg;",
+  "art_location_street_address" : "3600 Presidential Blvd.;",
+  "art_title" : "The Visit",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Conley-Guerrero Senior Activity Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.71101219647505",
+    "latitude" : "30.266028922049486",
+    "human_address" : "{\"address\":\"808 Nile Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Garth Edwards",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=92 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1988_002.jpg",
+  "art_location_street_address" : "808 Nile Rd.;",
+  "art_title" : "Untitled",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin Nature & Science Center ",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.77514285038444",
+    "latitude" : "30.272315183034266",
+    "human_address" : "{\"address\":\"301 Nature Center Dr.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78746\"}"
+  },
+  "art_location_zip" : "78746",
+  "artist_full_name" : "Elena Eidelberg",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=128 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_016.jpg;http://assets.austintexas.gov/aipp/images/pic1997_016_2.gif;http://assets.austintexas.gov/aipp/images/pic1997_016_3.gif;",
+  "art_location_street_address" : "301 Nature Center Dr.;",
+  "art_title" : "Big Snake",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Southeast Austin Community Branch",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74223740897932",
+    "latitude" : "30.187860944732922",
+    "human_address" : "{\"address\":\"5803 Nuckols Crossing;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78744\"}"
+  },
+  "art_location_zip" : "78744",
+  "artist_full_name" : "Elementary School Children From Dove Springs Area",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1998_001.jpg;http://assets.austintexas.gov/aipp/images/pic1998_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic1998_001_3.jpg;",
+  "art_location_street_address" : "5803 Nuckols Crossing;",
+  "art_title" : "Untitled",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Dove Springs Recreation Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.739493725143",
+    "latitude" : "30.187670993636573",
+    "human_address" : "{\"address\":\"5801 Ainez Dr.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78744\"}"
+  },
+  "art_location_zip" : "78744",
+  "artist_full_name" : "Courtney Enriquez ",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=130 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1998_002.jpg",
+  "art_location_street_address" : "5801 Ainez Dr.;",
+  "art_title" : "A Dream",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin-Bergstrom International Airport",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.66544354925043",
+    "latitude" : "30.202653698644724",
+    "human_address" : "{\"address\":\"3600 Presidential Blvd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Thomas Evans",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=135 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1999_002_1.jpg;http://assets.austintexas.gov/aipp/images/pic1999_002_2.jpg;http://assets.austintexas.gov/aipp/images/pic1999_002_3.jpg;",
+  "art_location_street_address" : "3600 Presidential Blvd.;",
+  "art_title" : "Hill of the Medicine Man",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Hampton Branch at Oak Hill",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.8552544567545",
+    "latitude" : "30.219201223983816",
+    "human_address" : "{\"address\":\"5125 Convict Hill Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78749\"}"
+  },
+  "art_location_zip" : "78749",
+  "artist_full_name" : "David Everett",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=126 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_003.jpg",
+  "art_location_street_address" : "5125 Convict Hill Rd.;",
+  "art_title" : "Oak Hill Triptych",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Learning & Research Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.67493999978103",
+    "latitude" : "30.136680000082094",
+    "human_address" : "{\"address\":\"2800 Star of Texas Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Kelly Fearing",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=181 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_013.jpg",
+  "art_location_street_address" : "2800  Star of Texas Rd.;",
+  "art_title" : "Collector Revisited",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin-Bergstrom International Airport",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.66544354925043",
+    "latitude" : "30.202653698644724",
+    "human_address" : "{\"address\":\"3600 Presidential Blvd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Sandra Fiedorek",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=140 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1999_007_1.jpg;http://assets.austintexas.gov/aipp/images/pic1999_007_2.jpg;http://assets.austintexas.gov/aipp/images/pic1999_007_3.jpg;",
+  "art_location_street_address" : "3600 Presidential Blvd.;",
+  "art_title" : "to Parts Unknown",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Household Hazardous Waste Collection Facility",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.7362741522781",
+    "latitude" : "30.2134455629963",
+    "human_address" : "{\"address\":\"3810 Todd Lane;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Sandra Fiedorek",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=185 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pangloss_fiedorek.jpg;http://assets.austintexas.gov/aipp/images/pic1999_009_2.jpg;http://assets.austintexas.gov/aipp/images/pic1999_009_3.jpg;",
+  "art_location_street_address" : "3810 Todd Lane;",
+  "art_title" : "Doctor Pangloss",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Howson Branch",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.76735472161073",
+    "latitude" : "30.298125725275213",
+    "human_address" : "{\"address\":\"2500 Exposition Blvd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78703\"}"
+  },
+  "art_location_zip" : "78703",
+  "artist_full_name" : "Sandra Fiedorek",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=122 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1996_006.jpg",
+  "art_location_street_address" : "2500 Exposition Blvd.;",
+  "art_title" : "-56\"- (Fifty-Six Inches)",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Carver Branch",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72449303369427",
+    "latitude" : "30.269949966097215",
+    "human_address" : "{\"address\":\"1161 Angelina St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "John Fisher",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=183 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1986_001.jpg;http://assets.austintexas.gov/aipp/images/pic1986_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic1986_001_3.jpg;",
+  "art_location_street_address" : "1161 Angelina St.;",
+  "art_title" : "Sesquicentennial Mural",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Waller Creek Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73455644720212",
+    "latitude" : "30.269833054233402",
+    "human_address" : "{\"address\":\"625 East 10th Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Malou Flato",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=108 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1993_008.jpg",
+  "art_location_street_address" : "625 East 10th Street;",
+  "art_title" : "Untitled",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Deep Eddy EMS Station #17",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74297999972708",
+    "latitude" : "30.267600000339883",
+    "human_address" : "{\"address\":\"Veterans Drive;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Virginia Fleck",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=195 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/lamina_fleck.jpg;http://assets.austintexas.gov/aipp/images/pic2002_006_2.jpg;http://assets.austintexas.gov/aipp/images/pic2002_006_3.jpg;",
+  "art_location_street_address" : "Veterans Drive;",
+  "art_title" : "Lamina Groove",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Health and Human Services Administration",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.69302633905961",
+    "latitude" : "30.252912715050357",
+    "human_address" : "{\"address\":\"7201 Levander Loop;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Matthew Fuller",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=224 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/beachdogs_fuller.jpg",
+  "art_location_street_address" : "7201 Levander Loop;",
+  "art_title" : "Beach Dogs",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Texas Cancer Center at Brackenridge Hospital",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73329739636114",
+    "latitude" : "30.27515704064689",
+    "human_address" : "{\"address\":\"601 E 15th St.; 9th Floor\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Wanda Gamble",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=164 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1993_001.jpg",
+  "art_location_street_address" : "601 E 15th St.; 9th Floor",
+  "art_title" : "Hidden Canyon",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin Tennis Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.6382390578641",
+    "latitude" : "30.311597569274113",
+    "human_address" : "{\"address\":\"7800 Johnny Morris Road;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78724\"}"
+  },
+  "art_location_zip" : "78724",
+  "artist_full_name" : "Martha Gannon",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=533 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2008_009_1.jpg;http://assets.austintexas.gov/aipp/images/pic2008_009_2.jpg;http://assets.austintexas.gov/aipp/images/pic2008_009_3.jpg;",
+  "art_location_street_address" : "7800 Johnny Morris Road;",
+  "art_title" : "Deuce Gates",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Terrazas Branch Library",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73317439552804",
+    "latitude" : "30.260024534650952",
+    "human_address" : "{\"address\":\"1105 E. Cesar Chavez Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Laura Garanzuay",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=513 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2009_001_1.jpg;http://assets.austintexas.gov/aipp/images/pic2009_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic2009_001_3.jpg;",
+  "art_location_street_address" : "1105 E. Cesar Chavez Street;",
+  "art_title" : "Rayo de Esperanza - A Beacon of Hope: Sculpture; Community Kiosk; Benches",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "A.B. Cantu / Pan Am Recreation Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72073386761178",
+    "latitude" : "30.257854084803114",
+    "human_address" : "{\"address\":\"2100 E. 3rd St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Martin Garcia",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=222 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2004_003_1.jpg;http://assets.austintexas.gov/aipp/images/pic2004_003_2.jpg;http://assets.austintexas.gov/aipp/images/pic2004_003_3.jpg;",
+  "art_location_street_address" : "2100 E. 3rd St.;",
+  "art_title" : "Las Acciones del Pasado Aseguran el Exito Hacia el Futuro (The Actions of the Past Ensure Success for the Future)",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "North Austin Police Substation",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.69589651948735",
+    "latitude" : "30.41594458828731",
+    "human_address" : "{\"address\":\"12400 Lamplight Village Ave.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78727\"}"
+  },
+  "art_location_zip" : "78727",
+  "artist_full_name" : "Jake Gilson",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=114 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1994_011.jpg",
+  "art_location_street_address" : "12400 Lamplight Village Ave.;",
+  "art_title" : "Untitled",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "South Austin Police/Fire/EMS Station",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.79204111131497",
+    "latitude" : "30.174289081840584",
+    "human_address" : "{\"address\":\"400 Ralph Ablanedo Drive;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Linnea Glatt",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=193 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2002_002_1.jpg;http://assets.austintexas.gov/aipp/images/pic2002_002_2.jpg;http://assets.austintexas.gov/aipp/images/pic2002_002_3.jpg;",
+  "art_location_street_address" : "400 Ralph Ablanedo Drive;",
+  "art_title" : "Reflect",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Susanna Dickinson House",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74332000011776",
+    "latitude" : "30.269920000307934",
+    "human_address" : "{\"address\":\"Brush Square Park; 409 East Fifth Street\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Hawkeye Glenn",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=534 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic0000_003_1.jpg;http://assets.austintexas.gov/aipp/images/2010_003_2.jpg;http://assets.austintexas.gov/aipp/images/2010_003_3.jpg;",
+  "art_location_street_address" : "Brush Square Park; 409 East Fifth Street",
+  "art_title" : "formation; language; memory",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Montopolis Youth Sports Complex",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.69905121348535",
+    "latitude" : "30.231944617138993",
+    "human_address" : "{\"address\":\"1200 Montopolis Drive;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Ambray Gonzales",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=189 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/reach_gonzales.jpg;http://assets.austintexas.gov/aipp/images/pic2002_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic2002_001_3.jpg;",
+  "art_location_street_address" : "1200 Montopolis Drive;",
+  "art_title" : "Reach for your Dreams",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Zilker Park (Barton Springs Pool)",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.7650138477224",
+    "latitude" : "30.26471932275173",
+    "human_address" : "{\"address\":\"2201 Barton Springs Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78704\"}"
+  },
+  "art_location_zip" : "78704",
+  "artist_full_name" : "Glenna Goodacre",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=203 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1994_012_1.jpg;http://assets.austintexas.gov/aipp/images/pic1994_012_2.jpg;http://assets.austintexas.gov/aipp/images/pic1994_012_3.jpg;",
+  "art_location_street_address" : "2201 Barton Springs Rd.;",
+  "art_title" : "Philosophers Rock",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Learning & Research Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.67493999978103",
+    "latitude" : "30.136680000082094",
+    "human_address" : "{\"address\":\"2800 Star of Texas Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Nell Gould",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=174 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_006.jpg",
+  "art_location_street_address" : "2800  Star of Texas Rd.;",
+  "art_title" : "Q (not a quince)",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "East Side Hike and Bike Trail",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.71688999987344",
+    "latitude" : "30.265009999611948",
+    "human_address" : "{\"address\":\";\",\"city\":\"Austin\",\"state\":\"Texas\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Buster Graybill",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=539 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic002_2009_1.jpg;http://assets.austintexas.gov/aipp/images/pic002_2009_2.jpg;http://assets.austintexas.gov/aipp/images/pic002_2009_3.jpg;",
+  "art_location_street_address" : ";",
+  "art_title" : "Bait Box",
+  "art_location_state" : "Texas"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Sparky Park",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73244304043328",
+    "latitude" : "30.299249877811803",
+    "human_address" : "{\"address\":\"3701 Grooms Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78705\"}"
+  },
+  "art_location_zip" : "78705",
+  "artist_full_name" : "Berthold Haas",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=511 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2008_006_1.jpg;http://assets.austintexas.gov/aipp/images/pic2008_006_2.jpg;http://assets.austintexas.gov/aipp/images/pic2008_006_3.jpg;",
+  "art_location_street_address" : "3701 Grooms Street;",
+  "art_title" : "Grotto Wall at Sparky Park",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Town Lake Hike and Bike Trail",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.76507999994192",
+    "latitude" : "30.243309999856763",
+    "human_address" : "{\"address\":\"South Bank at South 1st &amp; Riverside Drive;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78704\"}"
+  },
+  "art_location_zip" : "78704",
+  "artist_full_name" : "Ralph Helmick",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=202 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/sr_vaughn_1.jpg;http://assets.austintexas.gov/aipp/images/pic1994_005_2.jpg;http://assets.austintexas.gov/aipp/images/pic1994_005_3.jpg;",
+  "art_location_street_address" : "South Bank at South 1st &  Riverside Drive;",
+  "art_title" : "Stevie Ray Vaughan Memorial",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Central Access Television Facility ",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.71621027780441",
+    "latitude" : "30.26929346101582",
+    "human_address" : "{\"address\":\"1143 Northwestern Ave.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "T. Paul Hernandez",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=96 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1990_002_1.jpg;http://assets.austintexas.gov/aipp/images/pic1990_002_2.jpg;http://assets.austintexas.gov/aipp/images/pic1990_002_3.jpg;",
+  "art_location_street_address" : "1143 Northwestern Ave.;",
+  "art_title" : "Snake Culvert",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Town Lake Hike and Bike Trail",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74332000011776",
+    "latitude" : "30.269920000307934",
+    "human_address" : "{\"address\":\"Possum Point - North Bank at Shoal Creek;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "T. Paul Hernandez",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1993_007.jpg",
+  "art_location_street_address" : "Possum Point - North Bank at Shoal Creek;",
+  "art_title" : "Opossum Temple and Voodoo Pew",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Hill Elementary School Park",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74903553187386",
+    "latitude" : "30.377320023175344",
+    "human_address" : "{\"address\":\"8601 Tallwood Dr.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78759\"}"
+  },
+  "art_location_zip" : "78759",
+  "artist_full_name" : "T. Paul Hernandez",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=94 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1988_005_1.jpg;http://assets.austintexas.gov/aipp/images/pic1988_005_2.jpg;http://assets.austintexas.gov/aipp/images/pic1988_005_3.jpg;",
+  "art_location_street_address" : "8601 Tallwood Dr.;",
+  "art_title" : "Sanctuary of the Tribal Alligator",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Zilker Botanical Garden",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.76896450804315",
+    "latitude" : "30.26623576611621",
+    "human_address" : "{\"address\":\"2220 Barton Springs Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78746\"}"
+  },
+  "art_location_zip" : "78746",
+  "artist_full_name" : "Louis Herrera",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=116 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1995_002_1.jpg;http://assets.austintexas.gov/aipp/images/pic1995_002_2.jpg;http://assets.austintexas.gov/aipp/images/pic1995_002_3.jpg;",
+  "art_location_street_address" : "2220 Barton Springs Rd.;",
+  "art_title" : "Zilker Gardens Main Entry Gate",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Holly Street Power Plant",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72072545231359",
+    "latitude" : "30.25158178209171",
+    "human_address" : "{\"address\":\"2400 Holly St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Robert Herrera",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=104 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1992_006.jpg",
+  "art_location_street_address" : "2400 Holly St.;",
+  "art_title" : "For La Raza",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Howson Branch",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.76735472161073",
+    "latitude" : "30.298125725275213",
+    "human_address" : "{\"address\":\"2500 Exposition Blvd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78703\"}"
+  },
+  "art_location_zip" : "78703",
+  "artist_full_name" : "David Heymann",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=122 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1996_006.jpg",
+  "art_location_street_address" : "2500 Exposition Blvd.;",
+  "art_title" : "-56\"- (Fifty-Six Inches)",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Household Hazardous Waste Collection Facility",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.7362741522781",
+    "latitude" : "30.2134455629963",
+    "human_address" : "{\"address\":\"3810 Todd Lane;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "David Heymann",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=185 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pangloss_fiedorek.jpg;http://assets.austintexas.gov/aipp/images/pic1999_009_2.jpg;http://assets.austintexas.gov/aipp/images/pic1999_009_3.jpg;",
+  "art_location_street_address" : "3810 Todd Lane;",
+  "art_title" : "Doctor Pangloss",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Mexican American Cultural Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73958365734592",
+    "latitude" : "30.25799797632783",
+    "human_address" : "{\"address\":\"600 River Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Benito Huerta",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=509 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2007_003_1.jpg;http://assets.austintexas.gov/aipp/images/pic2007_003_2.jpg;http://assets.austintexas.gov/aipp/images/pic2007_003_3.jpg;",
+  "art_location_street_address" : "600 River Street;",
+  "art_title" : "Snake Path",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Learning & Research Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.67493999978103",
+    "latitude" : "30.136680000082094",
+    "human_address" : "{\"address\":\"2800 Star of Texas Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Leticia Huerta",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=182 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_014.jpg",
+  "art_location_street_address" : "2800  Star of Texas Rd.;",
+  "art_title" : "Padre Nuestro",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Dove Springs Recreation Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.739493725143",
+    "latitude" : "30.187670993636573",
+    "human_address" : "{\"address\":\"5801 Ainez Dr.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78744\"}"
+  },
+  "art_location_zip" : "78744",
+  "artist_full_name" : "Barbara Jackson - Poe ",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=131 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1998_003.jpg;http://assets.austintexas.gov/aipp/images/pic1998_003_2.jpg;http://assets.austintexas.gov/aipp/images/pic1998_003_3.jpg;",
+  "art_location_street_address" : "5801 Ainez Dr.;",
+  "art_title" : "Unity: The Tree of Life",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin-Bergstrom International Airport",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.66544354925043",
+    "latitude" : "30.202653698644724",
+    "human_address" : "{\"address\":\"3600 Presidential Blvd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Jimmy Jalapeeno",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=184 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1991_001_1.jpg;http://assets.austintexas.gov/aipp/images/pic1991_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic1991_001_3.jpg;",
+  "art_location_street_address" : "3600 Presidential Blvd.;",
+  "art_title" : "Green Austin Series",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin City Hall & Public Plaza",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74207698152165",
+    "latitude" : "30.262762792232973",
+    "human_address" : "{\"address\":\"300 Cesar Chavez Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Jimmy Jalapeeno",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=169 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1994_008.jpg",
+  "art_location_street_address" : "300 Cesar Chavez Street;",
+  "art_title" : "Tree on Barton Creek",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin City Hall & Public Plaza",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74207698152165",
+    "latitude" : "30.262762792232973",
+    "human_address" : "{\"address\":\"300 Cesar Chavez Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "James Janknegt ",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=168 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1994_007.jpg",
+  "art_location_street_address" : "300 Cesar Chavez Street;",
+  "art_title" : "Our Neighborhood",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "City Municipal Building",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74312698614136",
+    "latitude" : "30.270228755926325",
+    "human_address" : "{\"address\":\"124 West Eighth St.; 3rd Floor;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Douglas Jaques",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=170 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1994_009.jpg",
+  "art_location_street_address" : "124 West Eighth St.; 3rd Floor;",
+  "art_title" : "Vision",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin-Bergstrom International Airport",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.66544354925043",
+    "latitude" : "30.202653698644724",
+    "human_address" : "{\"address\":\"3600 Presidential Blvd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Judy Jensen",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=139 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1999_006_1.jpg;http://assets.austintexas.gov/aipp/images/pic1999_006_2.jpg;http://assets.austintexas.gov/aipp/images/pic1999_006_3.jpg;",
+  "art_location_street_address" : "3600 Presidential Blvd.;",
+  "art_title" : "Voyages",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Wildlife Conservation Division at Reicher Ranch",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.95144847277496",
+    "latitude" : "30.31908674332275",
+    "human_address" : "{\"address\":\"3635 RR 620 South;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78738\"}"
+  },
+  "art_location_zip" : "78738",
+  "artist_full_name" : "Jules BuckJones",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=521 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2009_004_1.jpg;http://assets.austintexas.gov/aipp/images/pic2009_004_2.jpg;http://assets.austintexas.gov/aipp/images/pic2009_004_3.jpg;",
+  "art_location_street_address" : "3635 RR 620 South;",
+  "art_title" : "Golden-Cheeked Warbler",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Wildlife Conservation Division at Reicher Ranch",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.95144847277496",
+    "latitude" : "30.31908674332275",
+    "human_address" : "{\"address\":\"3635 RR 620 South;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78738\"}"
+  },
+  "art_location_zip" : "78738",
+  "artist_full_name" : "Jules BuckJones",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=522 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2009_005_1.jpg;http://assets.austintexas.gov/aipp/images/pic2009_005_2.jpg;http://assets.austintexas.gov/aipp/images/pic2009_005_3.jpg;",
+  "art_location_street_address" : "3635 RR 620 South;",
+  "art_title" : "Jolly-Ville Plateau Salamander",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin-Bergstrom International Airport",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.66544354925043",
+    "latitude" : "30.202653698644724",
+    "human_address" : "{\"address\":\"3600 Presidential Blvd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Young-Min Kang",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=535 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2009_006a_1.jpg;http://assets.austintexas.gov/aipp/images/pic2009_006a_2.jpg;http://assets.austintexas.gov/aipp/images/pic2009_006a_3.jpg;",
+  "art_location_street_address" : "3600 Presidential Blvd.;",
+  "art_title" : "Austin Downtown Cruiser (Day)",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin-Bergstrom International Airport",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.66544354925043",
+    "latitude" : "30.202653698644724",
+    "human_address" : "{\"address\":\"3600 Presidential Blvd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Young-Min Kang",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=536 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2009_006b_1.jpg;http://assets.austintexas.gov/aipp/images/pic2009_006b_2.jpg;http://assets.austintexas.gov/aipp/images/pic2009_006b_3.jpg;",
+  "art_location_street_address" : "3600 Presidential Blvd.;",
+  "art_title" : "Austin Downtown Cruiser (Night)",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Learning & Research Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.67493999978103",
+    "latitude" : "30.136680000082094",
+    "human_address" : "{\"address\":\"2800 Star of Texas Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Gabel Karsten",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=175 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_007.jpg",
+  "art_location_street_address" : "2800  Star of Texas Rd.;",
+  "art_title" : "One by One",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Health and Human Services Administration",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.69302633905961",
+    "latitude" : "30.252912715050357",
+    "human_address" : "{\"address\":\"7201 Levander Loop;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Misty Keasler",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=208 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/kids_keasler.jpg",
+  "art_location_street_address" : "7201 Levander Loop;",
+  "art_title" : "Kids in the Mirror; Orphanage at Svir Stroi. Svir Stroi; Russia",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Far Southeast EMS Station",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74255142004262",
+    "latitude" : "30.187410190248045",
+    "human_address" : "{\"address\":\"5811 Nuckols Crossing Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78744\"}"
+  },
+  "art_location_zip" : "78744",
+  "artist_full_name" : "Philippe Klinefelter",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=220 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/medicinal_klinefelter.jpg;http://assets.austintexas.gov/aipp/images/pic2004_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic2004_001_3.jpg;",
+  "art_location_street_address" : "5811 Nuckols Crossing Rd.;",
+  "art_title" : "Medicinal Plant Wall",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Daniel E. Ruiz Branch Library",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.70639867446477",
+    "latitude" : "30.23026288494424",
+    "human_address" : "{\"address\":\"1600 Grove Blvd;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78704\"}"
+  },
+  "art_location_zip" : "78704",
+  "artist_full_name" : "Will Larson",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=217 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2003_015_1.jpg;http://assets.austintexas.gov/aipp/images/pic2003_015_2.jpg;http://assets.austintexas.gov/aipp/images/pic2003_015_3.jpg;",
+  "art_location_street_address" : "1600 Grove Blvd;",
+  "art_title" : "Discovery",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Lorraine \"Grandma\" Camacho Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72356673200409",
+    "latitude" : "30.249751193319128",
+    "human_address" : "{\"address\":\"34 Robert T. Martinez Jr. St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Will Larson",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=186 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/mira_larson.jpg;http://assets.austintexas.gov/aipp/images/pic2000_004_2.jpg;http://assets.austintexas.gov/aipp/images/pic2000_004_3.jpg;",
+  "art_location_street_address" : "34 Robert T. Martinez Jr. St.;",
+  "art_title" : "! Mira !",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Central/East Austin Police/Forensics Lab",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.69989657619288",
+    "latitude" : "30.25887931191653",
+    "human_address" : "{\"address\":\"812 Springdale Road;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Andrea Legge",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2004_002_1.jpg;http://assets.austintexas.gov/aipp/images/pic2004_002_2.jpg;http://assets.austintexas.gov/aipp/images/pic2004_002_3.jpg;",
+  "art_location_street_address" : "812 Springdale Road;",
+  "art_title" : "Elevated Prairie",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Central/East Austin Police/Forensics Lab",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.69989657619288",
+    "latitude" : "30.25887931191653",
+    "human_address" : "{\"address\":\"812 Springdale Road;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "R. Murray Legge",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2004_002_1.jpg;http://assets.austintexas.gov/aipp/images/pic2004_002_2.jpg;http://assets.austintexas.gov/aipp/images/pic2004_002_3.jpg;",
+  "art_location_street_address" : "812 Springdale Road;",
+  "art_title" : "Elevated Prairie",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Learning & Research Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.67493999978103",
+    "latitude" : "30.136680000082094",
+    "human_address" : "{\"address\":\"2800 Star of Texas Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Robert Levers",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=176 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_008.jpg",
+  "art_location_street_address" : "2800  Star of Texas Rd.;",
+  "art_title" : "Four Terrorists Trapped in a Bullring",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Central/East Austin Police/Forensics Lab",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.69989657619288",
+    "latitude" : "30.25887931191653",
+    "human_address" : "{\"address\":\"812 Springdale Road;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Deborah EveLewis",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2004_002_1.jpg;http://assets.austintexas.gov/aipp/images/pic2004_002_2.jpg;http://assets.austintexas.gov/aipp/images/pic2004_002_3.jpg;",
+  "art_location_street_address" : "812 Springdale Road;",
+  "art_title" : "Elevated Prairie",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Butler Park",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73717840179187",
+    "latitude" : "30.25604476813926",
+    "human_address" : "{\"address\":\";\",\"city\":\"Austin\",\"state\":\"Texas\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Ken Little",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=542 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic005_2009_1.jpg;http://assets.austintexas.gov/aipp/images/pic005_2009_2.jpg;http://assets.austintexas.gov/aipp/images/pic005_2009_3.jpg;",
+  "art_location_street_address" : ";",
+  "art_title" : "Homeland Security",
+  "art_location_state" : "Texas"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin Convention Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74923338272032",
+    "latitude" : "30.26473389832728",
+    "human_address" : "{\"address\":\"500 East Cesar Chavez St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Ben M.Livingston",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=120 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1996_004_1.jpg;http://assets.austintexas.gov/aipp/images/pic1996_004_2.jpg;http://assets.austintexas.gov/aipp/images/pic1996_004_3.jpg;",
+  "art_location_street_address" : "500 East Cesar Chavez St.;",
+  "art_title" : "Confabulating Orbits",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Health and Human Services Campus",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.69302633905961",
+    "latitude" : "30.252912715050357",
+    "human_address" : "{\"address\":\"7201 Levander Loop;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Jimmy Luu",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=517 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2008_001_1.jpg;http://assets.austintexas.gov/aipp/images/pic2008_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic2008_001_3.jpg;",
+  "art_location_street_address" : "7201 Levander Loop;",
+  "art_title" : "Letterscape",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "EMS Station # 14",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.68935170918957",
+    "latitude" : "30.32465702044624",
+    "human_address" : "{\"address\":\"7200 Berkman Drive;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Peter Mangan",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=190 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/sky_gates.jpg;http://assets.austintexas.gov/aipp/images/pic2000_005_2.jpg;http://assets.austintexas.gov/aipp/images/pic2000_005_3.jpg;",
+  "art_location_street_address" : "7200 Berkman Drive;",
+  "art_title" : "Sky Gates",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Sand Beach Park",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73717840179187",
+    "latitude" : "30.25604476813926",
+    "human_address" : "{\"address\":\";\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Rosario  Marquardt",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=526 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic0000_001_1.jpg;http://assets.austintexas.gov/aipp/images/pic0000_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic0000_001_3.jpg;",
+  "art_location_street_address" : ";",
+  "art_title" : "Open Room Austin",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Southeast Austin Community Branch",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74223740897932",
+    "latitude" : "30.187860944732922",
+    "human_address" : "{\"address\":\"5803 Nuckols Crossing;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78744\"}"
+  },
+  "art_location_zip" : "78744",
+  "artist_full_name" : "Phil Martin",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1998_001.jpg;http://assets.austintexas.gov/aipp/images/pic1998_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic1998_001_3.jpg;",
+  "art_location_street_address" : "5803 Nuckols Crossing;",
+  "art_title" : "Untitled",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Holly Street Power Plant",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72072545231359",
+    "latitude" : "30.25158178209171",
+    "human_address" : "{\"address\":\"2400 Holly St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Alfredo Martinez",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=99 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1991_003.jpg",
+  "art_location_street_address" : "2400 Holly St.;",
+  "art_title" : "The Children are the Future",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Holly Street Power Plant",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72072545231359",
+    "latitude" : "30.25158178209171",
+    "human_address" : "{\"address\":\"2400 Holly St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Armando Martinez",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=100 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1991_004.jpg",
+  "art_location_street_address" : "2400 Holly St.;",
+  "art_title" : "Signs of the Times",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Holly Street Power Plant",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72072545231359",
+    "latitude" : "30.25158178209171",
+    "human_address" : "{\"address\":\"2400 Holly St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Armando Martinez",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=101 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1991_008_1.jpg;http://assets.austintexas.gov/aipp/images/pic1991_008_2.jpg;http://assets.austintexas.gov/aipp/images/pic1991_008_3.jpg;",
+  "art_location_street_address" : "2400 Holly St.;",
+  "art_title" : "Me Barrio",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Susanna Dickinson House",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74332000011776",
+    "latitude" : "30.269920000307934",
+    "human_address" : "{\"address\":\"Brush Square Park; 409 East Fifth Street\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Lizzie Martinez",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=534 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic0000_003_1.jpg;http://assets.austintexas.gov/aipp/images/2010_003_2.jpg;http://assets.austintexas.gov/aipp/images/2010_003_3.jpg;",
+  "art_location_street_address" : "Brush Square Park; 409 East Fifth Street",
+  "art_title" : "formation; language; memory",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Carver Branch",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72449303369427",
+    "latitude" : "30.269949966097215",
+    "human_address" : "{\"address\":\"1161 Angelina St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Freddie McCoo",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=300 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/ariver_mccoo.jpg;http://assets.austintexas.gov/aipp/images/pic2004_006_2.jpg;http://assets.austintexas.gov/aipp/images/pic2004_006_3.jpg;",
+  "art_location_street_address" : "1161 Angelina St.;",
+  "art_title" : "A River Runs Thru Us",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Butler Park",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73717840179187",
+    "latitude" : "30.25604476813926",
+    "human_address" : "{\"address\":\";\",\"city\":\"Austin\",\"state\":\"Texas\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Colin McIntyre",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=540 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic003_2009_1.jpg;http://assets.austintexas.gov/aipp/images/pic003_2009_2.jpg;http://assets.austintexas.gov/aipp/images/pic003_2009_3.jpg;",
+  "art_location_street_address" : ";",
+  "art_title" : "Emergence",
+  "art_location_state" : "Texas"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin Nature & Science Center ",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.77514285038444",
+    "latitude" : "30.272315183034266",
+    "human_address" : "{\"address\":\"301 Nature Center Dr.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78746\"}"
+  },
+  "art_location_zip" : "78746",
+  "artist_full_name" : "Colin McIntyre",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=545 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/arborealarch_5.jpg;http://assets.austintexas.gov/aipp/images/arborealarch_4.jpg;http://assets.austintexas.gov/aipp/images/arborealarch_6.jpg;",
+  "art_location_street_address" : "301 Nature Center Dr.;",
+  "art_title" : "Arboreal Passage",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Cesar Chavez Streetscape",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74332000011776",
+    "latitude" : "30.269920000307934",
+    "human_address" : "{\"address\":\"Cesar Chavez; East and West of S. First Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Deborah Mersky",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=532 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2008_008_1.jpg;http://assets.austintexas.gov/aipp/images/pic2008_008_2.jpg;http://assets.austintexas.gov/aipp/images/pic2008_008_3.jpg;",
+  "art_location_street_address" : "Cesar Chavez; East and West of S. First Street;",
+  "art_title" : "High Water Mark",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Holly Street Power Plant",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72072545231359",
+    "latitude" : "30.25158178209171",
+    "human_address" : "{\"address\":\"2400 Holly St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Metz Recreation Center Students",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=101 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1991_008_1.jpg;http://assets.austintexas.gov/aipp/images/pic1991_008_2.jpg;http://assets.austintexas.gov/aipp/images/pic1991_008_3.jpg;",
+  "art_location_street_address" : "2400 Holly St.;",
+  "art_title" : "Me Barrio",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin City Hall & Public Plaza",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74207698152165",
+    "latitude" : "30.262762792232973",
+    "human_address" : "{\"address\":\"300 Cesar Chavez Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Nobuho Nagasawa",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=500 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2004_005_1.jpg;http://assets.austintexas.gov/aipp/images/pic2004_005_2.jpg;http://assets.austintexas.gov/aipp/images/pic2004_005_3.jpg;",
+  "art_location_street_address" : "300 Cesar Chavez Street;",
+  "art_title" : "Seeding Time",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Millennium Youth Entertainment Complex",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.70953730834702",
+    "latitude" : "30.272549006761892",
+    "human_address" : "{\"address\":\"1156 Hargrave St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "David Newton",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=143 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2000_003_1.jpg;http://assets.austintexas.gov/aipp/images/pic2000_003_2.jpg;http://assets.austintexas.gov/aipp/images/pic2000_003_3.jpg;",
+  "art_location_street_address" : "1156 Hargrave St.;",
+  "art_title" : "Spirit of Hope",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Milwood Branch",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.71459149815166",
+    "latitude" : "30.423104507687015",
+    "human_address" : "{\"address\":\"12500 Amherst Dr.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78727\"}"
+  },
+  "art_location_zip" : "78727",
+  "artist_full_name" : "Lori Norwood",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=127 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_015_1.jpg;http://assets.austintexas.gov/aipp/images/pic1997_015_2.jpg;http://assets.austintexas.gov/aipp/images/pic1997_015_3.jpg;",
+  "art_location_street_address" : "12500 Amherst Dr.;",
+  "art_title" : "Learning to Fly",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Congress and 6th Street",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74297999972708",
+    "latitude" : "30.267600000339883",
+    "human_address" : "{\"address\":\"West side between 6th and 7th Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Pat Oliphant",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=301 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/angelina_oliphant.jpg;http://assets.austintexas.gov/aipp/images/pic2004_004_2.jpg;http://assets.austintexas.gov/aipp/images/pic2004_004_3.jpg;",
+  "art_location_street_address" : "West side between 6th and 7th Street;",
+  "art_title" : "Angelina Eberly",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Health and Human Services Administration",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.69302633905961",
+    "latitude" : "30.252912715050357",
+    "human_address" : "{\"address\":\"7201 Levander Loop;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Andrew Ortiz",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=209 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2003_005_1.jpg",
+  "art_location_street_address" : "7201 Levander Loop;",
+  "art_title" : "Worker",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Fiesta Gardens Courtyard",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72488873538714",
+    "latitude" : "30.249859111962678",
+    "human_address" : "{\"address\":\"2101 Jesse E. Segovia Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Jill Pangallo",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=541 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic004_2009_1.jpg;http://assets.austintexas.gov/aipp/images/pic004_2009_2.jpg;http://assets.austintexas.gov/aipp/images/pic004_2009_3.jpg;",
+  "art_location_street_address" : "2101 Jesse E. Segovia Street;",
+  "art_title" : "Let Me Entertain You",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Conley-Guerrero Senior Activity Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.71101219647505",
+    "latitude" : "30.266028922049486",
+    "human_address" : "{\"address\":\"808 Nile Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Jorge Pardo",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=93 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1988_003_1.jpg;http://assets.austintexas.gov/aipp/images/pic1988_003_2.jpg;http://assets.austintexas.gov/aipp/images/pic1988_003.jpg;",
+  "art_location_street_address" : "808 Nile Rd.;",
+  "art_title" : "The Courtyard",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "St. John's Multipurpose Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74297999972708",
+    "latitude" : "30.267600000339883",
+    "human_address" : "{\"address\":\"Corner of Blessing and Wheatly Ave.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Beverly Penn",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=192 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2003_001_1b.jpg;http://assets.austintexas.gov/aipp/images/pic2003_001_2b.jpg;http://assets.austintexas.gov/aipp/images/pic2003_001_3b.jpg;",
+  "art_location_street_address" : "Corner of Blessing and Wheatly Ave.;",
+  "art_title" : "Community Core Sample Project",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "St. John's Multipurpose Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74297999972708",
+    "latitude" : "30.267600000339883",
+    "human_address" : "{\"address\":\"Corner of Blessing and Wheatly Ave.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Beverly Penn",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=198 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2003_001_1.jpg;http://assets.austintexas.gov/aipp/images/pic2003_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic2003_001_3.jpg;",
+  "art_location_street_address" : "Corner of Blessing and Wheatly Ave.;",
+  "art_title" : "Threshold Project",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Holly Street Power Plant",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72072545231359",
+    "latitude" : "30.25158178209171",
+    "human_address" : "{\"address\":\"2400 Holly St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Joe Perez",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=103 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1992_004_1.jpg;http://assets.austintexas.gov/aipp/images/pic1992_004_2.jpg;http://assets.austintexas.gov/aipp/images/pic1992_004_3.jpg;",
+  "art_location_street_address" : "2400 Holly St.;",
+  "art_title" : "Big Arch",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Town Lake Hike and Bike Trail",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.76507999994192",
+    "latitude" : "30.243309999856763",
+    "human_address" : "{\"address\":\"South Bank at Barton Creek;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78704\"}"
+  },
+  "art_location_zip" : "78704",
+  "artist_full_name" : "Joe Perez",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=106 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1993_006.jpg",
+  "art_location_street_address" : "South Bank at Barton Creek;",
+  "art_title" : "Lou Neff Point Gazebo",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Town Lake Hike and Bike Trail",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74332000011776",
+    "latitude" : "30.269920000307934",
+    "human_address" : "{\"address\":\"Possum Point - North Bank at Shoal Creek;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Robert Phillips",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1993_007.jpg",
+  "art_location_street_address" : "Possum Point - North Bank at Shoal Creek;",
+  "art_title" : "Opossum Temple and Voodoo Pew",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Holly Street Power Plant",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72072545231359",
+    "latitude" : "30.25158178209171",
+    "human_address" : "{\"address\":\"2400 Holly St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Arlene Polite",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=200 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/untitled_polite.jpg",
+  "art_location_street_address" : "2400 Holly St.;",
+  "art_title" : "Untitled",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Holly Street Power Plant",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72072545231359",
+    "latitude" : "30.25158178209171",
+    "human_address" : "{\"address\":\"2400 Holly St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Arlene Polite",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=200 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/untitled_polite.jpg",
+  "art_location_street_address" : "2400 Holly St.;",
+  "art_title" : "Untitled",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Learning & Research Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.67493999978103",
+    "latitude" : "30.136680000082094",
+    "human_address" : "{\"address\":\"2800 Star of Texas Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Arlene Polite",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=178 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_010.jpg",
+  "art_location_street_address" : "2800  Star of Texas Rd.;",
+  "art_title" : "Play",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Learning & Research Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.67493999978103",
+    "latitude" : "30.136680000082094",
+    "human_address" : "{\"address\":\"2800 Star of Texas Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Arlene Polite",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=177 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_009.jpg",
+  "art_location_street_address" : "2800  Star of Texas Rd.;",
+  "art_title" : "Printing",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin Convention Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74923338272032",
+    "latitude" : "30.26473389832728",
+    "human_address" : "{\"address\":\"500 East Cesar Chavez St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Damian Priour",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=118 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1996_001_1.jpg;http://assets.austintexas.gov/aipp/images/pic1996_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic1996_001_3.jpg;",
+  "art_location_street_address" : "500 East Cesar Chavez St.;",
+  "art_title" : "The Waller Creek Shelves",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "EMS Station #4",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.68429333898456",
+    "latitude" : "30.27848453215529",
+    "human_address" : "{\"address\":\"1201 Webberville Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78721\"}"
+  },
+  "art_location_zip" : "78721",
+  "artist_full_name" : "Pio Pulido",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=123 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1996_007.jpg;http://assets.austintexas.gov/aipp/images/pic1996_007_2.jpg;http://assets.austintexas.gov/aipp/images/pic1996_007_3.jpg;",
+  "art_location_street_address" : "1201 Webberville Rd.;",
+  "art_title" : "Dove and the Leaves of Healing",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Southeast Austin Community Branch",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74223740897932",
+    "latitude" : "30.187860944732922",
+    "human_address" : "{\"address\":\"5803 Nuckols Crossing;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78744\"}"
+  },
+  "art_location_zip" : "78744",
+  "artist_full_name" : "Claudia Reese",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1998_001.jpg;http://assets.austintexas.gov/aipp/images/pic1998_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic1998_001_3.jpg;",
+  "art_location_street_address" : "5803 Nuckols Crossing;",
+  "art_title" : "Untitled",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Holly Street Power Plant",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72072545231359",
+    "latitude" : "30.25158178209171",
+    "human_address" : "{\"address\":\"2400 Holly St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Steven Rendon",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=100 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1991_004.jpg",
+  "art_location_street_address" : "2400 Holly St.;",
+  "art_title" : "Signs of the Times",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Texas Cancer Center at Brackenridge Hospital",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73329739636114",
+    "latitude" : "30.27515704064689",
+    "human_address" : "{\"address\":\"601 E 15th St.; 9th Floor\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Priscilla Robinson",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=166 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1993_003.jpg",
+  "art_location_street_address" : "601 E 15th St.; 9th Floor",
+  "art_title" : "Italianos 1; Italianos 2; Italianos 3; Indian Land1; On the Way & Pueblo Trees",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Holly Street Power Plant",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.72072545231359",
+    "latitude" : "30.25158178209171",
+    "human_address" : "{\"address\":\"2400 Holly St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "David Santos",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=103 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1992_004_1.jpg;http://assets.austintexas.gov/aipp/images/pic1992_004_2.jpg;http://assets.austintexas.gov/aipp/images/pic1992_004_3.jpg;",
+  "art_location_street_address" : "2400 Holly St.;",
+  "art_title" : "Big Arch",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Town Lake Hike and Bike Trail",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.76507999994192",
+    "latitude" : "30.243309999856763",
+    "human_address" : "{\"address\":\"South Bank at Barton Creek;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78704\"}"
+  },
+  "art_location_zip" : "78704",
+  "artist_full_name" : "David Santos",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=106 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1993_006.jpg",
+  "art_location_street_address" : "South Bank at Barton Creek;",
+  "art_title" : "Lou Neff Point Gazebo",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin Convention Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74923338272032",
+    "latitude" : "30.26473389832728",
+    "human_address" : "{\"address\":\"500 East Cesar Chavez St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Margo Sawyer",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=194 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2002_004_1.jpg;http://assets.austintexas.gov/aipp/images/pic2002_004_2.jpg;http://assets.austintexas.gov/aipp/images/pic2002_004_3.jpg;",
+  "art_location_street_address" : "500 East Cesar Chavez St.;",
+  "art_title" : "Index for Contemplation",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin City Hall & Public Plaza",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74207698152165",
+    "latitude" : "30.262762792232973",
+    "human_address" : "{\"address\":\"300 Cesar Chavez Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Jack L.Schuller",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=167 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1994_006.jpg",
+  "art_location_street_address" : "300 Cesar Chavez Street;",
+  "art_title" : "Crumley's Market",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Learning & Research Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.67493999978103",
+    "latitude" : "30.136680000082094",
+    "human_address" : "{\"address\":\"2800 Star of Texas Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "David Serrano",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=179 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_011.jpg",
+  "art_location_street_address" : "2800  Star of Texas Rd.;",
+  "art_title" : "La Pinata",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Health and Human Services Administration",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.69302633905961",
+    "latitude" : "30.252912715050357",
+    "human_address" : "{\"address\":\"7201 Levander Loop;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Victoria Smith",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=205 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2003_002_1.jpg",
+  "art_location_street_address" : "7201 Levander Loop;",
+  "art_title" : "Lady Bird Johnson Wildflower Spring #1",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Circle C Fire/EMS Station",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.87639848873056",
+    "latitude" : "30.213201169987954",
+    "human_address" : "{\"address\":\"11401 Escarpment Blvd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78749\"}"
+  },
+  "art_location_zip" : "78749",
+  "artist_full_name" : "W. Gary Smith",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=502 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2004_007_1.jpg",
+  "art_location_street_address" : "11401 Escarpment Blvd.;",
+  "art_title" : "Karst Circle",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Health and Human Services Administration",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.69302633905961",
+    "latitude" : "30.252912715050357",
+    "human_address" : "{\"address\":\"7201 Levander Loop;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Terese M.St. Arnauld",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=216 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/cyclist_starnauld.jpg",
+  "art_location_street_address" : "7201 Levander Loop;",
+  "art_title" : "The Cyclist",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Town Lake Hike and Bike Trail",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74332000011776",
+    "latitude" : "30.269920000307934",
+    "human_address" : "{\"address\":\"Possum Point - North Bank at Shoal Creek;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Lars A.Stanley",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1993_007.jpg",
+  "art_location_street_address" : "Possum Point - North Bank at Shoal Creek;",
+  "art_title" : "Opossum Temple and Voodoo Pew",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Gus Garcia Recreation Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.68204705614235",
+    "latitude" : "30.3545893809695",
+    "human_address" : "{\"address\":\"1106 E. Rundberg Ln.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78753\"}"
+  },
+  "art_location_zip" : "78753",
+  "artist_full_name" : "Lars A.Stanley",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=518 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2008_002_1.jpg;http://assets.austintexas.gov/aipp/images/pic2008_002_2.jpg;http://assets.austintexas.gov/aipp/images/pic2008_002_3.jpg;",
+  "art_location_street_address" : "1106 E. Rundberg Ln.;",
+  "art_title" : "Tribute to Gus Garcia",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Firestation #17 ",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.77045994311088",
+    "latitude" : "30.22482048732353",
+    "human_address" : "{\"address\":\"4123 South First St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78745\"}"
+  },
+  "art_location_zip" : "78745",
+  "artist_full_name" : "Lars A.Stanley",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=97 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1990_003_1.jpg;http://assets.austintexas.gov/aipp/images/pic1990_003_2.jpg;http://assets.austintexas.gov/aipp/images/pic1990_003_3.jpg;",
+  "art_location_street_address" : "4123 South First St.;",
+  "art_title" : "Fire in the Heart",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Zilker Botanical Garden",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.76896450804315",
+    "latitude" : "30.26623576611621",
+    "human_address" : "{\"address\":\"2220 Barton Springs Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78746\"}"
+  },
+  "art_location_zip" : "78746",
+  "artist_full_name" : "Lars A.Stanley",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=116 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1995_002_1.jpg;http://assets.austintexas.gov/aipp/images/pic1995_002_2.jpg;http://assets.austintexas.gov/aipp/images/pic1995_002_3.jpg;",
+  "art_location_street_address" : "2220 Barton Springs Rd.;",
+  "art_title" : "Zilker Gardens Main Entry Gate",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Central Access Television Facility ",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.71621027780441",
+    "latitude" : "30.26929346101582",
+    "human_address" : "{\"address\":\"1143 Northwestern Ave.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Rita Starpattern",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=95 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1990_001.jpg",
+  "art_location_street_address" : "1143 Northwestern Ave.;",
+  "art_title" : "Outdoor Studio",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin-Bergstrom International Airport",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.66544354925043",
+    "latitude" : "30.202653698644724",
+    "human_address" : "{\"address\":\"3600 Presidential Blvd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "James Talbot",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=505 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2006_001_1.jpg;http://assets.austintexas.gov/aipp/images/pic2006_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic2006_001_3.jpg;",
+  "art_location_street_address" : "3600 Presidential Blvd.;",
+  "art_title" : "Transition",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Lamar Bridge Railroad Underpass",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.75797479284512",
+    "latitude" : "30.262683444100503",
+    "human_address" : "{\"address\":\"300 N. Lamar Blvd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78704\"}"
+  },
+  "art_location_zip" : "78704",
+  "artist_full_name" : "Carl Trominski",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=219 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/moments_trominski.jpg",
+  "art_location_street_address" : "300 N. Lamar Blvd.;",
+  "art_title" : "Moments",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Texas Cancer Center at Brackenridge Hospital",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73329739636114",
+    "latitude" : "30.27515704064689",
+    "human_address" : "{\"address\":\"601 E 15th St.; 9th Floor\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Phillip Wade",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=165 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1993_002.jpg",
+  "art_location_street_address" : "601 E 15th St.; 9th Floor",
+  "art_title" : "Schnauzer at the Door",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Congress-Barton Springs Traffic Island",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74633756578595",
+    "latitude" : "30.258690454290388",
+    "human_address" : "{\"address\":\"300 South Congress Avenue;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78704\"}"
+  },
+  "art_location_zip" : "78704",
+  "artist_full_name" : "Dale Whistler",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=204 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/nightwings_whistler.jpg",
+  "art_location_street_address" : "300 South Congress Avenue;",
+  "art_title" : "Night Wings",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Town Lake Animal Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.75831653521624",
+    "latitude" : "30.267953471192186",
+    "human_address" : "{\"address\":\"1156 W. Cesar Chavez St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78703\"}"
+  },
+  "art_location_zip" : "78703",
+  "artist_full_name" : "Dale Whistler",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=138 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/playmates_whistler.jpg;http://assets.austintexas.gov/aipp/images/pic1999_005_2.jpg;http://assets.austintexas.gov/aipp/images/pic1999_005_3.jpg;",
+  "art_location_street_address" : "1156 W. Cesar Chavez St.;",
+  "art_title" : "Playmates",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Dick Nichols Pool & Bathhouse",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.863312382137",
+    "latitude" : "30.21486649180258",
+    "human_address" : "{\"address\":\"8011 Beckett Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78749\"}"
+  },
+  "art_location_zip" : "78749",
+  "artist_full_name" : "Dale Whistler",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=124 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1997_001.jpg",
+  "art_location_street_address" : "8011 Beckett Rd.;",
+  "art_title" : "Untitled",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Dick Nichols Park",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.863312382137",
+    "latitude" : "30.21486649180258",
+    "human_address" : "{\"address\":\"8011 Beckett Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78749\"}"
+  },
+  "art_location_zip" : "78749",
+  "artist_full_name" : "Dale Whistler",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=111 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1994_002.jpg",
+  "art_location_street_address" : "8011 Beckett Rd.;",
+  "art_title" : "Untitled",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Roy Kizer Golf Course",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.73253297263619",
+    "latitude" : "30.188192600413572",
+    "human_address" : "{\"address\":\"5400 Jimmy Clay Dr.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78744\"}"
+  },
+  "art_location_zip" : "78744",
+  "artist_full_name" : "Pat Wilie",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=141 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/green_wilie.jpg",
+  "art_location_street_address" : "5400 Jimmy Clay Dr.;",
+  "art_title" : "On the Green",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "South Austin Senior Activity Center ",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.78565592490696",
+    "latitude" : "30.23392312560344",
+    "human_address" : "{\"address\":\"3911 Manchaca Rd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78704\"}"
+  },
+  "art_location_zip" : "78704",
+  "artist_full_name" : "Steve Wiman",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=117 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1995_003.jpg",
+  "art_location_street_address" : "3911 Manchaca Rd.;",
+  "art_title" : "Community Quilt",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "St. John's Multipurpose Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74297999972708",
+    "latitude" : "30.267600000339883",
+    "human_address" : "{\"address\":\"Corner of Blessing and Wheatly Ave.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Steve Wiman",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=192 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2003_001_1b.jpg;http://assets.austintexas.gov/aipp/images/pic2003_001_2b.jpg;http://assets.austintexas.gov/aipp/images/pic2003_001_3b.jpg;",
+  "art_location_street_address" : "Corner of Blessing and Wheatly Ave.;",
+  "art_title" : "Community Core Sample Project",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "St. John's Multipurpose Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74297999972708",
+    "latitude" : "30.267600000339883",
+    "human_address" : "{\"address\":\"Corner of Blessing and Wheatly Ave.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "Steve Wiman",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=198 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2003_001_1.jpg;http://assets.austintexas.gov/aipp/images/pic2003_001_2.jpg;http://assets.austintexas.gov/aipp/images/pic2003_001_3.jpg;",
+  "art_location_street_address" : "Corner of Blessing and Wheatly Ave.;",
+  "art_title" : "Threshold Project",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin-Bergstrom International Airport",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.66544354925043",
+    "latitude" : "30.202653698644724",
+    "human_address" : "{\"address\":\"3600 Presidential Blvd.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78719\"}"
+  },
+  "art_location_zip" : "78719",
+  "artist_full_name" : "Bruce Wolfe",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=503 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2002_008_1.jpg;http://assets.austintexas.gov/aipp/images/pic2002_008_2.jpg;http://assets.austintexas.gov/aipp/images/pic2002_008_3.jpg;",
+  "art_location_street_address" : "3600 Presidential Blvd.;",
+  "art_title" : "Barbara Jordan Memorial",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Health and Human Services Administration",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.69302633905961",
+    "latitude" : "30.252912715050357",
+    "human_address" : "{\"address\":\"7201 Levander Loop;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78702\"}"
+  },
+  "art_location_zip" : "78702",
+  "artist_full_name" : "Shelley Wood",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=215 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2003_011_1.jpg",
+  "art_location_street_address" : "7201 Levander Loop;",
+  "art_title" : "Shoestring",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Austin Convention Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74923338272032",
+    "latitude" : "30.26473389832728",
+    "human_address" : "{\"address\":\"500 East Cesar Chavez St.;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "John Yancey",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=121 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1996_005_1.jpg;http://assets.austintexas.gov/aipp/images/pic1996_005_2.jpg;http://assets.austintexas.gov/aipp/images/pic1996_005_3.jpg;",
+  "art_location_street_address" : "500 East Cesar Chavez St.;",
+  "art_title" : "Riffs and Rhythms",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Town Lake Hike and Bike Trail",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74332000011776",
+    "latitude" : "30.269920000307934",
+    "human_address" : "{\"address\":\"North Bank near Buford Fire Tower;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
+  },
+  "art_location_zip" : "78701",
+  "artist_full_name" : "Rodolfo Ybarra",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=115 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic1995_001.jpg",
+  "art_location_street_address" : "North Bank near Buford Fire Tower;",
+  "art_title" : "Lone Star Gazebo",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Palmer Event Center",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.753981803035",
+    "latitude" : "30.25976064750523",
+    "human_address" : "{\"address\":\"900 Barton Springs Road;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "ARCHAIC ",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=188 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2001_002_1.jpg;http://assets.austintexas.gov/aipp/images/pic2001_002_2.jpg;http://assets.austintexas.gov/aipp/images/pic2001_002_3.jpg;",
+  "art_location_street_address" : "900 Barton Springs Road;",
+  "art_title" : "For Jeep With Love",
+  "art_location_state" : "TX"
+}
+, {
+  "art_location_city" : "Austin",
+  "art_location_name" : "Lance Armstrong Bikeway",
+  "location" : {
+    "needs_recoding" : false,
+    "longitude" : "-97.74297999972708",
+    "latitude" : "30.267600000339883",
+    "human_address" : "{\"address\":\"Veterans Drive to Shady Lane;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"\"}"
+  },
+  "artist_full_name" : "NextProject ",
+  "web_detail_page" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=544 ",
+  "images" : "http://assets.austintexas.gov/aipp/images/pic2009_030_1.jpg.jpg;http://assets.austintexas.gov/aipp/images/pic2009_030_2.jpg.jpg;http://assets.austintexas.gov/aipp/images/pic2009_030_3.jpg.jpg;",
+  "art_location_street_address" : "Veterans Drive to Shady Lane;",
+  "art_title" : "LAB",
+  "art_location_state" : "TX"
+}
+ ]

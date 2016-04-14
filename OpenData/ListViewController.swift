@@ -16,13 +16,14 @@ protocol Listable : class {
 class ListViewController: UIViewController {
     
     let applicationDelegate = UIApplication.sharedApplication().delegate as! AppDelegate
+    var detailViewController : DetailViewController?
 
     @IBOutlet weak var tableView : UITableView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        
+        NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(ListViewController.reload), name: "NOW_RELOAD", object: nil)
         self.tableView.dataSource = self
         self.tableView.delegate = self
         
@@ -38,6 +39,16 @@ class ListViewController: UIViewController {
 
     }
     
+    func reload() {
+        self.tableView.reloadData()
+    }
+    override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
+        self.detailViewController = segue.destinationViewController as? DetailViewController
+    }
+    
+    deinit {
+        NSNotificationCenter.defaultCenter().removeObserver(self)
+    }
 }
 
 extension ListViewController : UITableViewDelegate, UITableViewDataSource {
@@ -73,9 +84,9 @@ extension ListViewController : UITableViewDelegate, UITableViewDataSource {
     }
     
     func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) {
-        let item = applicationDelegate.listForTableView[indexPath.row]
-        
+        self.detailViewController?.foodInspection = applicationDelegate.listForTableView[indexPath.row] as? FoodInspectionEntry
     }
+    
 }
 
 /**
