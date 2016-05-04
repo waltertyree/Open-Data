@@ -7,7 +7,12 @@
 //
 
 import UIKit
+import MapKit
 
 class CustomTableViewCell: UITableViewCell {
 
+    @IBOutlet weak var itemImageView: UIImageView!
+    @IBOutlet weak var Address: UILabel!
+    @IBOutlet weak var Title: UILabel!
+    @IBOutlet weak var map: MKMapView!
 }

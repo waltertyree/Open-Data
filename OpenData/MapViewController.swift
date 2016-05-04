@@ -10,18 +10,21 @@ import UIKit
 import MapKit
 
 
-class MapViewController: UIViewController {
+class MapViewController: UIViewController, CLLocationManagerDelegate {
 
     let applicationDelegate = UIApplication.sharedApplication().delegate as! AppDelegate
 
     @IBOutlet weak var mapView : MKMapView!
+    var locationManager = CLLocationManager()
     
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+
         mapView.delegate = self
         mapView.addAnnotations(applicationDelegate.listForMapView)
-//        NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(MapViewController.reload), name: "NOW_RELOAD", object: nil)
+        
+        NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(MapViewController.reload), name: "NOW_RELOAD", object: nil)
     }
 
     override func didReceiveMemoryWarning() {
@@ -31,6 +34,8 @@ class MapViewController: UIViewController {
 
     override func viewWillAppear(animated: Bool) {
         super.viewDidAppear(animated)
+        locationManager.requestWhenInUseAuthorization()
+        locationManager.startUpdatingLocation()
         mapView.showAnnotations(applicationDelegate.listForMapView, animated: true)
 
     }
@@ -56,6 +61,14 @@ class MapViewController: UIViewController {
         sourceViewController?.doneButton.hidden = true
         // Pull any data from the view controller which initiated the unwind segue.
         
+    }
+    
+    func locationManager(manager: CLLocationManager, didChangeAuthorizationStatus status: CLAuthorizationStatus) {
+        
+    }
+    
+    func locationManager(manager: CLLocationManager, didUpdateToLocation newLocation: CLLocation, fromLocation oldLocation: CLLocation) {
+        print(newLocation)
     }
 }
 

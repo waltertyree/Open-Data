@@ -10,14 +10,20 @@ import UIKit
 import MapKit
 
 struct DataConstants {
-    static let kDataFileName = "CityArtworks.json"
+    static let kDataFileName = "<#Replace This#>"
+    static let kDataRemoteURL = NSURL(string:"<#And This#>")
+}
+
+struct Notifications {
+    static let DOWNLOAD_COMPLETE = "DOWNLOAD_COMPLETE"
+    static let ARRAYS_RELOADED = "ARRAYS_RELOADED"
 }
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
     
     var window: UIWindow?
-    //let workQueue = NSOperationQueue()
+    let workQueue = NSOperationQueue()
     
     //These lists will supply the data for the tableview and the map
     var listForTableView = Array<Listable>()
@@ -30,27 +36,32 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         //At the end of the download, it will post a notification.
         //Watch for that notification by name
-//        NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(AppDelegate.populateArrays), name: "DownloadCompleted", object: nil)
+        NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(AppDelegate.populateArrays), name: Notifications.DOWNLOAD_COMPLETE, object: nil)
         
         
-        let documentsURL = fetchDocumentsDirectoryURL()
         
-        let destinationURL = documentsURL.URLByAppendingPathComponent("/\(DataConstants.kDataFileName)")
-            
-            var error : NSError? = nil
-            if !destinationURL.checkResourceIsReachableAndReturnError(&error) {
-                
-                let sourceURL = NSBundle.mainBundle().URLForResource(DataConstants.kDataFileName, withExtension: "")!
-                do{
-                    try NSFileManager.defaultManager().copyItemAtURL(sourceURL, toURL: destinationURL)
-                } catch {
-                    print ("could not copy file")
-                }
-            } else {
-                print("An error occurred when we tried to find the file \(error.debugDescription)")
-            }
         
+        //Read the header info about checkResourceIsReachableAndReturnError for a note about efficiency.
+        //            var err : NSError? = nil
+        
+        //            if !destinationURL.checkResourceIsReachableAndReturnError(&err) {
+        //
+        let sourceURL = NSBundle.mainBundle().URLForResource(DataConstants.kDataFileName, withExtension: "")!
+        let destinationURL = fetchDestinationURL()
+
+        do{
+            try NSFileManager.defaultManager().copyItemAtURL(sourceURL, toURL: destinationURL)
+        } catch let error as NSError {
+            print ("could not copy file because of \(error.localizedDescription)")
+        }
+        
+        //            } else {
+        //                print("An error occurred when we tried to find the file \(err.debugDescription)")
+        //            }
+        //
         populateArrays()
+        
+        
         
         return true
     }
@@ -59,9 +70,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         self.listForMapView.removeAll()
         self.listForTableView.removeAll()
         
-        let documentsURL = fetchDocumentsDirectoryURL()
         
-        let fileURL = documentsURL.URLByAppendingPathComponent(DataConstants.kDataFileName)
+        let fileURL = fetchDestinationURL()
         
         if let data = NSData(contentsOfURL:fileURL) {
             do {
@@ -73,25 +83,36 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                     self.listForTableView.append(populatedEntry)
                     self.listForMapView.append(populatedEntry)
                 }
-//                NSNotificationCenter.defaultCenter().postNotificationName("NOW_RELOAD", object: nil)
-            } catch let error {
-                print(error)
+                NSNotificationCenter.defaultCenter().postNotificationName(Notifications.ARRAYS_RELOADED, object: nil)
+                
+            } catch let error as NSError {
+                print("JSON Serialization failed \(error.localizedDescription)")
             }
         }
         
         
     }
     
-    func fetchDocumentsDirectoryURL() -> NSURL {
+    private func fetchDestinationURL() -> NSURL {
+        
+        let documentsURL = fetchDocumentsDirectoryURL()
+        
+        let destinationURL = documentsURL.URLByAppendingPathComponent(DataConstants.kDataFileName)
+        
+        return destinationURL
+        
+    }
+    
+    private func fetchDocumentsDirectoryURL() -> NSURL {
         var documentsURL = NSURL()
         
         do {
             
             documentsURL = try NSFileManager.defaultManager().URLForDirectory(.DocumentDirectory, inDomain: .UserDomainMask, appropriateForURL: nil, create: false)
-        } catch {
-            print("Could not find documents directory")
+        } catch let error as NSError {
+            print("Could not create documents URL \(error.localizedDescription)")
         }
-return documentsURL
+        return documentsURL
     }
     
     func applicationWillResignActive(application: UIApplication) {
@@ -110,6 +131,8 @@ return documentsURL
     
     func applicationDidBecomeActive(application: UIApplication) {
         // Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the user interface.
+        let downloadOperation = DownloadDataOperation(source: DataConstants.kDataRemoteURL, file: fetchDestinationURL())
+        self.workQueue.addOperation(downloadOperation)
     }
     
     func applicationWillTerminate(application: UIApplication) {

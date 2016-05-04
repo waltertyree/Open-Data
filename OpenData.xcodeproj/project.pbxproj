@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		D41283BB1CBF19FC002EF8DA /* DownloadDataOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D41283BA1CBF19FC002EF8DA /* DownloadDataOperation.swift */; };
+		D4385EC31CDA158C00784EE2 /* composting.json in Resources */ = {isa = PBXBuildFile; fileRef = D4385EC01CDA158C00784EE2 /* composting.json */; };
+		D4385EC41CDA158C00784EE2 /* marijuana.json in Resources */ = {isa = PBXBuildFile; fileRef = D4385EC11CDA158C00784EE2 /* marijuana.json */; };
+		D4385EC51CDA158C00784EE2 /* publicArt.json in Resources */ = {isa = PBXBuildFile; fileRef = D4385EC21CDA158C00784EE2 /* publicArt.json */; };
 		D445EE421CA4021000786CA3 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D445EE411CA4021000786CA3 /* CustomTableViewCell.swift */; };
 		D445EE441CA4544600786CA3 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D445EE431CA4544600786CA3 /* DetailViewController.swift */; };
 		D451E9D21CB67AAF00A05682 /* BuildingPermits.json in Resources */ = {isa = PBXBuildFile; fileRef = D451E9C61CB67AAF00A05682 /* BuildingPermits.json */; };
@@ -51,8 +54,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D41283B91CBF18E3002EF8DA /* DateFormatter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DateFormatter.playground; sourceTree = "<group>"; };
 		D41283BA1CBF19FC002EF8DA /* DownloadDataOperation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DownloadDataOperation.swift; sourceTree = "<group>"; };
+		D4385EC01CDA158C00784EE2 /* composting.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = composting.json; sourceTree = "<group>"; };
+		D4385EC11CDA158C00784EE2 /* marijuana.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = marijuana.json; sourceTree = "<group>"; };
+		D4385EC21CDA158C00784EE2 /* publicArt.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = publicArt.json; sourceTree = "<group>"; };
 		D445EE411CA4021000786CA3 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		D445EE431CA4544600786CA3 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		D451E9C61CB67AAF00A05682 /* BuildingPermits.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = BuildingPermits.json; sourceTree = "<group>"; };
@@ -110,12 +115,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D41283B81CBF18E3002EF8DA /* Playgrounds */ = {
+		D4385EBF1CDA158C00784EE2 /* Seattle */ = {
 			isa = PBXGroup;
 			children = (
-				D41283B91CBF18E3002EF8DA /* DateFormatter.playground */,
+				D4385EC01CDA158C00784EE2 /* composting.json */,
+				D4385EC11CDA158C00784EE2 /* marijuana.json */,
+				D4385EC21CDA158C00784EE2 /* publicArt.json */,
 			);
-			path = Playgrounds;
+			path = Seattle;
 			sourceTree = "<group>";
 		};
 		D451E9C51CB67AAF00A05682 /* Austin */ = {
@@ -147,6 +154,7 @@
 		D46387061C9B51AA00CBDAAD /* DataObjects */ = {
 			isa = PBXGroup;
 			children = (
+				D4385EBF1CDA158C00784EE2 /* Seattle */,
 				D451E9C51CB67AAF00A05682 /* Austin */,
 				D451E9CC1CB67AAF00A05682 /* Chicago */,
 			);
@@ -213,7 +221,6 @@
 		D498BDEE1C9AD75800B8FEFC /* SupportingFiles */ = {
 			isa = PBXGroup;
 			children = (
-				D41283B81CBF18E3002EF8DA /* Playgrounds */,
 				D498BDEC1C9AD73A00B8FEFC /* MapKit.framework */,
 			);
 			name = SupportingFiles;
@@ -287,7 +294,7 @@
 				TargetAttributes = {
 					D498BDB81C9AD25B00B8FEFC = {
 						CreatedOnToolsVersion = 7.2.1;
-						DevelopmentTeam = NHWEW7GGZ6;
+						DevelopmentTeam = K75NL9T9H7;
 						SystemCapabilities = {
 							com.apple.Maps.iOS = {
 								enabled = 1;
@@ -331,14 +338,17 @@
 			files = (
 				D451E9D71CB67AAF00A05682 /* Food.json in Resources */,
 				D49506A31CB83043004B5C7D /* BarberShops.json in Resources */,
+				D4385EC51CDA158C00784EE2 /* publicArt.json in Resources */,
 				D451E9D81CB67AAF00A05682 /* Landmarks.json in Resources */,
 				D498BDC91C9AD25B00B8FEFC /* LaunchScreen.storyboard in Resources */,
 				D451E9D91CB67AAF00A05682 /* Parks_Ammenities.json in Resources */,
+				D4385EC41CDA158C00784EE2 /* marijuana.json in Resources */,
 				D451E9D31CB67AAF00A05682 /* CityArtworks.json in Resources */,
 				D451E9D21CB67AAF00A05682 /* BuildingPermits.json in Resources */,
 				D451E9DA1CB67AAF00A05682 /* RedLight.json in Resources */,
 				D498BDC61C9AD25B00B8FEFC /* Assets.xcassets in Resources */,
 				D451E9D61CB67AAF00A05682 /* Farmers2015.json in Resources */,
+				D4385EC31CDA158C00784EE2 /* composting.json in Resources */,
 				D498BDC41C9AD25B00B8FEFC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
