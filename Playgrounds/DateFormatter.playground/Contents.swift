@@ -3,16 +3,25 @@
 import UIKit
 
 var formatter = NSDateFormatter()
+
 formatter.dateFormat = "yyyy-MM-dd'T'HH:mm:ss"
-
-
 
 let myDate = formatter.dateFromString("2015-2-13T00:00:00")
 
 formatter.dateStyle = .MediumStyle
 formatter.timeStyle = .NoStyle
 
+/*Other styles are:
+     NoStyle
+     ShortStyle
+     MediumStyle
+     LongStyle
+     FullStyle
+ */
+
 formatter.stringFromDate(myDate!)
 
-let theDate = NSDate(timeIntervalSinceNow: -3600)
+let accurateSubtraction = NSCalendar.autoupdatingCurrentCalendar().dateByAddingUnit(.Day, value: -1, toDate: NSDate(), options: [.WrapComponents])
+
+let lessThanAccurate = NSDate().dateByAddingTimeInterval(-86400)
 

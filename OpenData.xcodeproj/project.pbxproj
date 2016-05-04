@@ -158,8 +158,8 @@
 			children = (
 				D498BDBB1C9AD25B00B8FEFC /* OpenData */,
 				D46387061C9B51AA00CBDAAD /* DataObjects */,
-				D498BDD21C9AD25B00B8FEFC /* OpenDataTests */,
 				D498BDEE1C9AD75800B8FEFC /* SupportingFiles */,
+				D498BDD21C9AD25B00B8FEFC /* OpenDataTests */,
 				D498BDDD1C9AD25B00B8FEFC /* OpenDataUITests */,
 				D498BDBA1C9AD25B00B8FEFC /* Products */,
 			);

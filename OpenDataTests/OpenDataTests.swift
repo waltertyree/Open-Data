@@ -26,10 +26,19 @@ class OpenDataTests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
     
-    func testPerformanceExample() {
+    func testCreateDateFormatter() {
         // This is an example of a performance test case.
+        
+        
         self.measureBlock {
-            // Put the code you want to measure the time of here.
+
+            let formatter = NSDateFormatter()
+            formatter.timeStyle = .NoStyle
+            formatter.dateStyle = .MediumStyle
+            
+
+            print("Date is: \(formatter.stringFromDate(NSDate()))")
+            
         }
     }
     
