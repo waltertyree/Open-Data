@@ -1,0 +1,35 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 1,
+          "height" : 83
+        },
+        "cap-insets" : {
+          "bottom" : 301,
+          "top" : 219,
+          "right" : 216,
+          "left" : 215
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "11866211_511661615659027_8642276091474815146_n.jpg",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

@@ -20,10 +20,15 @@ class ListViewController: UIViewController {
 
     @IBOutlet weak var tableView : UITableView!
     
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-//        NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(ListViewController.reload), name: "NOW_RELOAD", object: nil)
+        NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(ListViewController.reload), name: Notifications.ARRAYS_RELOADED, object: nil)
+
+        self.title = "Art in Austin"
+
 
         self.tableView.dataSource = self
         self.tableView.delegate = self
@@ -48,9 +53,9 @@ class ListViewController: UIViewController {
         self.detailViewController = segue.destinationViewController as? DetailViewController
     }
     
-//    deinit {
-//        NSNotificationCenter.defaultCenter().removeObserver(self)
-//    }
+    deinit {
+        NSNotificationCenter.defaultCenter().removeObserver(self)
+    }
 }
 
 extension ListViewController : UITableViewDelegate, UITableViewDataSource {
@@ -76,7 +81,8 @@ extension ListViewController : UITableViewDelegate, UITableViewDataSource {
         
         if let reusedCell = tableView.dequeueReusableCellWithIdentifier("cell") {
             let item = applicationDelegate.listForTableView[indexPath.row]
-                reusedCell.textLabel?.text = item.itemTitle()
+            reusedCell.textLabel?.text = item.itemTitle()
+            
             return reusedCell
         }
         let cell = UITableViewCell(style: .Default, reuseIdentifier: "cell")

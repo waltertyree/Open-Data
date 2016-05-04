@@ -36,8 +36,8 @@ struct LocationStruct {
      "human_address" : "{\"address\":\"5th Street and Sabine Street;\",\"city\":\"Austin\",\"state\":\"TX\",\"zip\":\"78701\"}"
      },
      */
-    let kDefaultLatitude : Double = 0.0
-    let kDefaultLongitude : Double = 0.0
+    let kDefaultLatitude : Double = -97.73647200312456
+    let kDefaultLongitude : Double = 30.265255505104278
     
     var latitude : Double!
     var longitude : Double!
@@ -92,7 +92,16 @@ struct LocationStruct {
 
 class ArtEntry: NSObject {
     let artistFullName : String?
-    let artLocationCity : String?
+    var artLocationCity : String? {
+        willSet {
+            willChangeValueForKey("artLocationCity")
+        }
+        
+        didSet {
+            didChangeValueForKey("artLocationCity")
+        }
+
+    }
     let artLocationState : String?
     let artLocationAddress : String?
     let artLocationZip : String?
