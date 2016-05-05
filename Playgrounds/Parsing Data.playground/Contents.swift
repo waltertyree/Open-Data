@@ -8,16 +8,19 @@ let rawJSONData = "{\"address\":\"2300 E Yesler St\",\"artist_first_name\":\"Ric
 
 let JSONAsData = rawJSONData.dataUsingEncoding(NSUTF8StringEncoding)
 
+let singleInstallation : ArtInstallation
+
 do {
- let JSONDictionary = try NSJSONSerialization.JSONObjectWithData(JSONAsData!, options: .AllowFragments) as! Dictionary<String, AnyObject>
+    let JSONDictionary = try NSJSONSerialization.JSONObjectWithData(JSONAsData!, options: .AllowFragments) as! Dictionary<String, AnyObject>
     
-    let singleInstallation = ArtInstallation(dictionary:JSONDictionary)
-
-
+    singleInstallation = ArtInstallation(dictionary:JSONDictionary)
+    
+    
 } catch let error as NSError {
     print("Could not parse: \(error)")
+    //singleInstallation = ArtInstallation(dictionary: Dictionary())
 }
 
-
+print(singleInstallation)
 
 
