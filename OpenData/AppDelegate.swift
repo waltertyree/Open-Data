@@ -10,8 +10,8 @@ import UIKit
 import MapKit
 
 struct DataConstants {
-    static let kDataFileName = "<#Replace This#>"
-    static let kDataRemoteURL = NSURL(string:"<#And This#>")
+    static let kDataFileName = "publicArt.json"
+    static let kDataRemoteURL = NSURL() //NSURL(string:"<#And This#>")
 }
 
 struct Notifications {
@@ -79,7 +79,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 let dataList = try NSJSONSerialization.JSONObjectWithData(data, options: NSJSONReadingOptions.AllowFragments) as? Array<Dictionary<String,AnyObject>>
                 
                 for entry in dataList! {
-                    let populatedEntry = ArtEntry.init(dictionary: entry)
+                    let populatedEntry = ArtInstallation.init(dictionary: entry)
                     self.listForTableView.append(populatedEntry)
                     self.listForMapView.append(populatedEntry)
                 }

@@ -38,7 +38,7 @@ class OpenDataTests: XCTestCase {
         
         keyValueObservingExpectationForObject(myEntry, keyPath: "artLocationCity", expectedValue: "Boston")
         
-        myEntry.artLocationCity = "Boston"
+        //myEntry.artLocationCity = "Boston"
         
         waitForExpectationsWithTimeout(1.0) { (error) in
             //Expectation was not met

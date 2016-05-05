@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D4083E141CDAA5E1007E2950 /* publicArt.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4083E131CDAA5E1007E2950 /* publicArt.swift */; };
 		D41283BB1CBF19FC002EF8DA /* DownloadDataOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D41283BA1CBF19FC002EF8DA /* DownloadDataOperation.swift */; };
 		D4385EC31CDA158C00784EE2 /* composting.json in Resources */ = {isa = PBXBuildFile; fileRef = D4385EC01CDA158C00784EE2 /* composting.json */; };
 		D4385EC41CDA158C00784EE2 /* marijuana.json in Resources */ = {isa = PBXBuildFile; fileRef = D4385EC11CDA158C00784EE2 /* marijuana.json */; };
@@ -54,6 +55,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D4083E131CDAA5E1007E2950 /* publicArt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = publicArt.swift; sourceTree = "<group>"; };
 		D41283BA1CBF19FC002EF8DA /* DownloadDataOperation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DownloadDataOperation.swift; sourceTree = "<group>"; };
 		D4385EC01CDA158C00784EE2 /* composting.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = composting.json; sourceTree = "<group>"; };
 		D4385EC11CDA158C00784EE2 /* marijuana.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = marijuana.json; sourceTree = "<group>"; };
@@ -118,9 +120,10 @@
 		D4385EBF1CDA158C00784EE2 /* Seattle */ = {
 			isa = PBXGroup;
 			children = (
+				D4083E131CDAA5E1007E2950 /* publicArt.swift */,
+				D4385EC21CDA158C00784EE2 /* publicArt.json */,
 				D4385EC01CDA158C00784EE2 /* composting.json */,
 				D4385EC11CDA158C00784EE2 /* marijuana.json */,
-				D4385EC21CDA158C00784EE2 /* publicArt.json */,
 			);
 			path = Seattle;
 			sourceTree = "<group>";
@@ -379,6 +382,7 @@
 				D4AFF8461CBF16A3008B5F48 /* LandmarkEntry.swift in Sources */,
 				D498BDBD1C9AD25B00B8FEFC /* AppDelegate.swift in Sources */,
 				D4AFF8451CBF16A3008B5F48 /* FoodInspection.swift in Sources */,
+				D4083E141CDAA5E1007E2950 /* publicArt.swift in Sources */,
 				D498BDBF1C9AD25B00B8FEFC /* ListViewController.swift in Sources */,
 				D451E9DC1CB67B2600A05682 /* ArtEntry.swift in Sources */,
 				D41283BB1CBF19FC002EF8DA /* DownloadDataOperation.swift in Sources */,
