@@ -24,22 +24,21 @@ class MapViewController: UIViewController, CLLocationManagerDelegate {
         mapView.delegate = self
         mapView.addAnnotations(applicationDelegate.listForMapView)
         
-        NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(MapViewController.reload), name: "NOW_RELOAD", object: nil)
+        //NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(MapViewController.reload), name: Notifications.ARRAYS_RELOADED, object: nil)
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
 
     override func viewWillAppear(animated: Bool) {
         super.viewDidAppear(animated)
+        
         locationManager.requestWhenInUseAuthorization()
         locationManager.startUpdatingLocation()
+        
         mapView.showAnnotations(applicationDelegate.listForMapView, animated: true)
 
     }
-    deinit {
+    
+   /* deinit {
         NSNotificationCenter.defaultCenter().removeObserver(self)
     }
     
@@ -50,7 +49,7 @@ class MapViewController: UIViewController, CLLocationManagerDelegate {
     override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
         if segue.identifier == "showDetail" {
         let detailView = segue.destinationViewController as? DetailViewController
-        detailView?.artItem = sender as? ArtEntry
+        detailView?.artItem = sender as? ArtInstallation
             detailView?.doneButtonHidden = false
         }
     }
@@ -62,6 +61,7 @@ class MapViewController: UIViewController, CLLocationManagerDelegate {
         // Pull any data from the view controller which initiated the unwind segue.
         
     }
+    */
     
     func locationManager(manager: CLLocationManager, didChangeAuthorizationStatus status: CLAuthorizationStatus) {
         
@@ -77,15 +77,16 @@ extension MapViewController : MKMapViewDelegate {
     
     func mapView(mapView: MKMapView, viewForAnnotation annotation: MKAnnotation) -> MKAnnotationView? {
         let theView = MKPinAnnotationView(annotation: annotation, reuseIdentifier: "place")
-        theView.canShowCallout = true
-        theView.rightCalloutAccessoryView = UIButton(type: .DetailDisclosure)
+//        theView.canShowCallout = true
+//        theView.rightCalloutAccessoryView = UIButton(type: .DetailDisclosure)
     return theView
         
     }
      
      
     func mapView(mapView: MKMapView, annotationView view: MKAnnotationView, calloutAccessoryControlTapped control: UIControl) {
-        self.performSegueWithIdentifier("showDetail", sender: view.annotation)
+        print("I was tapped")
+        //self.performSegueWithIdentifier("showDetail", sender: view.annotation)
     }
     
     func mapView(mapView: MKMapView, didSelectAnnotationView view: MKAnnotationView) {

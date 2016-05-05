@@ -11,6 +11,8 @@ import XCTest
 
 class OpenDataTests: XCTestCase {
     
+    let testPayload = "{\"address\":\"13035 Linden Ave N\",\"artist_first_name\":\"Beliz\",\"artist_last_name\":\"Brother and Mark Calderon\",\"classification\":\"Sculpture\",\"date\":\"2/18/97\",\"description\":\"'A cast aluminum frieze of a repeating leaf motif along the entrance canopy, illuminated with neon.'\",\"geolocation\":{\"type\":\"Point\",\"coordinates\":[-122.348633,47.7243]},\"geolocation_city\":\"Seattle\",\"geolocation_state\":\"WA\",\"latitude\":\"47.7243\",\"location\":\"Bitter Lake Community Center, north entrance outside above door\",\"longitude\":\"-122.348633\",\"measurements\":\"24x264x2\",\"media\":\"Aluminum; bronze mesh; neon\",\"project\":\"BITTERLAKE COMMUNITY CENTER\",\"sac_id\":\"PR97.022\",\"title\":\"Aureole\"}"
+    
     override class func setUp() {
         print("Class Setup")
     }
@@ -31,23 +33,23 @@ class OpenDataTests: XCTestCase {
         print ("Class Teardown")
     }
     
-    func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
-        let myEntry = ArtEntry(dictionary: ["art_location_city":"Austin"])
+    func testParsing() {
         
-        keyValueObservingExpectationForObject(myEntry, keyPath: "artLocationCity", expectedValue: "Boston")
-        
-        //myEntry.artLocationCity = "Boston"
-        
-        waitForExpectationsWithTimeout(1.0) { (error) in
-            //Expectation was not met
+        guard let data = self.testPayload.dataUsingEncoding(NSUTF8StringEncoding, allowLossyConversion: true) else {
+            XCTFail("String was not converted to data")
+            return
         }
         
-        
-        
-        
-        print("Test Example")
+        do
+        {
+        let anObjectJSON =  try NSJSONSerialization.JSONObjectWithData(data, options: NSJSONReadingOptions.AllowFragments) as! Dictionary<String,AnyObject>
+            let artObject = ArtInstallation(dictionary: anObjectJSON)
+            
+            //Now test some stuff
+            XCTAssertNotNil(artObject, "Art Object was not created correctly.")
+        } catch {
+            XCTFail("Data was not converted to a JSON object")
+        }
     }
     
     func testCreateDateFormatter() {

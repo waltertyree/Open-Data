@@ -192,12 +192,12 @@
 				D498BDBC1C9AD25B00B8FEFC /* AppDelegate.swift */,
 				D498BDBE1C9AD25B00B8FEFC /* ListViewController.swift */,
 				D498BDC01C9AD25B00B8FEFC /* MapViewController.swift */,
-				D445EE411CA4021000786CA3 /* CustomTableViewCell.swift */,
 				D445EE431CA4544600786CA3 /* DetailViewController.swift */,
 				D498BDC21C9AD25B00B8FEFC /* Main.storyboard */,
 				D498BDC51C9AD25B00B8FEFC /* Assets.xcassets */,
 				D498BDC71C9AD25B00B8FEFC /* LaunchScreen.storyboard */,
 				D498BDCA1C9AD25B00B8FEFC /* Info.plist */,
+				D445EE411CA4021000786CA3 /* CustomTableViewCell.swift */,
 				D41283BA1CBF19FC002EF8DA /* DownloadDataOperation.swift */,
 			);
 			path = OpenData;

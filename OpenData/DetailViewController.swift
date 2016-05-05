@@ -11,40 +11,21 @@ import UIKit
 class DetailViewController: UIViewController {
 
     @IBOutlet weak var doneButton: UIButton!
-    var artItem : ArtEntry?
+    var artItem : ArtInstallation?
     var doneButtonHidden = true
-    @IBOutlet weak var City: UILabel!
-    
-    @IBOutlet weak var image: UIWebView!
-    @IBOutlet weak var titleLabel: UILabel!
+   
     override func viewDidLoad() {
         super.viewDidLoad()
         
         
         // Do any additional setup after loading the view.
     }
+    
+    
     override func viewWillAppear(animated: Bool) {
         super.viewWillAppear(animated)
-        self.doneButton.hidden = self.doneButtonHidden
-        self.titleLabel.text = artItem?.title
-        self.title = artItem?.title
-        self.City.text = artItem?.artLocationCity
-        
-        let request = NSURLRequest(URL: NSURL(string: artItem!.artImages!.first!)!)
-        self.image.loadRequest(request)
-
-
+        self.doneButton.hidden = self.doneButtonHidden        
     }
-    override func viewDidAppear(animated: Bool) {
-        super.viewDidAppear(animated)
-
-    }
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-    
-
 
     /*
     // MARK: - Navigation

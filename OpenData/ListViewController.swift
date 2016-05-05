@@ -27,7 +27,7 @@ class ListViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(ListViewController.reload), name: Notifications.ARRAYS_RELOADED, object: nil)
 
-        self.title = "Art in Austin"
+        self.title = ""
 
 
         self.tableView.dataSource = self
@@ -92,7 +92,7 @@ extension ListViewController : UITableViewDelegate, UITableViewDataSource {
     }
     
     func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) {
-        self.detailViewController?.artItem = applicationDelegate.listForTableView[indexPath.row] as? ArtEntry
+        self.detailViewController?.artItem = applicationDelegate.listForTableView[indexPath.row] as? ArtInstallation
     }
     
 }
