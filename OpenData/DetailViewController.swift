@@ -13,7 +13,10 @@ class DetailViewController: UIViewController {
     @IBOutlet weak var doneButton: UIButton!
     var artItem : ArtInstallation?
     var doneButtonHidden = true
+    @IBOutlet weak var titleOfTheArt: UILabel!
    
+    @IBOutlet weak var descriptionOfTheArt: UITextView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -21,10 +24,16 @@ class DetailViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
+    deinit {
+        artItem = nil
+    }
     
     override func viewWillAppear(animated: Bool) {
         super.viewWillAppear(animated)
-        self.doneButton.hidden = self.doneButtonHidden        
+        self.doneButton.hidden = self.doneButtonHidden
+        
+        self.titleOfTheArt.text = self.artItem?.artTitle
+        self.descriptionOfTheArt.text = self.artItem?.itemDescription
     }
 
     /*

@@ -80,7 +80,7 @@ extension ArtInstallation : MKAnnotation {
     
     public var title: String? {
         get {
-            return self.title
+            return self.artTitle
         }
     }
     

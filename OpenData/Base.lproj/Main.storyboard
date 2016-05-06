@@ -6,7 +6,7 @@
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <scenes>
-        <!--List View Controller-->
+        <!--Seattle Art-->
         <scene sceneID="hNz-n2-bh7">
             <objects>
                 <viewController id="9pv-A4-QxB" customClass="ListViewController" customModule="OpenData" customModuleProvider="target" sceneMemberID="viewController">
@@ -29,6 +29,9 @@
                                             <rect key="frame" x="0.0" y="0.0" width="527" height="43"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                         </tableViewCellContentView>
+                                        <connections>
+                                            <segue destination="ycS-lT-sTF" kind="show" id="MIO-0y-fTh"/>
+                                        </connections>
                                     </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="customCell" rowHeight="100" id="0GC-eo-kzU" customClass="CustomTableViewCell" customModule="OpenData" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="136" width="560" height="100"/>
@@ -49,7 +52,7 @@
                             <constraint firstItem="lPQ-tM-xhf" firstAttribute="leading" secondItem="tsR-hK-woN" secondAttribute="leadingMargin" id="eD4-KH-dsm"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" id="gVr-ka-Y6k"/>
+                    <navigationItem key="navigationItem" title="Seattle Art" id="gVr-ka-Y6k"/>
                     <connections>
                         <outlet property="tableView" destination="lPQ-tM-xhf" id="jus-Xc-E1t"/>
                     </connections>
@@ -61,7 +64,7 @@
         <!--Detail View Controller-->
         <scene sceneID="nZz-2l-S8R">
             <objects>
-                <viewController storyboardIdentifier="DetailViewController" id="ycS-lT-sTF" customClass="DetailViewController" customModule="OpenData" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="DetailViewController" modalPresentationStyle="currentContext" hidesBottomBarWhenPushed="YES" id="ycS-lT-sTF" customClass="DetailViewController" customModule="OpenData" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="4tJ-bf-zJ8"/>
                         <viewControllerLayoutGuide type="bottom" id="vId-Yn-aBF"/>
@@ -70,23 +73,46 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pyo-GY-M0J">
-                                <rect key="frame" x="20" y="20" width="37" height="30"/>
+                            <button hidden="YES" opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pyo-GY-M0J">
+                                <rect key="frame" x="20" y="64" width="37" height="30"/>
                                 <state key="normal" title="Done"/>
                                 <connections>
-                                    <segue destination="Z8g-4k-pY8" kind="unwind" unwindAction="unwindToMap:" id="Rxx-Qx-h2K"/>
+                                    <segue destination="Z8g-4k-pY8" kind="unwind" unwindAction="gohere:" id="Q61-E7-ncq"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aau-6U-aqP">
+                                <rect key="frame" x="20" y="114" width="560" height="21"/>
+                                <accessibility key="accessibilityConfiguration" identifier="titleLabel"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.03061707440572347" green="0.64702199359910684" blue="0.16260468607825479" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="sbJ-Fj-DBz">
+                                <rect key="frame" x="20" y="170" width="560" height="181"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
+                            <constraint firstAttribute="trailingMargin" secondItem="sbJ-Fj-DBz" secondAttribute="trailing" id="2w5-I8-xDR"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="aau-6U-aqP" secondAttribute="trailing" id="DVf-mV-VLq"/>
                             <constraint firstItem="pyo-GY-M0J" firstAttribute="top" secondItem="4tJ-bf-zJ8" secondAttribute="bottom" id="Hr6-mn-tjZ"/>
+                            <constraint firstItem="sbJ-Fj-DBz" firstAttribute="top" secondItem="aau-6U-aqP" secondAttribute="bottom" constant="35" id="QlC-Ee-yFx"/>
+                            <constraint firstItem="aau-6U-aqP" firstAttribute="leading" secondItem="kt0-so-STW" secondAttribute="leadingMargin" id="SWT-4y-YgG"/>
+                            <constraint firstItem="vId-Yn-aBF" firstAttribute="top" secondItem="sbJ-Fj-DBz" secondAttribute="bottom" constant="200" id="YtR-FR-J5L"/>
+                            <constraint firstItem="aau-6U-aqP" firstAttribute="top" secondItem="4tJ-bf-zJ8" secondAttribute="bottom" constant="50" id="p5j-4x-RZI"/>
+                            <constraint firstItem="sbJ-Fj-DBz" firstAttribute="leading" secondItem="kt0-so-STW" secondAttribute="leadingMargin" id="xyW-Dg-xeg"/>
                             <constraint firstAttribute="leadingMargin" secondItem="pyo-GY-M0J" secondAttribute="leading" id="zfk-fM-Epf"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="Gxz-td-Qr8"/>
                     <connections>
+                        <outlet property="descriptionOfTheArt" destination="sbJ-Fj-DBz" id="70c-lw-n1j"/>
                         <outlet property="doneButton" destination="pyo-GY-M0J" id="SvU-zS-asd"/>
+                        <outlet property="titleOfTheArt" destination="aau-6U-aqP" id="xRx-iu-t5G"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="w5T-HB-8bN" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -94,7 +120,7 @@
             </objects>
             <point key="canvasLocation" x="1706" y="368"/>
         </scene>
-        <!--Second Item-->
+        <!--Map-->
         <scene sceneID="wg7-f3-ORb">
             <objects>
                 <viewController id="8rJ-Kc-sve" customClass="MapViewController" customModule="OpenData" customModuleProvider="target" sceneMemberID="viewController">
@@ -118,7 +144,7 @@
                             <constraint firstItem="Djb-ko-YwX" firstAttribute="top" secondItem="jEP-Qd-hTA" secondAttribute="bottom" id="x1W-mW-Y9d"/>
                         </constraints>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Second Item" image="second" id="cPa-gy-q4n"/>
+                    <tabBarItem key="tabBarItem" title="Map" image="852-map" id="cPa-gy-q4n"/>
                     <connections>
                         <outlet property="mapView" destination="jEP-Qd-hTA" id="vxa-yk-et2"/>
                         <segue destination="ycS-lT-sTF" kind="showDetail" identifier="showDetail" id="lFv-d8-BpV"/>
@@ -151,7 +177,7 @@
         <scene sceneID="MpB-OV-A7Q">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="8M1-Of-aOd" userLabel="List" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="First Item" image="first" id="acW-dT-cKf"/>
+                    <tabBarItem key="tabBarItem" title="List" image="1100-list-2" id="acW-dT-cKf"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="t6Y-cK-wtQ">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
@@ -168,7 +194,10 @@
         </scene>
     </scenes>
     <resources>
-        <image name="first" width="30" height="30"/>
-        <image name="second" width="30" height="30"/>
+        <image name="1100-list-2" width="28" height="22"/>
+        <image name="852-map" width="28" height="24"/>
     </resources>
+    <inferredMetricsTieBreakers>
+        <segue reference="lFv-d8-BpV"/>
+    </inferredMetricsTieBreakers>
 </document>

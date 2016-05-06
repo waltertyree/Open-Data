@@ -11,7 +11,7 @@ import MapKit
 
 struct DataConstants {
     static let kDataFileName = "publicArt.json"
-    static let kDataRemoteURL = NSURL() //NSURL(string:"<#And This#>")
+    static let kDataRemoteURL = NSURL(string:"https://data.seattle.gov/resource/249z-59hj.json") //NSURL(string:"<#And This#>")
 }
 
 struct Notifications {
