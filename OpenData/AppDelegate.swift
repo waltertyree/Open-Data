@@ -10,8 +10,8 @@ import UIKit
 import MapKit
 
 struct DataConstants {
-    static let kDataFileName = "publicArt.json"
-    static let kDataRemoteURL = NSURL(string:"https://data.seattle.gov/resource/249z-59hj.json") //NSURL(string:"<#And This#>")
+    static let kDataFileName = ""
+    static let kDataRemoteURL = NSURL(string:"") //NSURL(string:"<#And This#>")
 }
 
 struct Notifications {
@@ -131,8 +131,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     func applicationDidBecomeActive(application: UIApplication) {
         // Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the user interface.
-        let downloadOperation = DownloadDataOperation(source: DataConstants.kDataRemoteURL, file: fetchDestinationURL())
-        self.workQueue.addOperation(downloadOperation)
+        //let downloadOperation = DownloadDataOperation(source: DataConstants.kDataRemoteURL, file: fetchDestinationURL())
+        //self.workQueue.addOperation(downloadOperation)
     }
     
     func applicationWillTerminate(application: UIApplication) {
