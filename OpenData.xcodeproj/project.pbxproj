@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B916DB571D81CE950001A9B0 /* CafeObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = B916DB561D81CE950001A9B0 /* CafeObject.swift */; };
+		B916DB5E1D81CEA40001A9B0 /* landmarks.json in Resources */ = {isa = PBXBuildFile; fileRef = B916DB581D81CEA40001A9B0 /* landmarks.json */; };
+		B916DB5F1D81CEA40001A9B0 /* parking.json in Resources */ = {isa = PBXBuildFile; fileRef = B916DB591D81CEA40001A9B0 /* parking.json */; };
+		B916DB601D81CEA40001A9B0 /* rats.json in Resources */ = {isa = PBXBuildFile; fileRef = B916DB5A1D81CEA40001A9B0 /* rats.json */; };
+		B916DB611D81CEA40001A9B0 /* sidewalkCafe.json in Resources */ = {isa = PBXBuildFile; fileRef = B916DB5B1D81CEA40001A9B0 /* sidewalkCafe.json */; };
+		B916DB621D81CEA40001A9B0 /* speedcamera.json in Resources */ = {isa = PBXBuildFile; fileRef = B916DB5C1D81CEA40001A9B0 /* speedcamera.json */; };
+		B916DB631D81CEA40001A9B0 /* trains.json in Resources */ = {isa = PBXBuildFile; fileRef = B916DB5D1D81CEA40001A9B0 /* trains.json */; };
 		D4083E141CDAA5E1007E2950 /* publicArt.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4083E131CDAA5E1007E2950 /* publicArt.swift */; };
 		D41283BB1CBF19FC002EF8DA /* DownloadDataOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D41283BA1CBF19FC002EF8DA /* DownloadDataOperation.swift */; };
 		D4385EC31CDA158C00784EE2 /* composting.json in Resources */ = {isa = PBXBuildFile; fileRef = D4385EC01CDA158C00784EE2 /* composting.json */; };
@@ -55,6 +62,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B916DB561D81CE950001A9B0 /* CafeObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CafeObject.swift; path = OpenData/CafeObject.swift; sourceTree = "<group>"; };
+		B916DB581D81CEA40001A9B0 /* landmarks.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = landmarks.json; path = OpenData/landmarks.json; sourceTree = "<group>"; };
+		B916DB591D81CEA40001A9B0 /* parking.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = parking.json; path = OpenData/parking.json; sourceTree = "<group>"; };
+		B916DB5A1D81CEA40001A9B0 /* rats.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = rats.json; path = OpenData/rats.json; sourceTree = "<group>"; };
+		B916DB5B1D81CEA40001A9B0 /* sidewalkCafe.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = sidewalkCafe.json; path = OpenData/sidewalkCafe.json; sourceTree = "<group>"; };
+		B916DB5C1D81CEA40001A9B0 /* speedcamera.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = speedcamera.json; path = OpenData/speedcamera.json; sourceTree = "<group>"; };
+		B916DB5D1D81CEA40001A9B0 /* trains.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = trains.json; path = OpenData/trains.json; sourceTree = "<group>"; };
 		D4083E131CDAA5E1007E2950 /* publicArt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = publicArt.swift; sourceTree = "<group>"; };
 		D41283BA1CBF19FC002EF8DA /* DownloadDataOperation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DownloadDataOperation.swift; sourceTree = "<group>"; };
 		D4385EC01CDA158C00784EE2 /* composting.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = composting.json; sourceTree = "<group>"; };
@@ -117,6 +131,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B916DB641D81CEB60001A9B0 /* DMV */ = {
+			isa = PBXGroup;
+			children = (
+				B916DB561D81CE950001A9B0 /* CafeObject.swift */,
+				B916DB581D81CEA40001A9B0 /* landmarks.json */,
+				B916DB591D81CEA40001A9B0 /* parking.json */,
+				B916DB5A1D81CEA40001A9B0 /* rats.json */,
+				B916DB5B1D81CEA40001A9B0 /* sidewalkCafe.json */,
+				B916DB5C1D81CEA40001A9B0 /* speedcamera.json */,
+				B916DB5D1D81CEA40001A9B0 /* trains.json */,
+			);
+			name = DMV;
+			sourceTree = "<group>";
+		};
 		D4385EBF1CDA158C00784EE2 /* Seattle */ = {
 			isa = PBXGroup;
 			children = (
@@ -157,6 +185,7 @@
 		D46387061C9B51AA00CBDAAD /* DataObjects */ = {
 			isa = PBXGroup;
 			children = (
+				B916DB641D81CEB60001A9B0 /* DMV */,
 				D4385EBF1CDA158C00784EE2 /* Seattle */,
 				D451E9C51CB67AAF00A05682 /* Austin */,
 				D451E9CC1CB67AAF00A05682 /* Chicago */,
@@ -340,8 +369,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				D451E9D71CB67AAF00A05682 /* Food.json in Resources */,
+				B916DB601D81CEA40001A9B0 /* rats.json in Resources */,
 				D49506A31CB83043004B5C7D /* BarberShops.json in Resources */,
 				D4385EC51CDA158C00784EE2 /* publicArt.json in Resources */,
+				B916DB5F1D81CEA40001A9B0 /* parking.json in Resources */,
+				B916DB5E1D81CEA40001A9B0 /* landmarks.json in Resources */,
 				D451E9D81CB67AAF00A05682 /* Landmarks.json in Resources */,
 				D498BDC91C9AD25B00B8FEFC /* LaunchScreen.storyboard in Resources */,
 				D451E9D91CB67AAF00A05682 /* Parks_Ammenities.json in Resources */,
@@ -350,8 +382,11 @@
 				D451E9D21CB67AAF00A05682 /* BuildingPermits.json in Resources */,
 				D451E9DA1CB67AAF00A05682 /* RedLight.json in Resources */,
 				D498BDC61C9AD25B00B8FEFC /* Assets.xcassets in Resources */,
+				B916DB611D81CEA40001A9B0 /* sidewalkCafe.json in Resources */,
 				D451E9D61CB67AAF00A05682 /* Farmers2015.json in Resources */,
 				D4385EC31CDA158C00784EE2 /* composting.json in Resources */,
+				B916DB621D81CEA40001A9B0 /* speedcamera.json in Resources */,
+				B916DB631D81CEA40001A9B0 /* trains.json in Resources */,
 				D498BDC41C9AD25B00B8FEFC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -378,6 +413,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D498BDC11C9AD25B00B8FEFC /* MapViewController.swift in Sources */,
+				B916DB571D81CE950001A9B0 /* CafeObject.swift in Sources */,
 				D445EE421CA4021000786CA3 /* CustomTableViewCell.swift in Sources */,
 				D4AFF8461CBF16A3008B5F48 /* LandmarkEntry.swift in Sources */,
 				D498BDBD1C9AD25B00B8FEFC /* AppDelegate.swift in Sources */,

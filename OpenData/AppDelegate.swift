@@ -10,7 +10,7 @@ import UIKit
 import MapKit
 
 struct DataConstants {
-    static let kDataFileName = ""
+    static let kDataFileName = "sidewalkCafe.json"
     static let kDataRemoteURL = NSURL(string:"") //NSURL(string:"<#And This#>")
 }
 
@@ -42,23 +42,23 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         
         //Read the header info about checkResourceIsReachableAndReturnError for a note about efficiency.
-        //            var err : NSError? = nil
-        
-        //            if !destinationURL.checkResourceIsReachableAndReturnError(&err) {
-        //
-        let sourceURL = NSBundle.mainBundle().URLForResource(DataConstants.kDataFileName, withExtension: "")!
+                    var err : NSError? = nil
         let destinationURL = fetchDestinationURL()
+                    if !destinationURL.checkResourceIsReachableAndReturnError(&err) {
+        
+        let sourceURL = NSBundle.mainBundle().URLForResource(DataConstants.kDataFileName, withExtension: "")!
+        
 
         do{
             try NSFileManager.defaultManager().copyItemAtURL(sourceURL, toURL: destinationURL)
         } catch let error as NSError {
             print ("could not copy file because of \(error.localizedDescription)")
         }
+
+                    } else {
+                        print("An error occurred when we tried to find the file \(err.debugDescription)")
+                    }
         
-        //            } else {
-        //                print("An error occurred when we tried to find the file \(err.debugDescription)")
-        //            }
-        //
         populateArrays()
         
         
@@ -76,10 +76,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         if let data = NSData(contentsOfURL:fileURL) {
             do {
                 
-                let dataList = try NSJSONSerialization.JSONObjectWithData(data, options: NSJSONReadingOptions.AllowFragments) as? Array<Dictionary<String,AnyObject>>
+                let data = try NSJSONSerialization.JSONObjectWithData(data, options: NSJSONReadingOptions.AllowFragments)
+                let dataList = data["features"] as? Array<Dictionary<String,AnyObject>>
                 
                 for entry in dataList! {
-                    let populatedEntry = ArtInstallation.init(dictionary: entry)
+                    let populatedEntry = CafeObject.init(entry: entry)
                     self.listForTableView.append(populatedEntry)
                     self.listForMapView.append(populatedEntry)
                 }
