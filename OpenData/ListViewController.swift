@@ -27,9 +27,6 @@ class ListViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         NotificationCenter.default.addObserver(self, selector: #selector(ListViewController.reload), name: NSNotification.Name(rawValue: Notifications.ARRAYS_RELOADED), object: nil)
 
-        self.title = ""
-
-
         self.tableView.dataSource = self
         self.tableView.delegate = self
         
@@ -40,10 +37,6 @@ class ListViewController: UIViewController {
          **/
     }
 
-    override func viewDidAppear(_ animated: Bool) {
-        super.viewDidAppear(animated)
-
-    }
     
     func reload() {
         self.tableView.reloadData()

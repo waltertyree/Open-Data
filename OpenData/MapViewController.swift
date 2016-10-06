@@ -24,7 +24,7 @@ class MapViewController: UIViewController, CLLocationManagerDelegate {
         mapView.delegate = self
         mapView.addAnnotations(applicationDelegate.listForMapView)
         
-        //NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(MapViewController.reload), name: Notifications.ARRAYS_RELOADED, object: nil)
+        NotificationCenter.default.addObserver(self, selector: #selector(MapViewController.reload), name: NSNotification.Name(rawValue: Notifications.ARRAYS_RELOADED), object: nil)
     }
 
 
@@ -38,31 +38,20 @@ class MapViewController: UIViewController, CLLocationManagerDelegate {
 
     }
     
-   /* deinit {
-        NSNotificationCenter.defaultCenter().removeObserver(self)
+   deinit {
+        NotificationCenter.default.removeObserver(self)
     }
     
     func reload() {
         mapView.showAnnotations(applicationDelegate.listForMapView, animated: true)
     }
-    
-    override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
-        if segue.identifier == "showDetail" {
-        let detailView = segue.destinationViewController as? DetailViewController
-        detailView?.artItem = sender as? ArtInstallation
-            detailView?.doneButtonHidden = false
-        }
-    }
-    
 
-    */
-    
     func locationManager(_ manager: CLLocationManager, didChangeAuthorization status: CLAuthorizationStatus) {
         
     }
     
     func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
-        print(locations.last)
+        print(locations.last ?? CLLocation(latitude: 0.0, longitude: 0.0))
     }
 }
 
@@ -72,20 +61,23 @@ extension MapViewController : MKMapViewDelegate {
     func mapView(_ mapView: MKMapView, viewFor annotation: MKAnnotation) -> MKAnnotationView? {
         let theView = MKPinAnnotationView(annotation: annotation, reuseIdentifier: "place")
 //        theView.canShowCallout = true
-//        theView.rightCalloutAccessoryView = UIButton(type: .DetailDisclosure)
+//        theView.rightCalloutAccessoryView = UIButton(type: .detailDisclosure)
     return theView
         
     }
      
-     
+/*
     func mapView(_ mapView: MKMapView, annotationView view: MKAnnotationView, calloutAccessoryControlTapped control: UIControl) {
         print("I was tapped")
-        //self.performSegueWithIdentifier("showDetail", sender: view.annotation)
+        if let navigationController = self.navigationController, let detailVC = UIStoryboard(name: "Main", bundle: Bundle.main).instantiateViewController(withIdentifier: "DetailViewController") as? DetailViewController {
+            detailVC.artItem = view.annotation as? ArtInstallation
+            navigationController.pushViewController(detailVC, animated: true)
+        }
     }
     
     func mapView(_ mapView: MKMapView, didSelect view: MKAnnotationView) {
         print("I was selected")
     }
-    
+  */
 }
 
