@@ -28,9 +28,9 @@ class DetailViewController: UIViewController {
         artItem = nil
     }
     
-    override func viewWillAppear(animated: Bool) {
+    override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        self.doneButton.hidden = self.doneButtonHidden
+        self.doneButton.isHidden = self.doneButtonHidden
         
         self.titleOfTheArt.text = self.artItem?.artTitle
         self.descriptionOfTheArt.text = self.artItem?.itemDescription

@@ -28,7 +28,7 @@ import UIKit
 class LandmarkEntry: NSObject {
     let architect : String
     let id : String
-    let designationDate : NSDate
+    let designationDate : Date
     let address : String
     let landmarkName : String
     let longitude : Double
@@ -49,9 +49,9 @@ class LandmarkEntry: NSObject {
         }
 
         if let localDesignationDate = dictionary["landmark_designation_date"] as? Double {
-            self.designationDate = NSDate(timeIntervalSince1970: localDesignationDate)
+            self.designationDate = Date(timeIntervalSince1970: localDesignationDate)
         } else {
-            self.designationDate = NSDate(timeIntervalSince1970: 0.0)
+            self.designationDate = Date(timeIntervalSince1970: 0.0)
         }
         
         if let localAddress = dictionary["address"] as? String {

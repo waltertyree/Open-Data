@@ -29,6 +29,8 @@
 		D451E9D91CB67AAF00A05682 /* Parks_Ammenities.json in Resources */ = {isa = PBXBuildFile; fileRef = D451E9D01CB67AAF00A05682 /* Parks_Ammenities.json */; };
 		D451E9DA1CB67AAF00A05682 /* RedLight.json in Resources */ = {isa = PBXBuildFile; fileRef = D451E9D11CB67AAF00A05682 /* RedLight.json */; };
 		D451E9DC1CB67B2600A05682 /* ArtEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = D451E9DB1CB67B2600A05682 /* ArtEntry.swift */; };
+		D47DE49F1DA6791A00540072 /* building_permits.json in Resources */ = {isa = PBXBuildFile; fileRef = D47DE49E1DA6791A00540072 /* building_permits.json */; };
+		D47DE4A11DA6796400540072 /* NotesForSanJose.md in Sources */ = {isa = PBXBuildFile; fileRef = D47DE4A01DA6796400540072 /* NotesForSanJose.md */; };
 		D49506A31CB83043004B5C7D /* BarberShops.json in Resources */ = {isa = PBXBuildFile; fileRef = D49506A21CB83043004B5C7D /* BarberShops.json */; };
 		D498BDBD1C9AD25B00B8FEFC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D498BDBC1C9AD25B00B8FEFC /* AppDelegate.swift */; };
 		D498BDBF1C9AD25B00B8FEFC /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D498BDBE1C9AD25B00B8FEFC /* ListViewController.swift */; };
@@ -84,6 +86,8 @@
 		D451E9D01CB67AAF00A05682 /* Parks_Ammenities.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Parks_Ammenities.json; sourceTree = "<group>"; };
 		D451E9D11CB67AAF00A05682 /* RedLight.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = RedLight.json; sourceTree = "<group>"; };
 		D451E9DB1CB67B2600A05682 /* ArtEntry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtEntry.swift; sourceTree = "<group>"; };
+		D47DE49E1DA6791A00540072 /* building_permits.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = building_permits.json; path = SanJose/building_permits.json; sourceTree = "<group>"; };
+		D47DE4A01DA6796400540072 /* NotesForSanJose.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = NotesForSanJose.md; sourceTree = "<group>"; };
 		D49506A21CB83043004B5C7D /* BarberShops.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = BarberShops.json; sourceTree = "<group>"; };
 		D498BDB91C9AD25B00B8FEFC /* OpenData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OpenData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D498BDBC1C9AD25B00B8FEFC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -185,12 +189,22 @@
 		D46387061C9B51AA00CBDAAD /* DataObjects */ = {
 			isa = PBXGroup;
 			children = (
+				D47DE49D1DA6790700540072 /* SanJose */,
 				B916DB641D81CEB60001A9B0 /* DMV */,
 				D4385EBF1CDA158C00784EE2 /* Seattle */,
 				D451E9C51CB67AAF00A05682 /* Austin */,
 				D451E9CC1CB67AAF00A05682 /* Chicago */,
 			);
 			name = DataObjects;
+			sourceTree = "<group>";
+		};
+		D47DE49D1DA6790700540072 /* SanJose */ = {
+			isa = PBXGroup;
+			children = (
+				D47DE49E1DA6791A00540072 /* building_permits.json */,
+				D47DE4A01DA6796400540072 /* NotesForSanJose.md */,
+			);
+			name = SanJose;
 			sourceTree = "<group>";
 		};
 		D498BDB01C9AD25B00B8FEFC = {
@@ -321,12 +335,13 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
-				LastUpgradeCheck = 0720;
+				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = "Tyree Apps, LLC";
 				TargetAttributes = {
 					D498BDB81C9AD25B00B8FEFC = {
 						CreatedOnToolsVersion = 7.2.1;
 						DevelopmentTeam = K75NL9T9H7;
+						LastSwiftMigration = 0800;
 						SystemCapabilities = {
 							com.apple.Maps.iOS = {
 								enabled = 1;
@@ -335,10 +350,12 @@
 					};
 					D498BDCE1C9AD25B00B8FEFC = {
 						CreatedOnToolsVersion = 7.2.1;
+						LastSwiftMigration = 0800;
 						TestTargetID = D498BDB81C9AD25B00B8FEFC;
 					};
 					D498BDD91C9AD25B00B8FEFC = {
 						CreatedOnToolsVersion = 7.2.1;
+						LastSwiftMigration = 0800;
 						TestTargetID = D498BDB81C9AD25B00B8FEFC;
 					};
 				};
@@ -381,6 +398,7 @@
 				D451E9D31CB67AAF00A05682 /* CityArtworks.json in Resources */,
 				D451E9D21CB67AAF00A05682 /* BuildingPermits.json in Resources */,
 				D451E9DA1CB67AAF00A05682 /* RedLight.json in Resources */,
+				D47DE49F1DA6791A00540072 /* building_permits.json in Resources */,
 				D498BDC61C9AD25B00B8FEFC /* Assets.xcassets in Resources */,
 				B916DB611D81CEA40001A9B0 /* sidewalkCafe.json in Resources */,
 				D451E9D61CB67AAF00A05682 /* Farmers2015.json in Resources */,
@@ -417,6 +435,7 @@
 				D445EE421CA4021000786CA3 /* CustomTableViewCell.swift in Sources */,
 				D4AFF8461CBF16A3008B5F48 /* LandmarkEntry.swift in Sources */,
 				D498BDBD1C9AD25B00B8FEFC /* AppDelegate.swift in Sources */,
+				D47DE4A11DA6796400540072 /* NotesForSanJose.md in Sources */,
 				D4AFF8451CBF16A3008B5F48 /* FoodInspection.swift in Sources */,
 				D4083E141CDAA5E1007E2950 /* publicArt.swift in Sources */,
 				D498BDBF1C9AD25B00B8FEFC /* ListViewController.swift in Sources */,
@@ -491,8 +510,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -536,8 +557,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -556,6 +579,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -571,6 +595,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dartonion.OpenData;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -584,6 +609,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dartonion.OpenData;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -595,6 +621,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tyreeapps.OpenDataTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OpenData.app/OpenData";
 			};
 			name = Debug;
@@ -607,6 +634,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tyreeapps.OpenDataTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OpenData.app/OpenData";
 			};
 			name = Release;
@@ -618,6 +646,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tyreeapps.OpenDataUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = OpenData;
 				USES_XCTRUNNER = YES;
 			};
@@ -630,6 +659,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.tyreeapps.OpenDataUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = OpenData;
 				USES_XCTRUNNER = YES;
 			};

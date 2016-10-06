@@ -57,10 +57,10 @@ struct LocationStruct {
         }
         
         if let address = dict["human_address"] as? String {
-            if let data = address.dataUsingEncoding(NSUTF8StringEncoding) {
+            if let data = address.data(using: String.Encoding.utf8) {
                 do {
                     
-                    let dataDictionary = try NSJSONSerialization.JSONObjectWithData(data, options: NSJSONReadingOptions.AllowFragments) as? Dictionary<String,AnyObject>
+                    let dataDictionary = try JSONSerialization.jsonObject(with: data, options: JSONSerialization.ReadingOptions.allowFragments) as? Dictionary<String,AnyObject>
                     readable = dataDictionary
                 } catch let error {
                     print(error)
@@ -74,19 +74,22 @@ struct LocationStruct {
         }
         
         if self.latitude == kDefaultLatitude && self.longitude == kDefaultLongitude {
-            self.locationFromAddress()
+            let location = self.locationFromAddress()
+            self.latitude = location.latitude
+            self.longitude = location.longitude
         }
     }
     
-    mutating func locationFromAddress() {
+    func locationFromAddress() -> CLLocationCoordinate2D {
+
+        var locationToReturn = CLLocationCoordinate2D(latitude:kDefaultLatitude, longitude:kDefaultLongitude)
 
         CLGeocoder().geocodeAddressString("\(readable["address"]) \(readable["city"]), \(readable["state"])  \(readable["zip"])") {(placemarks, error) in
-            if let placemark = placemarks?.first, plLocation = placemark.location {
-                self.latitude = plLocation.coordinate.latitude
-                self.longitude = plLocation.coordinate.longitude
+            if let placemark = placemarks?.first, let plLocation = placemark.location {
+               locationToReturn = plLocation.coordinate
             }
         }
-       
+        return locationToReturn
     }
 }
 
@@ -94,11 +97,11 @@ class ArtEntry: NSObject {
     let artistFullName : String?
     var artLocationCity : String? {
         willSet {
-            willChangeValueForKey("artLocationCity")
+            willChangeValue(forKey: "artLocationCity")
         }
         
         didSet {
-            didChangeValueForKey("artLocationCity")
+            didChangeValue(forKey: "artLocationCity")
         }
 
     }
@@ -119,7 +122,7 @@ class ArtEntry: NSObject {
         self.artLocationZip = dictionary["art_location_zip"] as? String
         self.artTitle = dictionary["art_title"] as? String
         if let imagesString = dictionary["images"] as? String {
-            self.artImages = imagesString.characters.split(";").map(String.init)
+            self.artImages = imagesString.characters.split(separator: ";").map(String.init)
         } else {
             self.artImages = nil
         }

@@ -12,7 +12,7 @@ import MapKit
 
 class MapViewController: UIViewController, CLLocationManagerDelegate {
 
-    let applicationDelegate = UIApplication.sharedApplication().delegate as! AppDelegate
+    let applicationDelegate = UIApplication.shared.delegate as! AppDelegate
 
     @IBOutlet weak var mapView : MKMapView!
     var locationManager = CLLocationManager()
@@ -28,7 +28,7 @@ class MapViewController: UIViewController, CLLocationManagerDelegate {
     }
 
 
-    override func viewWillAppear(animated: Bool) {
+    override func viewWillAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         
         locationManager.requestWhenInUseAuthorization()
@@ -54,28 +54,22 @@ class MapViewController: UIViewController, CLLocationManagerDelegate {
         }
     }
     
-    @IBAction func unwindToMap(sender: UIStoryboardSegue)
-    {
-        let sourceViewController = sender.sourceViewController as? DetailViewController
-        sourceViewController?.doneButton.hidden = true
-        // Pull any data from the view controller which initiated the unwind segue.
-        
-    }
+
     */
     
-    func locationManager(manager: CLLocationManager, didChangeAuthorizationStatus status: CLAuthorizationStatus) {
+    func locationManager(_ manager: CLLocationManager, didChangeAuthorization status: CLAuthorizationStatus) {
         
     }
     
-    func locationManager(manager: CLLocationManager, didUpdateToLocation newLocation: CLLocation, fromLocation oldLocation: CLLocation) {
-        print(newLocation)
+    func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
+        print(locations.last)
     }
 }
 
 extension MapViewController : MKMapViewDelegate {
     
     
-    func mapView(mapView: MKMapView, viewForAnnotation annotation: MKAnnotation) -> MKAnnotationView? {
+    func mapView(_ mapView: MKMapView, viewFor annotation: MKAnnotation) -> MKAnnotationView? {
         let theView = MKPinAnnotationView(annotation: annotation, reuseIdentifier: "place")
 //        theView.canShowCallout = true
 //        theView.rightCalloutAccessoryView = UIButton(type: .DetailDisclosure)
@@ -84,12 +78,12 @@ extension MapViewController : MKMapViewDelegate {
     }
      
      
-    func mapView(mapView: MKMapView, annotationView view: MKAnnotationView, calloutAccessoryControlTapped control: UIControl) {
+    func mapView(_ mapView: MKMapView, annotationView view: MKAnnotationView, calloutAccessoryControlTapped control: UIControl) {
         print("I was tapped")
         //self.performSegueWithIdentifier("showDetail", sender: view.annotation)
     }
     
-    func mapView(mapView: MKMapView, didSelectAnnotationView view: MKAnnotationView) {
+    func mapView(_ mapView: MKMapView, didSelect view: MKAnnotationView) {
         print("I was selected")
     }
     
