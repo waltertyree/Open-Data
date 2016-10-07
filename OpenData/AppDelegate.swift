@@ -10,7 +10,7 @@ import UIKit
 import MapKit
 
 struct DataConstants {
-    static let kDataFileName = "sidewalkCafe.json"
+    static let kDataFileName = "heritage_trees.json"
     static let kDataRemoteURL = URL(string:"") //NSURL(string:"<#And This#>")
 }
 
@@ -78,12 +78,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         if let fileURL = fetchDestinationURL(), let data = try? Data(contentsOf: fileURL) {
             do {
                 
-                let data: Dictionary<String, AnyObject> = try JSONSerialization.jsonObject(with: data, options: JSONSerialization.ReadingOptions.allowFragments) as! Dictionary<String, AnyObject>
+                let data: Array<Dictionary<String, AnyObject>> = try JSONSerialization.jsonObject(with: data, options: JSONSerialization.ReadingOptions.allowFragments) as! Array<Dictionary<String, AnyObject>>
                 
-                let dataList = data["features"] as? Array<Dictionary<String,AnyObject>>
                 
-                for entry in dataList! {
-                    let populatedEntry = CafeObject.init(entry: entry)
+                for entry in data {
+                    let populatedEntry = HeratigeTree(withDictionary: entry)
                     self.listForTableView.append(populatedEntry)
                     self.listForMapView.append(populatedEntry)
                 }

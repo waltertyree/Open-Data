@@ -31,6 +31,9 @@
 		D451E9DC1CB67B2600A05682 /* ArtEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = D451E9DB1CB67B2600A05682 /* ArtEntry.swift */; };
 		D47DE49F1DA6791A00540072 /* building_permits.json in Resources */ = {isa = PBXBuildFile; fileRef = D47DE49E1DA6791A00540072 /* building_permits.json */; };
 		D47DE4A11DA6796400540072 /* NotesForSanJose.md in Sources */ = {isa = PBXBuildFile; fileRef = D47DE4A01DA6796400540072 /* NotesForSanJose.md */; };
+		D47DE4A31DA6C9B100540072 /* alternative_fuels.json in Resources */ = {isa = PBXBuildFile; fileRef = D47DE4A21DA6C9B100540072 /* alternative_fuels.json */; };
+		D47DE4A51DA6D24E00540072 /* heritage_trees.json in Resources */ = {isa = PBXBuildFile; fileRef = D47DE4A41DA6D24E00540072 /* heritage_trees.json */; };
+		D47DE4A71DA709CC00540072 /* Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = D47DE4A61DA709CC00540072 /* Tree.swift */; };
 		D49506A31CB83043004B5C7D /* BarberShops.json in Resources */ = {isa = PBXBuildFile; fileRef = D49506A21CB83043004B5C7D /* BarberShops.json */; };
 		D498BDBD1C9AD25B00B8FEFC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D498BDBC1C9AD25B00B8FEFC /* AppDelegate.swift */; };
 		D498BDBF1C9AD25B00B8FEFC /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D498BDBE1C9AD25B00B8FEFC /* ListViewController.swift */; };
@@ -88,6 +91,9 @@
 		D451E9DB1CB67B2600A05682 /* ArtEntry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtEntry.swift; sourceTree = "<group>"; };
 		D47DE49E1DA6791A00540072 /* building_permits.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = building_permits.json; path = SanJose/building_permits.json; sourceTree = "<group>"; };
 		D47DE4A01DA6796400540072 /* NotesForSanJose.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = NotesForSanJose.md; sourceTree = "<group>"; };
+		D47DE4A21DA6C9B100540072 /* alternative_fuels.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = alternative_fuels.json; path = SanJose/alternative_fuels.json; sourceTree = "<group>"; };
+		D47DE4A41DA6D24E00540072 /* heritage_trees.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = heritage_trees.json; path = SanJose/heritage_trees.json; sourceTree = "<group>"; };
+		D47DE4A61DA709CC00540072 /* Tree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Tree.swift; path = SanJose/Tree.swift; sourceTree = "<group>"; };
 		D49506A21CB83043004B5C7D /* BarberShops.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = BarberShops.json; sourceTree = "<group>"; };
 		D498BDB91C9AD25B00B8FEFC /* OpenData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OpenData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D498BDBC1C9AD25B00B8FEFC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -201,8 +207,11 @@
 		D47DE49D1DA6790700540072 /* SanJose */ = {
 			isa = PBXGroup;
 			children = (
+				D47DE4A41DA6D24E00540072 /* heritage_trees.json */,
+				D47DE4A21DA6C9B100540072 /* alternative_fuels.json */,
 				D47DE49E1DA6791A00540072 /* building_permits.json */,
 				D47DE4A01DA6796400540072 /* NotesForSanJose.md */,
+				D47DE4A61DA709CC00540072 /* Tree.swift */,
 			);
 			name = SanJose;
 			sourceTree = "<group>";
@@ -387,6 +396,7 @@
 			files = (
 				D451E9D71CB67AAF00A05682 /* Food.json in Resources */,
 				B916DB601D81CEA40001A9B0 /* rats.json in Resources */,
+				D47DE4A51DA6D24E00540072 /* heritage_trees.json in Resources */,
 				D49506A31CB83043004B5C7D /* BarberShops.json in Resources */,
 				D4385EC51CDA158C00784EE2 /* publicArt.json in Resources */,
 				B916DB5F1D81CEA40001A9B0 /* parking.json in Resources */,
@@ -398,6 +408,7 @@
 				D451E9D31CB67AAF00A05682 /* CityArtworks.json in Resources */,
 				D451E9D21CB67AAF00A05682 /* BuildingPermits.json in Resources */,
 				D451E9DA1CB67AAF00A05682 /* RedLight.json in Resources */,
+				D47DE4A31DA6C9B100540072 /* alternative_fuels.json in Resources */,
 				D47DE49F1DA6791A00540072 /* building_permits.json in Resources */,
 				D498BDC61C9AD25B00B8FEFC /* Assets.xcassets in Resources */,
 				B916DB611D81CEA40001A9B0 /* sidewalkCafe.json in Resources */,
@@ -437,6 +448,7 @@
 				D498BDBD1C9AD25B00B8FEFC /* AppDelegate.swift in Sources */,
 				D47DE4A11DA6796400540072 /* NotesForSanJose.md in Sources */,
 				D4AFF8451CBF16A3008B5F48 /* FoodInspection.swift in Sources */,
+				D47DE4A71DA709CC00540072 /* Tree.swift in Sources */,
 				D4083E141CDAA5E1007E2950 /* publicArt.swift in Sources */,
 				D498BDBF1C9AD25B00B8FEFC /* ListViewController.swift in Sources */,
 				D451E9DC1CB67B2600A05682 /* ArtEntry.swift in Sources */,

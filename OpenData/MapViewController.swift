@@ -31,10 +31,11 @@ class MapViewController: UIViewController, CLLocationManagerDelegate {
     override func viewWillAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         
-        locationManager.requestWhenInUseAuthorization()
-        locationManager.startUpdatingLocation()
-        
+//        locationManager.requestWhenInUseAuthorization()
+//        locationManager.startUpdatingLocation()
+//        
         mapView.showAnnotations(applicationDelegate.listForMapView, animated: true)
+        self.reload()
 
     }
     

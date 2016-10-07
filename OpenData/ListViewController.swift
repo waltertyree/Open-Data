@@ -8,7 +8,7 @@
 
 import UIKit
 
-protocol Listable : class {
+protocol Listable {
     func itemTitle() -> String
     
 }
