@@ -42,25 +42,25 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         
         //Read the header info about checkResourceIsReachableAndReturnError for a note about efficiency.
-                    var err : NSError? = nil
+        var err : NSError? = nil
         guard let destinationURL = fetchDestinationURL() else {
             return false
         }
         
-                    if !(destinationURL as NSURL).checkResourceIsReachableAndReturnError(&err) {
-        
-        let sourceURL = Bundle.main.url(forResource: DataConstants.kDataFileName, withExtension: "")!
-        
-
-        do{
-            try FileManager.default.copyItem(at: sourceURL, to: destinationURL)
-        } catch let error as NSError {
-            print ("could not copy file because of \(error.localizedDescription)")
+        if !(destinationURL as NSURL).checkResourceIsReachableAndReturnError(&err) {
+            
+            let sourceURL = Bundle.main.url(forResource: DataConstants.kDataFileName, withExtension: "")!
+            
+            
+            do{
+                try FileManager.default.copyItem(at: sourceURL, to: destinationURL)
+            } catch let error as NSError {
+                print ("could not copy file because of \(error.localizedDescription)")
+            }
+            
+        } else {
+            print("An error occurred when we tried to find the file \(err.debugDescription)")
         }
-
-                    } else {
-                        print("An error occurred when we tried to find the file \(err.debugDescription)")
-                    }
         
         populateArrays()
         
@@ -109,11 +109,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
     
     fileprivate func fetchDocumentsDirectoryURL() -> URL? {
-
+        
         let documentsURL = try? FileManager.default.url(for: .documentDirectory, in: .userDomainMask, appropriateFor: nil, create: false)
-
+        
         return documentsURL
-
+        
     }
     
     func applicationWillResignActive(_ application: UIApplication) {

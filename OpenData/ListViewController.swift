@@ -17,7 +17,7 @@ class ListViewController: UIViewController {
     
     let applicationDelegate = UIApplication.shared.delegate as! AppDelegate
     var detailViewController : DetailViewController?
-
+    
     @IBOutlet weak var tableView : UITableView!
     
     
@@ -26,17 +26,17 @@ class ListViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         NotificationCenter.default.addObserver(self, selector: #selector(ListViewController.reload), name: NSNotification.Name(rawValue: Notifications.ARRAYS_RELOADED), object: nil)
-
+        
         self.tableView.dataSource = self
         self.tableView.delegate = self
         
         /**
-        applicationDelegate.listForTableView.sortInPlace { (anItem, aSecondItem)-> Bool in
-            anItem.itemTitle() < aSecondItem.itemTitle()
-        }
+         applicationDelegate.listForTableView.sortInPlace { (anItem, aSecondItem)-> Bool in
+         anItem.itemTitle() < aSecondItem.itemTitle()
+         }
          **/
     }
-
+    
     
     func reload() {
         self.tableView.reloadData()
@@ -80,7 +80,7 @@ extension ListViewController : UITableViewDelegate, UITableViewDataSource {
         }
         let cell = UITableViewCell(style: .default, reuseIdentifier: "cell")
         let item = applicationDelegate.listForTableView[(indexPath as NSIndexPath).row]
-            cell.textLabel?.text = item.itemTitle()
+        cell.textLabel?.text = item.itemTitle()
         return cell
     }
     
@@ -99,6 +99,6 @@ extension ListViewController : UITableViewDelegate, UITableViewDataSource {
  letterArray.append(fieldToIndex)
  indexedList[firstLetter]=indexArray
  }
-
+ 
  **/
 

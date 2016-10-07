@@ -9,7 +9,7 @@
 import UIKit
 
 class DetailViewController: UIViewController {
-
+    
     var artItem : ArtInstallation?
     
     override func viewDidLoad() {
@@ -24,7 +24,7 @@ class DetailViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
     }
-
-
-
+    
+    
+    
 }
