@@ -10,7 +10,7 @@ import UIKit
 
 class DetailViewController: UIViewController {
     
-    var artItem : ArtInstallation?
+    var tree : HeratigeTree?
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -18,7 +18,7 @@ class DetailViewController: UIViewController {
     }
     
     deinit {
-        artItem = nil
+        tree = nil
     }
     
     override func viewWillAppear(_ animated: Bool) {

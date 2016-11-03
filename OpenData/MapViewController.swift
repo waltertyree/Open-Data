@@ -71,7 +71,7 @@ extension MapViewController : MKMapViewDelegate {
      func mapView(_ mapView: MKMapView, annotationView view: MKAnnotationView, calloutAccessoryControlTapped control: UIControl) {
      print("I was tapped")
      if let navigationController = self.navigationController, let detailVC = UIStoryboard(name: "Main", bundle: Bundle.main).instantiateViewController(withIdentifier: "DetailViewController") as? DetailViewController {
-     detailVC.artItem = view.annotation as? ArtInstallation
+     detailVC.tree = view.annotation as? HeratigeTree
      navigationController.pushViewController(detailVC, animated: true)
      }
      }

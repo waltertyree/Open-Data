@@ -85,7 +85,7 @@ extension ListViewController : UITableViewDelegate, UITableViewDataSource {
     }
     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        self.detailViewController?.artItem = applicationDelegate.listForTableView[(indexPath as NSIndexPath).row] as? ArtInstallation
+        self.detailViewController?.tree = applicationDelegate.listForTableView[(indexPath as NSIndexPath).row] as? HeratigeTree
     }
     
 }
