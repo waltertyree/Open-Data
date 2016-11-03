@@ -252,7 +252,7 @@ class ParkAmenitiesEntry : NSObject {
         }
         var amenityArray = Array<Dictionary<Amenity,Int>>()
         for (keyName,countValue) in dictionary {
-            if let countValue = countValue as? String, integerCount = Int(countValue), amenity = Amenity(rawValue: keyName) {
+            if let countValue = countValue as? String, let integerCount = Int(countValue), let amenity = Amenity(rawValue: keyName) {
                 if integerCount > 0 {
                     amenityArray.append([amenity:integerCount])
                 }

@@ -9,7 +9,7 @@
 import Foundation
 
 
-public class ArtInstallation: NSObject {
+open class ArtInstallation: NSObject {
     let address : String?
     let artistFirstName : String?
     let artistLastName : String?

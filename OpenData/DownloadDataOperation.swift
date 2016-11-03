@@ -8,12 +8,12 @@
 
 import UIKit
 
-class DownloadDataOperation: NSOperation {
+class DownloadDataOperation: Operation {
     
-    let localFile : NSURL!
-    let dataSource : NSURL!
+    let localFile : URL!
+    let dataSource : URL!
     
-    init(source: NSURL?, file: NSURL?) {
+    init(source: URL?, file: URL?) {
         self.dataSource = source
         self.localFile = file
         super.init()
@@ -32,9 +32,9 @@ class DownloadDataOperation: NSOperation {
         
         
         
-        let request = NSURLRequest(URL:self.dataSource)
+        let request = URLRequest(url:self.dataSource)
 
-        NSURLSession.sharedSession().downloadTaskWithRequest(request) { (url, response, err) in
+        URLSession.shared.downloadTask(with: request, completionHandler: { (url, response, err) in
             
             
                 do {
@@ -42,18 +42,18 @@ class DownloadDataOperation: NSOperation {
                         throw err
                     }
             
-                try NSFileManager.defaultManager().removeItemAtURL(self.localFile)
-                try NSFileManager.defaultManager().copyItemAtURL(url!, toURL: self.localFile)
+                try FileManager.default.removeItem(at: self.localFile)
+                try FileManager.default.copyItem(at: url!, to: self.localFile)
                 
-                    dispatch_async(dispatch_get_main_queue(), { 
-                        NSNotificationCenter.defaultCenter().postNotificationName(Notifications.DOWNLOAD_COMPLETE, object: nil)
+                    DispatchQueue.main.async(execute: { 
+                        NotificationCenter.default.post(name: Notification.Name(rawValue: Notifications.DOWNLOAD_COMPLETE), object: nil)
                     })
 
                 } catch let error as NSError {
                     print("error is \(error)")
             }
                 print("Printing the response for debugging purposes \(response)")
-            }.resume()
+            }) .resume()
         
     }
 }

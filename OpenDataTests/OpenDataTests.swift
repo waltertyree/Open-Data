@@ -35,14 +35,14 @@ class OpenDataTests: XCTestCase {
     
     func testParsing() {
         
-        guard let data = self.testPayload.dataUsingEncoding(NSUTF8StringEncoding, allowLossyConversion: true) else {
+        guard let data = self.testPayload.data(using: String.Encoding.utf8, allowLossyConversion: true) else {
             XCTFail("String was not converted to data")
             return
         }
         
         do
         {
-        let anObjectJSON =  try NSJSONSerialization.JSONObjectWithData(data, options: NSJSONReadingOptions.AllowFragments) as! Dictionary<String,AnyObject>
+        let anObjectJSON =  try JSONSerialization.jsonObject(with: data, options: JSONSerialization.ReadingOptions.allowFragments) as! Dictionary<String,AnyObject>
             let artObject = ArtInstallation(dictionary: anObjectJSON)
             
             //Now test some stuff
@@ -56,14 +56,14 @@ class OpenDataTests: XCTestCase {
         // This is an example of a performance test case.
         
         
-        self.measureBlock {
+        self.measure {
 
-            let formatter = NSDateFormatter()
-            formatter.timeStyle = .NoStyle
-            formatter.dateStyle = .MediumStyle
+            let formatter = DateFormatter()
+            formatter.timeStyle = .none
+            formatter.dateStyle = .medium
             
 
-            print("Date is: \(formatter.stringFromDate(NSDate()))")
+            print("Date is: \(formatter.string(from: Date()))")
             
         }
     }
