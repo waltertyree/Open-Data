@@ -8,16 +8,16 @@
 
 import UIKit
 
-protocol Listable : class {
+protocol Listable {
     func itemTitle() -> String
     
 }
 
 class ListViewController: UIViewController {
     
-    let applicationDelegate = UIApplication.sharedApplication().delegate as! AppDelegate
+    let applicationDelegate = UIApplication.shared.delegate as! AppDelegate
     var detailViewController : DetailViewController?
-
+    
     @IBOutlet weak var tableView : UITableView!
     
     
@@ -25,74 +25,67 @@ class ListViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        NSNotificationCenter.defaultCenter().addObserver(self, selector: #selector(ListViewController.reload), name: Notifications.ARRAYS_RELOADED, object: nil)
-
-        self.title = ""
-
-
+        NotificationCenter.default.addObserver(self, selector: #selector(ListViewController.reload), name: NSNotification.Name(rawValue: Notifications.ARRAYS_RELOADED), object: nil)
+        
         self.tableView.dataSource = self
         self.tableView.delegate = self
         
         /**
-        applicationDelegate.listForTableView.sortInPlace { (anItem, aSecondItem)-> Bool in
-            anItem.itemTitle() < aSecondItem.itemTitle()
-        }
+         applicationDelegate.listForTableView.sortInPlace { (anItem, aSecondItem)-> Bool in
+         anItem.itemTitle() < aSecondItem.itemTitle()
+         }
          **/
     }
-
-    override func viewDidAppear(animated: Bool) {
-        super.viewDidAppear(animated)
-
-    }
+    
     
     func reload() {
         self.tableView.reloadData()
     }
     
-    override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
-        self.detailViewController = segue.destinationViewController as? DetailViewController
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        self.detailViewController = segue.destination as? DetailViewController
     }
     
     deinit {
-        NSNotificationCenter.defaultCenter().removeObserver(self)
+        NotificationCenter.default.removeObserver(self)
     }
 }
 
 extension ListViewController : UITableViewDelegate, UITableViewDataSource {
-    func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return applicationDelegate.listForTableView.count
     }
     
-    func tableView(tableView: UITableView, titleForHeaderInSection section: Int) -> String? {
+    func tableView(_ tableView: UITableView, titleForHeaderInSection section: Int) -> String? {
         return nil
     }
     
-    func numberOfSectionsInTableView(tableView: UITableView) -> Int {
+    func numberOfSections(in tableView: UITableView) -> Int {
         return 1
     }
     
-    func sectionIndexTitlesForTableView(tableView: UITableView) -> [String]? {
+    func sectionIndexTitles(for tableView: UITableView) -> [String]? {
         return nil
     }
     
     
     
-    func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         
-        if let reusedCell = tableView.dequeueReusableCellWithIdentifier("cell") {
-            let item = applicationDelegate.listForTableView[indexPath.row]
+        if let reusedCell = tableView.dequeueReusableCell(withIdentifier: "cell") {
+            let item = applicationDelegate.listForTableView[(indexPath as NSIndexPath).row]
             reusedCell.textLabel?.text = item.itemTitle()
             
             return reusedCell
         }
-        let cell = UITableViewCell(style: .Default, reuseIdentifier: "cell")
-        let item = applicationDelegate.listForTableView[indexPath.row]
-            cell.textLabel?.text = item.itemTitle()
+        let cell = UITableViewCell(style: .default, reuseIdentifier: "cell")
+        let item = applicationDelegate.listForTableView[(indexPath as NSIndexPath).row]
+        cell.textLabel?.text = item.itemTitle()
         return cell
     }
     
-    func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) {
-        self.detailViewController?.artItem = applicationDelegate.listForTableView[indexPath.row] as? ArtInstallation
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        self.detailViewController?.tree = applicationDelegate.listForTableView[(indexPath as NSIndexPath).row] as? HeratigeTree
     }
     
 }
@@ -106,6 +99,6 @@ extension ListViewController : UITableViewDelegate, UITableViewDataSource {
  letterArray.append(fieldToIndex)
  indexedList[firstLetter]=indexArray
  }
-
+ 
  **/
 

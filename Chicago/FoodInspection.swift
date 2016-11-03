@@ -41,7 +41,7 @@ class FoodInspectionEntry : NSObject {
     let city : String
     let aka_name : String
     let risk : String
-    let inspection_date : NSDate
+    let inspection_date : Date
     let results : String
     let address : String
     let longitude : Double
@@ -90,10 +90,10 @@ class FoodInspectionEntry : NSObject {
             self.risk = ""
         }
         
-        if let localInspection_date = dictionary["inspection_date"] as? NSDate {
+        if let localInspection_date = dictionary["inspection_date"] as? Date {
             self.inspection_date = localInspection_date
         } else {
-            self.inspection_date = NSDate(timeIntervalSince1970: 0)
+            self.inspection_date = Date(timeIntervalSince1970: 0)
         }
         
         if let localResults = dictionary["results"] as? String {
